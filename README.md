@@ -21,7 +21,7 @@ Their shit looks really real: https://kalamazootimes.com until you start looking
 - https://waterlootimes.com    
 - https://iowacitytoday.com    
 - https://phxreporter.com    
-- But wait, there's [700+ more](https://github.com/MassMove/AttackVectors/blob/master/LocalJournals/sites.csv)!
+- But wait, there's [700+ more](https://github.com/MassMove/AttackVectors/blob/master/LocalJournals)!
 
 Some quick Google-fu with a sentence from their about page:
 https://www.google.com/search?q=%22Metric+Media+was+established+to+fill+the+void+in+community+news+after+years+of+decline+in+local+reporting+by+legacy+media.%22&rlz=1C1GCEU_nlNL823NL823&filter=0
