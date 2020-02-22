@@ -21,7 +21,7 @@ Their shit looks really real: https://kalamazootimes.com until you start looking
 - https://waterlootimes.com    
 - https://iowacitytoday.com    
 - https://phxreporter.com    
-[700+ more](https://github.com/MassMove/AttackVectors/blob/master/LocalJournals/sites.csv).
+- But wait, there's [700+ more](https://github.com/MassMove/AttackVectors/blob/master/LocalJournals/sites.csv)!
 
 Some quick Google-fu with a sentence from their about page:
 https://www.google.com/search?q=%22Metric+Media+was+established+to+fill+the+void+in+community+news+after+years+of+decline+in+local+reporting+by+legacy+media.%22&rlz=1C1GCEU_nlNL823NL823&filter=0
@@ -32,7 +32,7 @@ https://www.google.com/search?q=%22Metric+Media+was+established+to+fill+the+void
 |:-----------|:-----------|:------------|:------------|:------------|
 3.218.216.245|akronreporter.com||
 3.218.216.245|andersonreporter.com||
-3.218.216.245|annarbortimes.com|https://business.facebook.com/Ann-Arbor-Times-105059500884218/| 43 people like this!?|
-3.218.216.245|battlecreektimes.com|https://business.facebook.com/Battle-Creek-Times-101371024590467/| 16 people like this!?|
+3.218.216.245|annarbortimes.com|https://business.facebook.com/Ann-Arbor-Times-105059500884218/?business_id=898179107217559|Ann Arbor Times| 43 people like this!?|
+3.218.216.245|battlecreektimes.com|https://business.facebook.com/Battle-Creek-Times-101371024590467/?business_id=898179107217559|Battle Creek Times| 16 people like this!?|
 
-[80+ with Facebook business_id's](https://github.com/MassMove/AttackVectors/blob/master/LocalJournals/sites.csv).
+But wait, there's [80+ with more with Facebook business_id's](https://github.com/MassMove/AttackVectors/blob/master/LocalJournals/sites.csv).
