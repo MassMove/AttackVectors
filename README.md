@@ -21,7 +21,7 @@ Their shit looks really real: https://kalamazootimes.com until you start looking
 - https://waterlootimes.com    
 - https://iowacitytoday.com    
 - https://phxreporter.com    
-- But wait, there's [700+ more](https://github.com/MassMove/AttackVectors/blob/master/LocalJournals/README.md)!
+- **But wait, there's [700+ more **we found from dumping domains hosted by the same servers on AWS (Amazon Web Services).](https://github.com/MassMove/AttackVectors/blob/master/LocalJournals/README.md) 
 
 Some quick Google-fu with a sentence from their about page:
 https://www.google.com/search?q=%22Metric+Media+was+established+to+fill+the+void+in+community+news+after+years+of+decline+in+local+reporting+by+legacy+media.%22&rlz=1C1GCEU_nlNL823NL823&filter=0
@@ -35,4 +35,4 @@ https://www.google.com/search?q=%22Metric+Media+was+established+to+fill+the+void
 3.218.216.245|annarbortimes.com|https://business.facebook.com/Ann-Arbor-Times-105059500884218/?business_id=898179107217559|Ann Arbor Times| 43 people like this!?|
 3.218.216.245|battlecreektimes.com|https://business.facebook.com/Battle-Creek-Times-101371024590467/?business_id=898179107217559|Battle Creek Times| 16 people like this!?|
 
-But wait, there's [80+ more with Facebook business_id's](https://github.com/MassMove/AttackVectors/blob/master/LocalJournals/sites.csv).
+**But wait, there's [80+ more with Facebook business_id's extracted from a crawl for related publications ("Other Publications"), Facebook pages, and Site names](https://github.com/MassMove/AttackVectors/blob/master/LocalJournals/sites.csv).** 
