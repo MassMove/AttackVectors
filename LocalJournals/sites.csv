@@ -691,6 +691,8 @@ awsOrigin,domain,facebookUrl,siteName
 3.224.13.68,westtwincities.com,https://business.facebook.com/West-Twin-Cities-101347867958302/?business_id=898179107217559,West Twin Cities
 3.224.13.68,wichitastandard.com,,
 3.224.13.68,wyandottetimes.com,,
+35.170.88.147,annearundeltoday.com,,Anne Arundel Today
+35.170.88.147,baltimorecitywire.com,https://www.facebook.com/,Baltimore City Wire
 35.170.88.147,carbondalereporter.com,https://www.facebook.com/Carbondale-Reporter-464661937077937/,Carbondale Reporter
 35.170.88.147,chambanasun.com,https://www.facebook.com/Chambana-Sun-399174026949103,Chambana Sun
 35.170.88.147,chicagocitywire.com,https://www.facebook.com/Chicago-City-Wire-145288335882139,Chicago City Wire
@@ -699,6 +701,8 @@ awsOrigin,domain,facebookUrl,siteName
 35.170.88.147,eastcentralreporter.com,https://www.facebook.com/East-Central-Reporter-1017551808288816,East Central Reporter
 35.170.88.147,galesburgreporter.com,https://www.facebook.com/GalesburgReporter/,Galesburg Reporter
 35.170.88.147,grundyreporter.com,https://www.facebook.com/Grundy-Reporter-111376299540998,Grundy Reporter
+35.170.88.147,harfordnews.com,https://www.facebook.com/,Harford News
+35.170.88.147,howardconews.com,https://www.facebook.com/,Howard County News
 35.170.88.147,illinoisvalleytimes.com,https://www.facebook.com/Illinois-Valley-Times-1544775089163392/,Illinois Valley Times
 35.170.88.147,kanecountyreporter.com,https://www.facebook.com/Kane-County-Reporter-113001215788482/,Kane County Reporter
 35.170.88.147,kankakeetimes.com,https://www.facebook.com/kankakeetimes,Kankakee Times
@@ -707,7 +711,10 @@ awsOrigin,domain,facebookUrl,siteName
 35.170.88.147,maconreporter.com,https://www.facebook.com/Macon-Reporter-915144198623038/,Macon Reporter
 35.170.88.147,mchenrytimes.com,https://www.facebook.com/McHenry-Times-1007855922605367,McHenry Times
 35.170.88.147,mcleancountytimes.com,https://www.facebook.com/McLean-County-Times-135405700298293,McLean County Times
+35.170.88.147,mdstatewire.com,https://www.facebook.com/,Maryland State Wire
 35.170.88.147,metroeastsun.com,https://www.facebook.com/metroeastsun,Metro East Sun
+35.170.88.147,montgomerymdnews.com,https://www.facebook.com/,Montgomery News
+35.170.88.147,northbaltimorejournal.com,https://www.facebook.com/,North Baltimore Journal
 35.170.88.147,northcooknews.com,https://www.facebook.com/North-Cook-News-1509066772752076,North Cook News
 35.170.88.147,northegyptnews.com,https://www.facebook.com/North-Egypt-News-2042181879445200/,North Egypt News
 35.170.88.147,nwillinoisnews.com,https://www.facebook.com/NW-Illinois-News-386241278410290,NW Illinois News
@@ -725,14 +732,14 @@ awsOrigin,domain,facebookUrl,siteName
 35.170.88.147,westcentralreporter.com,https://www.facebook.com/West-Central-Reporter-605712169581530,West Central Reporter
 35.170.88.147,westcooknews.com,https://www.facebook.com/West-Cook-News-337385456906651,West Cook News
 35.170.88.147,willcountygazette.com,https://www.facebook.com/Will-County-Gazette-1595575670754558/,Will County Gazette
-52.7.148.177,louisianarecord.com,https://www.facebook.com/LouisianaRecord/,Louisiana Record
-52.7.148.177,setexasrecord.com,https://www.facebook.com/SETexasRecord/,Southeast Texas Record
-52.7.148.177,socalrecord.com,,Southern California Record
-52.7.148.177,pennrecord.com,https://www.facebook.com/pages/Pennsylvania-Record/338776239487764,Pennsylvania Record
-52.7.148.177,norcalrecord.com,https://www.facebook.com/Northern-California-Record-975849335817140/,Northern California Record
-52.7.148.177,wvrecord.com,https://www.facebook.com/WVRecord,West Virginia Record
-52.7.148.177,stlrecord.com,https://www.facebook.com/stlrecord,St. Louis Record
-52.7.148.177,legalnewsline.com,https://www.facebook.com/pages/Legal-Newsline/299588323424419,Legal Newsline
 52.7.148.177,cookcountyrecord.com,https://www.facebook.com/cookcountyrecord,Cook County Record
 52.7.148.177,flarecord.com,https://www.facebook.com/Florida-Record-772624976214511/,Florida Record
+52.7.148.177,legalnewsline.com,https://www.facebook.com/pages/Legal-Newsline/299588323424419,Legal Newsline
+52.7.148.177,louisianarecord.com,https://www.facebook.com/LouisianaRecord/,Louisiana Record
 52.7.148.177,madisonrecord.com,https://www.facebook.com/pages/MadisonSt-Clair-Record/164779816968453,Madison - St. Clair Record
+52.7.148.177,norcalrecord.com,https://www.facebook.com/Northern-California-Record-975849335817140/,Northern California Record
+52.7.148.177,pennrecord.com,https://www.facebook.com/pages/Pennsylvania-Record/338776239487764,Pennsylvania Record
+52.7.148.177,setexasrecord.com,https://www.facebook.com/SETexasRecord/,Southeast Texas Record
+52.7.148.177,socalrecord.com,,Southern California Record
+52.7.148.177,stlrecord.com,https://www.facebook.com/stlrecord,St. Louis Record
+52.7.148.177,wvrecord.com,https://www.facebook.com/WVRecord,West Virginia Record
