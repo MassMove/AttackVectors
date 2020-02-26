@@ -1,10 +1,8 @@
 # Attack Vectors
 
-A repository to monitor attack vectors
+A repository to monitor attack vectors mentioned in the [billion-dollar disinformation campaign to reelect the president in 2020](https://www.theatlantic.com/magazine/archive/2020/03/the-2020-disinformation-war/605530/)
 
 ## Local Journalism
-
->Source: https://www.theatlantic.com/magazine/archive/2020/03/the-2020-disinformation-war/605530/
 
 >Parscale has indicated that he plans to open up a new front in this war: local news. Last year, he said the campaign intends to train “swarms of surrogates” to undermine negative coverage from local TV stations and newspapers. Polls have long found that Americans across the political spectrum trust local news more than national media. If the campaign has its way, that trust will be eroded by November.
 
@@ -55,8 +53,6 @@ From the Twitter Transparency Report:
 [12 more in the war room with further sources](https://www.reddit.com/r/MassMove/wiki/warroom)
 
 ## Websites resembling official campaigns
-
->Source: https://www.theatlantic.com/magazine/archive/2020/03/the-2020-disinformation-war/605530/
 
 >Last year, a website resembling an official Biden campaign page appeared on the internet. It emphasized elements of the candidate’s legislative record likely to hurt him in the Democratic primary—opposition to same-sex marriage, support for the Iraq War—and featured video clips of his awkward encounters with women. The site quickly became one of the most-visited Biden-related sites on the web. It was designed by a Trump consultant.
 
