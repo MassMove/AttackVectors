@@ -19,7 +19,7 @@ Findings:
 |52.7.148.177|wvrecord.com|https://www.facebook.com/WVRecord|West Virginia Record|3986|https://twitter.com/wvrecord|3990|
 |52.7.148.177setexasrecord.com|https://www.facebook.com/SETexasRecord/|Southeast Texas Record|1285|	https://twitter.com/setexasrecord|1136|
 
-**But wait, there's [700+ more with 270+ with Facebook pages and thousands of Facebook accounts](https://github.com/MassMove/AttackVectors/blob/master/LocalJournals/sites.csv).
+But wait, there's [700+ more with 270+ with Facebook pages and thousands of Facebook accounts](https://github.com/MassMove/AttackVectors/blob/master/LocalJournals/sites.csv).
 - https://kalamazootimes.com
 
 Their shit looks really real: https://kalamazootimes.com until you start looking at all the articles at once: https://kalamazootimes.com/stories/tag/126-politics
@@ -27,13 +27,11 @@ Their shit looks really real: https://kalamazootimes.com until you start looking
 Some quick Google-fu with a sentence from their about page:
 https://www.google.com/search?q=%22Metric+Media+was+established+to+fill+the+void+in+community+news+after+years+of+decline+in+local+reporting+by+legacy+media.%22&rlz=1C1GCEU_nlNL823NL823&filter=0
 
-## Websites resembling official campaigns
+## Legal Findings
 
->Source: https://www.theatlantic.com/magazine/archive/2020/03/the-2020-disinformation-war/605530/
+https://www.fec.gov/files/legal/murs/7148/19044475209.pdf
 
->Last year, a website resembling an official Biden campaign page appeared on the internet. It emphasized elements of the candidate’s legislative record likely to hurt him in the Democratic primary—opposition to same-sex marriage, support for the Iraq War—and featured video clips of his awkward encounters with women. The site quickly became one of the most-visited Biden-related sites on the web. It was designed by a Trump consultant.
-
-Nothing to report on this front yet.
+[Legal Findings](https://github.com/MassMove/AttackVectors/blob/master/LocalJournals/README.md)
 
 ## Twitter
 
@@ -56,8 +54,10 @@ From the Twitter Transparency Report:
 
 [12 more in the war room with further sources](https://www.reddit.com/r/MassMove/wiki/warroom)
 
-## Legal Findings
+## Websites resembling official campaigns
 
-https://www.fec.gov/files/legal/murs/7148/19044475209.pdf
+>Source: https://www.theatlantic.com/magazine/archive/2020/03/the-2020-disinformation-war/605530/
 
-[Legal Findings](https://github.com/MassMove/AttackVectors/blob/master/LocalJournals/README.md)
+>Last year, a website resembling an official Biden campaign page appeared on the internet. It emphasized elements of the candidate’s legislative record likely to hurt him in the Democratic primary—opposition to same-sex marriage, support for the Iraq War—and featured video clips of his awkward encounters with women. The site quickly became one of the most-visited Biden-related sites on the web. It was designed by a Trump consultant.
+
+Nothing to report on this front yet. Scouts?
