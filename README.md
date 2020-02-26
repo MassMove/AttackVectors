@@ -15,7 +15,7 @@ Findings:
 |3.218.216.245|annarbortimes.com	|https://business.facebook.com/Ann-Arbor-Times-105059500884218/?business_id=898179107217559|Ann Arbor Times| 43|
 |3.218.216.245|battlecreektimes.com|https://business.facebook.com/Battle-Creek-Times-101371024590467/?business_id=898179107217559|Battle Creek Times| 16 |
 |52.7.148.177|wvrecord.com|https://www.facebook.com/WVRecord|West Virginia Record|3986|https://twitter.com/wvrecord|3990|
-|52.7.148.177setexasrecord.com|https://www.facebook.com/SETexasRecord/|Southeast Texas Record|1285|	https://twitter.com/setexasrecord|1136|
+|52.7.148.177|setexasrecord.com|https://www.facebook.com/SETexasRecord/|Southeast Texas Record|1285|	https://twitter.com/setexasrecord|1136|
 
 But wait, there's [700+ more with 270+ with Facebook pages and thousands of Facebook accounts](https://github.com/MassMove/AttackVectors/blob/master/LocalJournals/sites.csv).
 - https://kalamazootimes.com
