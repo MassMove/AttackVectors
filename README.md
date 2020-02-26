@@ -29,7 +29,7 @@ https://www.google.com/search?q=%22Metric+Media+was+established+to+fill+the+void
 
 https://www.fec.gov/files/legal/murs/7148/19044475209.pdf
 
-[Legal Findings](https://github.com/MassMove/AttackVectors/blob/master/LocalJournals/README.md)
+[Legal Findings](https://github.com/MassMove/AttackVectors/blob/master/LocalJournals/LegalFindings.md)
 
 ## Twitter
 
