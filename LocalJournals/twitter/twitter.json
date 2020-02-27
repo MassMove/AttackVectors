@@ -1,0 +1,676 @@
+[
+    {
+        "data": {
+            "created_at": "2016-05-31T21:33:25.000Z",
+            "description": "Covering policy and local government in Carbondale and Jackson County, IL.",
+            "id": "737758908568084480",
+            "name": "Carbondale Reporter",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/737759120015515648/tGTAsGrS_normal.jpg",
+            "public_metrics": {
+                "followers_count": 143,
+                "following_count": 19,
+                "tweet_count": 1907,
+                "listed_count": 4
+            },
+            "url": "https://t.co/d6PafIBYYS",
+            "username": "carbondale_news",
+            "verified": false
+        }
+    },
+    {
+        "data": {
+            "created_at": "2015-11-18T13:19:32.000Z",
+            "description": "Covering policy and local government in Champaign County, IL.",
+            "id": "4218231520",
+            "name": "Chambana Sun",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/771354852894973952/3c9K6KVw_normal.jpg",
+            "public_metrics": {
+                "followers_count": 357,
+                "following_count": 171,
+                "tweet_count": 2974,
+                "listed_count": 24
+            },
+            "url": "https://t.co/qP4i29Avcs",
+            "username": "ChambanaSun",
+            "verified": false
+        }
+    },
+    {
+        "data": {
+            "created_at": "2016-05-31T20:57:21.000Z",
+            "description": "Covering policy and local government in Cook County, IL.",
+            "id": "737749833281216512",
+            "name": "Chicago City Wire",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/737751274393722880/UmDM9qWz_normal.jpg",
+            "public_metrics": {
+                "followers_count": 303,
+                "following_count": 19,
+                "tweet_count": 3450,
+                "listed_count": 6
+            },
+            "url": "https://t.co/HEJqddwywT",
+            "username": "chicago_wire",
+            "verified": false
+        }
+    },
+    {
+        "data": {
+            "created_at": "2017-01-20T21:18:39.000Z",
+            "description": "",
+            "id": "822553953795788801",
+            "name": "DeKalb Times",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/822554392297619460/ywxlNk-s_normal.jpg",
+            "public_metrics": {
+                "followers_count": 67,
+                "following_count": 0,
+                "tweet_count": 756,
+                "listed_count": 3
+            },
+            "url": "",
+            "username": "DeKalb_Times",
+            "verified": false
+        }
+    },
+    {
+        "data": {
+            "created_at": "2015-01-29T14:45:45.000Z",
+            "description": "Daily news on DuPage County's elected officials, their policies, and actions.",
+            "id": "3001471430",
+            "location": "DuPage County, IL",
+            "name": "DuPagePolicyJournal",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/771357644523089920/phCPhgQD_normal.jpg",
+            "public_metrics": {
+                "followers_count": 444,
+                "following_count": 260,
+                "tweet_count": 5060,
+                "listed_count": 9
+            },
+            "url": "http://t.co/WnzJMXvFRs",
+            "username": "DuPageJournal",
+            "verified": false
+        }
+    },
+    {
+        "data": {
+            "created_at": "2016-02-03T22:42:59.000Z",
+            "description": "Covering policy and local government in East Central Illinois.",
+            "id": "4875153526",
+            "name": "E. Central Reporter",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/771358794110504960/M-N87Hum_normal.jpg",
+            "public_metrics": {
+                "followers_count": 71,
+                "following_count": 19,
+                "tweet_count": 3041,
+                "listed_count": 12
+            },
+            "url": "https://t.co/KKgCsckegA",
+            "username": "eastcentreport",
+            "verified": false
+        }
+    },
+    {
+        "data": {
+            "created_at": "2016-05-31T21:09:09.000Z",
+            "description": "Covering policy and local government in the Illinois Valley.",
+            "id": "737752800558354433",
+            "name": "IL Valley Times",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/737754331944865792/9TIylh_y_normal.jpg",
+            "public_metrics": {
+                "followers_count": 99,
+                "following_count": 19,
+                "tweet_count": 2195,
+                "listed_count": 5
+            },
+            "url": "https://t.co/MBnNvn2Z1u",
+            "username": "IL_valley_times",
+            "verified": false
+        }
+    },
+    {
+        "data": {
+            "created_at": "2016-05-31T21:18:18.000Z",
+            "description": "Covering policy and local government in Kane County, IL.",
+            "id": "737755102732111872",
+            "name": "Kane County Reporter",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/737755334278684672/-hr-F9mX_normal.jpg",
+            "public_metrics": {
+                "followers_count": 188,
+                "following_count": 111,
+                "tweet_count": 6213,
+                "listed_count": 5
+            },
+            "url": "https://t.co/6684pkwU2c",
+            "username": "kane_reporter",
+            "verified": false
+        }
+    },
+    {
+        "data": {
+            "created_at": "2015-11-18T13:34:04.000Z",
+            "description": "Covering policy and local government in Kankakee County, IL.",
+            "id": "4218254801",
+            "name": "Kankakee Times",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/771360699083657216/gaMiGf2-_normal.jpg",
+            "public_metrics": {
+                "followers_count": 487,
+                "following_count": 244,
+                "tweet_count": 2257,
+                "listed_count": 21
+            },
+            "url": "https://t.co/2GIqNsqQLi",
+            "username": "Kankakee_Times",
+            "verified": false
+        }
+    },
+    {
+        "data": {
+            "created_at": "2015-11-17T00:59:16.000Z",
+            "description": "Covering policy and local government in Lake County, IL.",
+            "id": "4206041674",
+            "name": "LakeCntyGazette",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/771361346579378176/E0kVNund_normal.jpg",
+            "public_metrics": {
+                "followers_count": 533,
+                "following_count": 249,
+                "tweet_count": 4132,
+                "listed_count": 25
+            },
+            "url": "https://t.co/VL44t83JYQ",
+            "username": "lakecntygazette",
+            "verified": false
+        }
+    },
+    {
+        "data": {
+            "created_at": "2017-01-20T20:06:47.000Z",
+            "description": "",
+            "id": "822535867906555904",
+            "name": "Macon Reporter",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/822536454664572928/CkrH9ZaO_normal.jpg",
+            "public_metrics": {
+                "followers_count": 51,
+                "following_count": 0,
+                "tweet_count": 678,
+                "listed_count": 2
+            },
+            "url": "",
+            "username": "MaconReporter",
+            "verified": false
+        }
+    },
+    {
+        "data": {
+            "created_at": "2015-11-16T22:17:06.000Z",
+            "description": "Covering policy and local government in McHenry County, IL.",
+            "id": "4205082557",
+            "name": "McHenry Times",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/771362133602775041/Eh0fsWjS_normal.jpg",
+            "public_metrics": {
+                "followers_count": 426,
+                "following_count": 192,
+                "tweet_count": 3063,
+                "listed_count": 24
+            },
+            "url": "https://t.co/CdFTUZqd8I",
+            "username": "McHenryTimes1",
+            "verified": false
+        }
+    },
+    {
+        "data": {
+            "created_at": "2017-01-20T20:12:51.000Z",
+            "description": "",
+            "id": "822537394616463361",
+            "name": "McLean County Times",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/822537808833314816/VFh6ZYyY_normal.jpg",
+            "public_metrics": {
+                "followers_count": 50,
+                "following_count": 0,
+                "tweet_count": 784,
+                "listed_count": 2
+            },
+            "url": "",
+            "username": "McLean_Times",
+            "verified": false
+        }
+    },
+    {
+        "data": {
+            "created_at": "2015-11-18T13:43:00.000Z",
+            "description": "Covering policy and local government in the greater Metro East area.",
+            "id": "4218256407",
+            "name": "Metro East Sun",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/771362483307028480/Xmr5opDQ_normal.jpg",
+            "public_metrics": {
+                "followers_count": 347,
+                "following_count": 161,
+                "tweet_count": 3443,
+                "listed_count": 19
+            },
+            "url": "https://t.co/8FgMS76QoK",
+            "username": "MetroEastSun",
+            "verified": false
+        }
+    },
+    {
+        "data": {
+            "created_at": "2015-11-16T22:51:29.000Z",
+            "description": "Covering policy and local government in north Cook County, IL.",
+            "id": "4205338234",
+            "name": "North Cook News",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/771364503627763713/B_irZLiv_normal.jpg",
+            "public_metrics": {
+                "followers_count": 325,
+                "following_count": 155,
+                "tweet_count": 3614,
+                "listed_count": 21
+            },
+            "url": "https://t.co/ZkPAqAblnq",
+            "username": "NorthCookNews",
+            "verified": false
+        }
+    },
+    {
+        "data": {
+            "created_at": "2017-01-20T20:16:49.000Z",
+            "description": "",
+            "id": "822538392273559553",
+            "name": "NW Illinois News",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/822538953223995393/xL7I2nMn_normal.jpg",
+            "public_metrics": {
+                "followers_count": 67,
+                "following_count": 0,
+                "tweet_count": 903,
+                "listed_count": 3
+            },
+            "url": "",
+            "username": "NW_IllinoisNews",
+            "verified": false
+        }
+    },
+    {
+        "data": {
+            "created_at": "2016-05-31T20:40:50.000Z",
+            "description": "Covering policy and local government in Peoria County, IL.",
+            "id": "737745674448437250",
+            "name": "Peoria Standard",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/737747547897233408/EJFrXo9t_normal.jpg",
+            "public_metrics": {
+                "followers_count": 136,
+                "following_count": 19,
+                "tweet_count": 1409,
+                "listed_count": 3
+            },
+            "url": "https://t.co/AnQOfaibEx",
+            "username": "peoria_standard",
+            "verified": false
+        }
+    },
+    {
+        "data": {
+            "created_at": "2017-08-15T20:06:00.000Z",
+            "description": "",
+            "id": "897549959901446145",
+            "name": "Prairie State Wire",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/897552391838543874/LXFeoDrj_normal.jpg",
+            "public_metrics": {
+                "followers_count": 116,
+                "following_count": 0,
+                "tweet_count": 2067,
+                "listed_count": 5
+            },
+            "url": "",
+            "username": "Prairie_Wire",
+            "verified": false
+        }
+    },
+    {
+        "data": {
+            "created_at": "2017-01-20T20:20:08.000Z",
+            "description": "",
+            "id": "822539224658350081",
+            "name": "Rockford Sun",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/822539566896873473/I_0SAUHd_normal.jpg",
+            "public_metrics": {
+                "followers_count": 69,
+                "following_count": 0,
+                "tweet_count": 877,
+                "listed_count": 1
+            },
+            "url": "",
+            "username": "Rockford_Sun",
+            "verified": false
+        }
+    },
+    {
+        "data": {
+            "created_at": "2016-02-03T22:37:12.000Z",
+            "description": "Covering policy and local government in Rock Island County, IL.",
+            "id": "4875081551",
+            "name": "Rock Island Today",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/771366908545282049/1m8ij3gI_normal.jpg",
+            "public_metrics": {
+                "followers_count": 128,
+                "following_count": 19,
+                "tweet_count": 2843,
+                "listed_count": 9
+            },
+            "url": "https://t.co/sO3Wy4xzWi",
+            "username": "rockislandtoday",
+            "verified": false
+        }
+    },
+    {
+        "data": {
+            "created_at": "2016-03-15T21:00:21.000Z",
+            "description": "Covering policy and local government in Sangamon County, IL.",
+            "id": "709846721421914112",
+            "name": "Sangamon Sun",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/771367709372067840/J72_yQgG_normal.jpg",
+            "public_metrics": {
+                "followers_count": 181,
+                "following_count": 20,
+                "tweet_count": 2120,
+                "listed_count": 15
+            },
+            "url": "https://t.co/nXCNJm438y",
+            "username": "SangamonSun",
+            "verified": false
+        }
+    },
+    {
+        "data": {
+            "created_at": "2016-05-31T21:39:17.000Z",
+            "description": "Covering policy and local government in Southeastern Illinois.",
+            "id": "737760383709024256",
+            "name": "SE Illinois News",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/737761168949813249/86X4bs4S_normal.jpg",
+            "public_metrics": {
+                "followers_count": 141,
+                "following_count": 19,
+                "tweet_count": 1878,
+                "listed_count": 4
+            },
+            "url": "https://t.co/8s6lGBJlvm",
+            "username": "seillinoisnews",
+            "verified": false
+        }
+    },
+    {
+        "data": {
+            "created_at": "2017-01-20T20:22:30.000Z",
+            "description": "",
+            "id": "822539820891258880",
+            "name": "South Cook News",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/822540288568729600/YHmKmMY9_normal.jpg",
+            "public_metrics": {
+                "followers_count": 104,
+                "following_count": 0,
+                "tweet_count": 1096,
+                "listed_count": 2
+            },
+            "url": "",
+            "username": "SouthCookNews",
+            "verified": false
+        }
+    },
+    {
+        "data": {
+            "created_at": "2016-02-03T22:33:45.000Z",
+            "description": "Covering policy and local government in Southwest Illinois.",
+            "id": "4875137266",
+            "name": "SW Illinois News",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/771370213639983104/u7aS5N3o_normal.jpg",
+            "public_metrics": {
+                "followers_count": 152,
+                "following_count": 19,
+                "tweet_count": 2238,
+                "listed_count": 17
+            },
+            "url": "https://t.co/BE2W8OM4I8",
+            "username": "swillinoisnews",
+            "verified": false
+        }
+    },
+    {
+        "data": {
+            "created_at": "2016-02-14T22:29:14.000Z",
+            "description": "Covering policy and local government in West Central Illinois.",
+            "id": "4910687991",
+            "name": "W. Central Reporter",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/771370810388779008/bj4sjlAV_normal.jpg",
+            "public_metrics": {
+                "followers_count": 156,
+                "following_count": 19,
+                "tweet_count": 2686,
+                "listed_count": 12
+            },
+            "url": "https://t.co/fa9wo16YSt",
+            "username": "WestCentReport",
+            "verified": false
+        }
+    },
+    {
+        "data": {
+            "created_at": "2016-02-03T22:27:44.000Z",
+            "description": "Covering policy and local government in west Cook County, IL.",
+            "id": "4875063365",
+            "name": "West Cook News",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/771371650570854400/NVYFPBS1_normal.jpg",
+            "public_metrics": {
+                "followers_count": 168,
+                "following_count": 19,
+                "tweet_count": 2524,
+                "listed_count": 11
+            },
+            "url": "https://t.co/Kt7L5uv92l",
+            "username": "westcooknews",
+            "verified": false
+        }
+    },
+    {
+        "data": {
+            "created_at": "2016-05-31T21:44:32.000Z",
+            "description": "Covering policy and local government in Will County, IL.",
+            "id": "737761705778761728",
+            "name": "Will County Gazette",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/737761931289731073/nNKh9M5d_normal.jpg",
+            "public_metrics": {
+                "followers_count": 180,
+                "following_count": 19,
+                "tweet_count": 2915,
+                "listed_count": 5
+            },
+            "url": "https://t.co/hITQtu2ixf",
+            "username": "WillCoGazette",
+            "verified": false
+        }
+    },
+    {
+        "data": {
+            "created_at": "2013-08-06T19:51:38.000Z",
+            "description": "Reporting on litigation, decisions and trends in Chicago's civil courtrooms",
+            "id": "1651123645",
+            "location": "Chicago, IL",
+            "name": "Cook County Record",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/773596663650750464/owftWZ9Z_normal.jpg",
+            "public_metrics": {
+                "followers_count": 1114,
+                "following_count": 408,
+                "tweet_count": 12065,
+                "listed_count": 74
+            },
+            "url": "http://t.co/wWqlRUsbVC",
+            "username": "CookRecord",
+            "verified": false
+        }
+    },
+    {
+        "data": {
+            "created_at": "2016-03-25T21:00:56.000Z",
+            "description": "",
+            "id": "713470745175658496",
+            "name": "Florida Record",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/713472936410095616/IwV6JyE6_normal.jpg",
+            "public_metrics": {
+                "followers_count": 102,
+                "following_count": 41,
+                "tweet_count": 6292,
+                "listed_count": 6
+            },
+            "url": "",
+            "username": "FloridaRecord",
+            "verified": false
+        }
+    },
+    {
+        "data": {
+            "created_at": "2009-11-02T03:30:54.000Z",
+            "description": "Covering state attorneys general and supreme courts, class action lawsuits, patent and asbestos litigation, the False Claims Act and campaigns and elections",
+            "id": "86864211",
+            "location": "Chicago, IL",
+            "name": "Legal Newsline",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/773593633379323904/vwQxTzod_normal.jpg",
+            "public_metrics": {
+                "followers_count": 1666,
+                "following_count": 559,
+                "tweet_count": 16089,
+                "listed_count": 68
+            },
+            "url": "http://t.co/uFSc13t2RP",
+            "username": "LegalNewsline",
+            "verified": false
+        }
+    },
+    {
+        "data": {
+            "created_at": "2010-10-13T21:58:46.000Z",
+            "description": "We aim to protect the public's interest by reporting on Louisiana's civil justice system thoroughly and vigorously.",
+            "id": "202364607",
+            "location": "New Orleans, LA",
+            "name": "The Louisiana Record",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/773595997721079808/PjfgTcgi_normal.jpg",
+            "public_metrics": {
+                "followers_count": 27490,
+                "following_count": 23013,
+                "tweet_count": 20433,
+                "listed_count": 222
+            },
+            "url": "http://t.co/VuRrwojCEo",
+            "username": "louisianarecord",
+            "verified": false
+        }
+    },
+    {
+        "data": {
+            "created_at": "2009-11-19T11:34:47.000Z",
+            "description": "",
+            "id": "91086406",
+            "location": "Edwardsville, IL",
+            "name": "Madison Co Record",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/773595601409675264/tOOlfLyM_normal.jpg",
+            "public_metrics": {
+                "followers_count": 757,
+                "following_count": 583,
+                "tweet_count": 13633,
+                "listed_count": 50
+            },
+            "url": "http://t.co/4OP7bPG0Wa",
+            "username": "MadisonRecord",
+            "verified": false
+        }
+    },
+    {
+        "data": {
+            "created_at": "2016-03-31T18:43:15.000Z",
+            "description": "",
+            "id": "715610426017316864",
+            "name": "NorCal Record",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/715611266870476804/56zhFhhY_normal.jpg",
+            "public_metrics": {
+                "followers_count": 72,
+                "following_count": 40,
+                "tweet_count": 6364,
+                "listed_count": 1
+            },
+            "url": "",
+            "username": "NorCal_Record",
+            "verified": false
+        }
+    },
+    {
+        "data": {
+            "created_at": "2011-05-16T13:28:41.000Z",
+            "description": "",
+            "id": "299652000",
+            "location": "Philadelphia, PA",
+            "name": "Pennsylvania Record",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/773599539919921152/NGkGMuHm_normal.jpg",
+            "public_metrics": {
+                "followers_count": 485,
+                "following_count": 219,
+                "tweet_count": 7867,
+                "listed_count": 19
+            },
+            "url": "http://t.co/FUgZ1YTNLV",
+            "username": "PennRecord",
+            "verified": false
+        }
+    },
+    {
+        "data": {
+            "created_at": "2009-11-19T11:37:11.000Z",
+            "description": "A legal journal serving Southeast Texas",
+            "id": "91086820",
+            "location": "Beaumont, Texas",
+            "name": "SE Texas Record",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/773599053858811904/Ktm5UylP_normal.jpg",
+            "public_metrics": {
+                "followers_count": 1136,
+                "following_count": 1442,
+                "tweet_count": 15399,
+                "listed_count": 45
+            },
+            "url": "http://t.co/ydRmv1Ipj6",
+            "username": "SETexasRecord",
+            "verified": false
+        }
+    },
+    {
+        "data": {
+            "created_at": "2016-12-16T16:36:59.000Z",
+            "description": "",
+            "id": "809799494934163457",
+            "name": "St. Louis Record",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/809858957292474368/6XAv5G4N_normal.jpg",
+            "public_metrics": {
+                "followers_count": 23,
+                "following_count": 0,
+                "tweet_count": 1882,
+                "listed_count": 1
+            },
+            "url": "",
+            "username": "St_Louis_Record",
+            "verified": false
+        }
+    },
+    {
+        "data": {
+            "created_at": "2009-11-19T11:38:43.000Z",
+            "description": "West Virginia's Legal Journal. We cover the state court system, federal courts and the state Attorney General's office.",
+            "id": "91087040",
+            "location": "Hurricane, WV",
+            "name": "West Virginia Record",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/774288663035387904/Kq75tgFD_normal.jpg",
+            "public_metrics": {
+                "followers_count": 3991,
+                "following_count": 329,
+                "tweet_count": 11660,
+                "listed_count": 107
+            },
+            "url": "http://t.co/UkoJN8f8hT",
+            "username": "WVRecord",
+            "verified": false
+        }
+    }
+]
