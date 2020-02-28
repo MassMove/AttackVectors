@@ -25,6 +25,8 @@ Their shit looks really real: https://kalamazootimes.com until you start looking
 Some quick Google-fu with a sentence from their about page:
 https://www.google.com/search?q=%22Metric+Media+was+established+to+fill+the+void+in+community+news+after+years+of+decline+in+local+reporting+by+legacy+media.%22&rlz=1C1GCEU_nlNL823NL823&filter=0
 
+![2020 elections map](LocalJournals/gmplot.png?raw=true "US 2020 Elections Map")
+
 ## Legal Findings
 
 https://www.fec.gov/files/legal/murs/7148/19044475209.pdf
