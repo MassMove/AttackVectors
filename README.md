@@ -8,6 +8,14 @@ A repository to monitor attack vectors mentioned in the [billion-dollar disinfor
 
 >Running parallel to this effort, some conservatives have been experimenting with a scheme to exploit the credibility of local journalism. Over the past few years, hundreds of websites with innocuous-sounding names like the Arizona Monitor and The Kalamazoo Times have begun popping up. At first glance, they look like regular publications, complete with community notices and coverage of schools. But look closer and you’ll find that there are often no mastheads, few if any bylines, and no addresses for local offices. Many of them are organs of Republican lobbying groups; others belong to a mysterious company called Locality Labs, which is run by a conservative activist in Illinois. Readers are given no indication that these sites have political agendas—which is precisely what makes them valuable.
 
+This [NYT story goes into the details of Metric Media](https://www.nytimes.com/2019/10/21/us/michigan-metric-media-news.html), an organization responsible for many of these sites:
+
+> Metric Media’s chief executive is Bradley Cameron, according to his online biography, which says he advises private equity investors in Silicon Valley, has been retained by conservative groups and served as senior adviser in the 1990s to the “Republican strategy leader in the U.S. House of Representatives.”
+
+> Many if not all of the sites were registered on June 30 and updated on the same day in August, according to online domain records. The sites say they are operated by Locality Labs, a Delaware company affiliated with networks of local websites in Maryland and Illinois, according to The Lansing State Journal.
+
+> On its website, Metric Media describes its reporting philosophy as providing “objective, data-driven information without inserting personal or political viewpoints and biases.” The company wrote that it plans to open thousands of similar sites nationwide.
+
 Findings:
 
 |awsOrigin|domain|facebookUrl|facebookSiteName|facebookFollowers|twitterUrl|twitterFollowers|
