@@ -18,15 +18,20 @@ This [NYT story goes into the details of Metric Media](https://www.nytimes.com/2
 
 Findings:
 
-|awsOrigin|domain|facebookUrl|facebookSiteName|facebookFollowers|twitterUrl|twitterFollowers|
-|:-----------|:-----------|:------------|:------------|:------------|------------|------------|
-|3.218.216.245|https://annarbortimes.com	|https://business.facebook.com/Ann-Arbor-Times-105059500884218/?business_id=898179107217559|Ann Arbor Times| 43|
-|3.218.216.245|https://battlecreektimes.com|https://business.facebook.com/Battle-Creek-Times-101371024590467/?business_id=898179107217559|Battle Creek Times| 16 |
-|52.7.148.177|https://wvrecord.com|https://www.facebook.com/WVRecord|West Virginia Record|3986|https://twitter.com/wvrecord|3990|
-|52.7.148.177|https://setexasrecord.com|https://www.facebook.com/SETexasRecord/|Southeast Texas Record|1285|	https://twitter.com/setexasrecord|1136|
+|domain|twitterFollowers|twitterFollowing|twitterTweets|siteName|facebookUrl|awsOrigin|lat|lng|twitterUsername|itunesAppStoreUrl|twitterAccountCreatedAt|twitterUserId|
+|:-----|:---------------|:---------------|:------------|:-------|:----------|:--------|:-----|:-----|:--------|:----------------|:----------------------|:------------|
+|https://louisianarecord.com|27490|23013|20433|Louisiana Record|https://www.facebook.com/LouisianaRecord/|52.7.148.177|30.9842977|-91.9623327|louisianarecord|https://itunes.apple.com/us/app/louisiana-record/id619088844|2010-10-13T21:58:46.000Z|202364607|
+|https://wvrecord.com|3991|329|11660|West Virginia Record|https://www.facebook.com/WVRecord|52.7.148.177|38.5976262|-80.4549026|wvrecord|https://itunes.apple.com/us/app/wv-record/id599538288|2009-11-19T11:38:43.000Z|91087040|
+|https://legalnewsline.com|1666|559|16089|Legal Newsline|https://www.facebook.com/pages/Legal-Newsline/299588323424419|52.7.148.177|43.6961725|-79.4389309|legalnewsline|https://itunes.apple.com/us/app/legal-newsline/id603098697?mt=8|2009-11-02T03:30:54.000Z|86864211|
+|https://setexasrecord.com|1136|1442|15399|Southeast Texas Record|https://www.facebook.com/SETexasRecord/|52.7.148.177|30.063191|-94.134436|setexasrecord|https://itunes.apple.com/us/app/se-texas-record/id592747678|2009-11-19T11:37:11.000Z|91086820|
+|https://cookcountyrecord.com|1114|408|12065|Cook County Record|https://www.facebook.com/cookcountyrecord|52.7.148.177|41.7376587|-87.697554|CookRecord|https://itunes.apple.com/us/app/cook-county-record/id715265623?mt=8|2013-08-06T19:51:38.000Z|1651123645|
+|https://madisonrecord.com|757|583|13633|Madison - St. Clair Record|https://www.facebook.com/pages/MadisonSt-Clair-Record/164779816968453|52.7.148.177|43.0730517|-89.4012302|madisonrecord|https://itunes.apple.com/us/app/madison-st-clair-record/id597238468?mt=8|2009-11-19T11:34:47.000Z|91086406|
+|https://lakecountygazette.com|533|249|4132|Lake County Gazette|https://www.facebook.com/Lake-County-Gazette-854479238006224|35.170.88.147|39.0839644|-122.8084496|lakecntygazette||2015-11-17T00:59:16.000Z|4206041674|
+|https://kankakeetimes.com|487|244|2257|Kankakee Times|https://www.facebook.com/kankakeetimes|35.170.88.147|41.1200325|-87.8611531|Kankakee_Times||2015-11-18T13:34:04.000Z|4218254801|
+|https://pennrecord.com|485|219|7867|Pennsylvania Record|https://www.facebook.com/pages/Pennsylvania-Record/338776239487764|52.7.148.177|41.2033216|-77.1945247|pennrecord|https://itunes.apple.com/us/app/pennsylvania-record/id623294648|2011-05-16T13:28:41.000Z|299652000|
+|https://dupagepolicyjournal.com|444|260|5060|Dupage Policy Journal|https://www.facebook.com/DuPage-Policy-Journal-440850842779072|35.170.88.147|41.8243831|-88.0900762|DupageJournal||2015-01-29T14:45:45.000Z|3001471430|
 
-But wait, there's [700+ more with 270+ with Facebook pages and thousands of Facebook accounts](https://github.com/MassMove/AttackVectors/blob/master/LocalJournals/sites.csv).
-- https://kalamazootimes.com
+[700+ more with 270+ Facebook pages, thousands of Facebook accounts and tens of thousands of Twitter followers](https://github.com/MassMove/AttackVectors/blob/master/LocalJournals/sites.csv).
 
 Their shit looks really real: https://kalamazootimes.com until you start looking at all the articles at once: https://kalamazootimes.com/stories/tag/126-politics
 
