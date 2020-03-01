@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8" />
+	<title>Attack Vectors - Map</title>
+	<meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
+
+	<script src="https://api.mapbox.com/mapbox-gl-js/v1.8.1/mapbox-gl.js"></script>
+	<script src='https://api.mapbox.com/mapbox.js/plugins/turf/v3.0.11/turf.min.js'></script>
+	<script src="https://unpkg.com/csv2geojson@5.1.1/csv2geojson.js"></script>
+
+	<script src="https://unpkg.com/jquery@3.3.1/dist/jquery.min.js"></script>
+
+	<link href="https://api.mapbox.com/mapbox-gl-js/v1.8.1/mapbox-gl.css" rel="stylesheet" />
+	<style>
+		body {
+			margin: 0;
+			padding: 0;
+		}
+
+		#map {
+			position: absolute;
+			top: 0;
+			bottom: 0;
+			width: 100%;
+		}
+	</style>
+</head>
+
+<body>
+	<div id="map"></div>
+	<script>
+		mapboxgl.accessToken = 'pk.eyJ1Ijoiem90dGVyZGFzIiwiYSI6ImNrNzd2ZTZ6cTAyMTAzbG51eG41dDV5c2QifQ.Gt6NSuWV9kymSGDvs4VlMQ';
+		var map = new mapboxgl.Map({
+			container: 'map', // container id
+			style: 'mapbox://styles/mapbox/light-v10', // stylesheet location
+			// center: [-74.5, 40], // starting position [lng, lat]
+			// zoom: 9,
+		});
+
+		map.addControl(new mapboxgl.NavigationControl());
+
+		$.get('./sites-geocoded.csv', (csv) => {
+
+			csv2geojson.csv2geojson(csv, {
+				latfield: 'lat',
+				lonfield: 'lng',
+				delimiter: ','
+			}, function (err, geojson) {
+				map.on('load', function () {
+
+					map.addSource('sites', {
+						type: 'geojson',
+						data: geojson
+					});
+
+					map.fitBounds(turf.bbox(geojson), {
+						padding: 20
+					});
+
+					map.addLayer({
+						'id': 'sites',
+						'type': 'symbol',
+						'source': 'sites',
+						'layout': {
+							'icon-image': 'marker-site',
+							'icon-size': .5,
+							'icon-allow-overlap': true
+						}
+					});
+
+				});
+			});
+
+		});
+
+		map.on('load', function () {
+
+			var markers = {
+				site: ' data:image/png;base64,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'
+			}
+
+			map.loadImage(markers.site,
+				function (error, image) {
+					if (error) throw error;
+					map.addImage('marker-site', image);
+				}
+			);
+
+			var popup = new mapboxgl.Popup();
+
+			map.on('mousemove', function (e) {
+				var features = map.queryRenderedFeatures(e.point, {
+					layers: ['sites']
+				});
+				if (!features.length) {
+					popup.remove();
+					return;
+				}
+				var feature = features[0];
+				var popupContent = '';
+
+				if (feature.properties.siteName) {
+					popupContent += '<strong>' + feature.properties.siteName + '</strong><br><a target="_blank" href="http://' + feature.properties.domain + '">' + feature.properties.domain + '</a><br>';
+				} else {
+					popupContent += feature.properties.domain;
+				}
+
+				if (feature.properties.twitterUsername) {
+					popupContent += 'Twitter: <a target="_blank" href="https://twitter.com/' + feature.properties.twitterUsername + '">' + feature.properties.twitterUsername + '</a>';
+				}
+
+				popup.setLngLat(feature.geometry.coordinates)
+					.setHTML(popupContent)
+					.addTo(map);
+
+				map.getCanvas().style.cursor = features.length ? 'pointer' : '';
+			});
+
+		});
+
+		map.on('sourcedata', function (e) {
+			if (e.sourceId !== 'sites' || !e.isSourceLoaded) return
+			var f = map.querySourceFeatures('sites')
+			if (f.length === 0) return
+			var bbox = turf.bbox({
+				type: 'FeatureCollection',
+				features: f
+			});
+			map.fitBounds(bbox, {
+				padding: 20
+			});
+		});
+	</script>
+
+</body>
+
+</html>
