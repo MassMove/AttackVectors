@@ -66,4 +66,6 @@ From the Twitter Transparency Report:
 
 >Last year, a website resembling an official Biden campaign page appeared on the internet. It emphasized elements of the candidate’s legislative record likely to hurt him in the Democratic primary—opposition to same-sex marriage, support for the Iraq War—and featured video clips of his awkward encounters with women. The site quickly became one of the most-visited Biden-related sites on the web. It was designed by a Trump consultant.
 
-Nothing to report on this front yet. Scouts?
+Not much to report on this front yet. Scouts?
+
+- [berniesander.com](http://berniesander.com/)
