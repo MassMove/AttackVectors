@@ -40,6 +40,8 @@ https://www.google.com/search?q=%22Metric+Media+was+established+to+fill+the+void
 
 ![2020 elections map](LocalJournals/gmplot.png?raw=true "US 2020 Elections Map")
 
+![Local Journals Map](https://i.imgur.com/LP3SFEj.png "Local Journals Map")
+
 ## Legal Findings
 
 https://www.fec.gov/files/legal/murs/7148/19044475209.pdf
