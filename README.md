@@ -47,6 +47,10 @@ https://www.google.com/search?q=%22Metric+Media+was+established+to+fill+the+void
 
 ![Local Journals Map](https://i.imgur.com/LP3SFEj.png "Local Journals Map")
 
+[Interactive Heat Map](https://arcg.is/0KmXKK):
+
+![Interactive Heat Map](https://i.imgur.com/TXO6xyN.png "Local Journals Heatmap")
+
 ## Legal Findings
 
 https://www.fec.gov/files/legal/murs/7148/19044475209.pdf
