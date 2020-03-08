@@ -100,7 +100,7 @@ namespace HttpResponseMonitor
                     line += twitterUserId + ",";
                     line += twitterFollowers + ",";
                     line += twitterFollowing + ",";
-                    line += twitterTweets + ",";
+                    line += twitterTweets;
 
                     lines += "\r\n" + line;
 
