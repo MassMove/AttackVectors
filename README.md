@@ -61,7 +61,7 @@ https://www.fec.gov/files/legal/murs/7148/19044475209.pdf
 
 >But when Twitter employees later reviewed the activity surrounding Kentucky’s election, they concluded that the bots were largely based in America—a sign that political operatives here were learning to mimic [foreign tactics].
 
-From the Twitter Transparency Report:
+Potentially state-backed information operations from the [Twitter Transparency Report](https://transparency.twitter.com/en/information-operations.html):
 
 | Date     | Country  | Msg Info  | Media | Accounts |
 |:-----------|:-----------:|:------------:|:------------:|------------:|
@@ -75,6 +75,7 @@ From the Twitter Transparency Report:
 | 201906|China |169 MB|40 GB|196 |
 | 201906|China |913 MB|604 GB|4,301| 
 | 201910|Saudi Arabia |4.3 GB|1.3 TB|5,929|
+| 202003|Ghana / Nigeria |27 MB|17 GB|71|
 
 [12 more in the war room with further sources](https://www.reddit.com/r/MassMove/wiki/warroom)
 
