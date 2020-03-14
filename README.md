@@ -63,21 +63,21 @@ https://www.fec.gov/files/legal/murs/7148/19044475209.pdf
 
 Potentially state-backed information operations from the [Twitter Transparency Report](https://transparency.twitter.com/en/information-operations.html):
 
-| Date     | Country  | Msg Info  | Media | Accounts |
-|:-----------|:-----------:|:------------:|:------------:|------------:|
-| 201906|Catalonia |1.5 MB|2.74 GB|130 |
-| 201906|Iran|316 MB|258 GB|1,666 |
-| 201906|Iran|318 MB|183 GB|248 |
-| 201906|Iran|46 MB|55 GB|2,865 |
-| 201906|Russia|260 KB|72 MB|4|
-| 201906|Venezuela |64 MB|24 GB|33 |
-| 201906|China |158 MB|85 GB|744  |
-| 201906|China |169 MB|40 GB|196 |
-| 201906|China |913 MB|604 GB|4,301| 
-| 201910|Saudi Arabia |4.3 GB|1.3 TB|5,929|
-| 202003|Ghana / Nigeria |27 MB|17 GB|71|
+| Date | Country | Msg Info | Media | Accounts |Reports|
+|:-----|:-------:|:--------:|:-----:|---------:|:-----:|
+| 201906|Catalonia |1.5 MB|2.74 GB|130 ||
+| 201906|Iran|316 MB|258 GB|1,666 ||
+| 201906|Iran|318 MB|183 GB|248 ||
+| 201906|Iran|46 MB|55 GB|2,865 ||
+| 201906|Russia|260 KB|72 MB|4||
+| 201906|Venezuela |64 MB|24 GB|33 ||
+| 201906|China |158 MB|85 GB|744  ||
+| 201906|China |169 MB|40 GB|196 ||
+| 201906|China |913 MB|604 GB|4,301| |
+| 201910|Saudi Arabia |4.3 GB|1.3 TB|5,929||
+| 202003|Ghana / Nigeria |27 MB|17 GB|71| [CNN](https://edition.cnn.com/2020/03/12/world/russia-ghana-troll-farms-2020-ward/index.html) |
 
-[12 more in the war room with further sources](https://www.reddit.com/r/MassMove/wiki/warroom)
+[71 Twitter accounts with random coordinates within their countries of origins and target states](https://github.com/MassMove/AttackVectors/blob/master/Twitter/acounts.csv).
 
 ## Websites resembling official campaigns
 
