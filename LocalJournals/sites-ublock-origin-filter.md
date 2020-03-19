@@ -821,3 +821,39 @@ Development version available at [https://github.com/nikrolls/uBlock-Edge#edge](
     ||socalrecord.com
     ||stlrecord.com
     ||wvrecord.com
+    ||desmoinesguide.com
+    ||ellensburgguide.com
+    ||tricountytoday.com
+    ||yelmguide.com
+    ||portstjoeguide.com
+    ||germantownreview.com
+    ||perryguide.com
+    ||vallianttoday.com
+    ||ruraltoday.com
+    ||mabeltoday.com
+    ||monontoday.com
+    ||almastandard.com
+    ||mtenterprisetoday.com
+    ||greenhillsreporter.com
+    ||johnstontimes.com
+    ||jonescountynews.com
+    ||clivenews.com
+    ||warrencountynews.com
+    ||buchanancountynews.com
+    ||shelbycountytimes.com
+    ||pagetaylornews.com
+    ||adairmadisonnews.com
+    ||millsfremontnews.com
+    ||boyervalleynews.com
+    ||clarkeunionnews.com
+    ||ringgolddecaturnews.com
+    ||montgomeryadamsnews.com
+    ||crawfordcountytimes.com
+    ||grimesjournal.com
+    ||urbandaletimes.com
+    ||norwalktimes.com
+    ||waukeetimes.com
+    ||cretereview.com
+    ||lansingreporter.com
+    ||lynwoodtimes.com
+    ||ankenyguide.com
