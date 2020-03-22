@@ -74,6 +74,10 @@ Potentially state-backed information operations from the [Twitter Transparency R
 
 [71 Twitter accounts with random coordinates within their countries of origins and target states](https://github.com/MassMove/AttackVectors/blob/master/Twitter/acounts.csv).
 
+[Ghana / Nigeria Palladio visualization with randomizes coordinates](https://github.com/MassMove/AttackVectors/blob/master/Twitter/datasets/GHA%20or%20NGA/palladio-users-visualization.png):
+
+![2020 elections map](Twitter/datasets/GHA%20or%20NGA/palladio-users-visualization.png?raw=true "Ghana / Nigeria Palladio visualization")
+
 ## Websites resembling official campaigns
 
 >Last year, a website resembling an official Biden campaign page appeared on the internet. It emphasized elements of the candidate’s legislative record likely to hurt him in the Democratic primary—opposition to same-sex marriage, support for the Iraq War—and featured video clips of his awkward encounters with women. The site quickly became one of the most-visited Biden-related sites on the web. It was designed by a Trump consultant.
