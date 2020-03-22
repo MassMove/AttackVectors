@@ -74,7 +74,7 @@ Potentially state-backed information operations from the [Twitter Transparency R
 
 [71 Twitter accounts with random coordinates within their countries of origins and target states](https://github.com/MassMove/AttackVectors/blob/master/Twitter/acounts.csv).
 
-[Ghana / Nigeria Palladio visualization with randomizes coordinates](https://github.com/MassMove/AttackVectors/blob/master/Twitter/datasets/GHA%20or%20NGA/palladio-users-visualization.png):
+[Ghana / Nigeria Palladio visualization with randomized coordinates](https://github.com/MassMove/AttackVectors/blob/master/Twitter/datasets/GHA%20or%20NGA/palladio-users-visualization.png):
 
 ![2020 elections map](Twitter/datasets/GHA%20or%20NGA/palladio-users-visualization.png?raw=true "Ghana / Nigeria Palladio visualization")
 
