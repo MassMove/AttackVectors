@@ -857,3 +857,19 @@ Development version available at [https://github.com/nikrolls/uBlock-Edge#edge](
     ||lansingreporter.com
     ||lynwoodtimes.com
     ||ankenyguide.com
+    ||collegeparktoday.com
+    ||apopkatimes.com
+    ||baldwinparktoday.com
+    ||collegeparktoday.com
+    ||doctorphillipstoday.com
+    ||goldenrodnews.com
+    ||gothatoday.com
+    ||hunterscreeknews.com
+    ||lakebuenavistanews.com
+    ||lakebutlernews.com
+    ||lakehartnews.com
+    ||lakenonatoday.com
+    ||maitlandtoday.com
+    ||ocoeetoday.com
+    ||wadeviewparknews.com
+    ||windermeretoday.com
