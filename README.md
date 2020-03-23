@@ -31,7 +31,7 @@ Findings:
 |pennrecord.com|485|Pennsylvania Record|https://www.facebook.com/pages/Pennsylvania-Record/338776239487764|52.7.148.177|41.2033216|-77.1945247|pennrecord|https://itunes.apple.com/us/app/pennsylvania-record/id623294648|2011-05-16T13:28:41.000Z|299652000|219|7867|
 |dupagepolicyjournal.com|444|Dupage Policy Journal|https://www.facebook.com/DuPage-Policy-Journal-440850842779072|35.170.88.147|41.8243831|-88.0900762|DupageJournal||2015-01-29T14:45:45.000Z|3001471430|260|5060|
 
-[700+ more with 270+ Facebook pages, thousands of Facebook accounts and tens of thousands of Twitter followers](https://github.com/MassMove/AttackVectors/blob/master/LocalJournals/sites-geocoded.csv).
+[900+ more with 270+ Facebook pages, thousands of Facebook accounts and tens of thousands of Twitter followers](https://github.com/MassMove/AttackVectors/blob/master/LocalJournals/sites-geocoded.csv).
 
 Their shit looks really real: https://kalamazootimes.com until you start looking at all the articles at once: https://kalamazootimes.com/stories/tag/126-politics
 
