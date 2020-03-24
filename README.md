@@ -57,6 +57,8 @@ Some of the methods used to find more domains are detailed in the [pull requests
 
 - Reverse IP lookup
 
+- Google BigQuery searches through 100s of TB in the HTTP Archive project for Google Analytics tags, Facebook pixels, and Quantserv IDs: https://discuss.httparchive.org/t/http-archive-project-vs-state-backed-disinformation-operations/1887
+
 ## Interactive Maps
 
 Some maps to relay the sheer magnitude of the operation:
