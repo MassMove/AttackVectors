@@ -8,15 +8,28 @@ A repository to monitor attack vectors mentioned in the [billion-dollar disinfor
 
 >Running parallel to this effort, some conservatives have been experimenting with a scheme to exploit the credibility of local journalism. Over the past few years, hundreds of websites with innocuous-sounding names like the Arizona Monitor and The Kalamazoo Times have begun popping up. At first glance, they look like regular publications, complete with community notices and coverage of schools. But look closer and you’ll find that there are often no mastheads, few if any bylines, and no addresses for local offices. Many of them are organs of Republican lobbying groups; others belong to a mysterious company called Locality Labs, which is run by a conservative activist in Illinois. Readers are given no indication that these sites have political agendas—which is precisely what makes them valuable.
 
-This [NYT story goes into the details of Metric Media](https://www.nytimes.com/2019/10/21/us/michigan-metric-media-news.html), an organization responsible for many of these sites:
+Their shit looks really real: https://kalamazootimes.com until you start looking at all the articles at once: https://kalamazootimes.com/stories/tag/126-politics
 
-> Metric Media’s chief executive is Bradley Cameron, according to his online biography, which says he advises private equity investors in Silicon Valley, has been retained by conservative groups and served as senior adviser in the 1990s to the “Republican strategy leader in the U.S. House of Representatives.”
+## Anti-Virus
 
-> Many if not all of the sites were registered on June 30 and updated on the same day in August, according to online domain records. The sites say they are operated by Locality Labs, a Delaware company affiliated with networks of local websites in Maryland and Illinois, according to The Lansing State Journal.
+### uBlock Origin Filters
 
-> On its website, Metric Media describes its reporting philosophy as providing “objective, data-driven information without inserting personal or political viewpoints and biases.” The company wrote that it plans to open thousands of similar sites nationwide.
+uBlock Origin can be configured to alert us when one of the local journals appears in the wild. Open the configuration dashboard and tab to "My filters" or enter this URL in Chrome: [chrome-extension://cjpalhdlnbpafiamejdnhcphjbkeiagm/dashboard.html#1p-filters.html](chrome-extension://cjpalhdlnbpafiamejdnhcphjbkeiagm/dashboard.html#1p-filters.html).
 
-Findings:
+
+    ||kalamazootimes.com
+
+Get the rest here: https://github.com/MassMove/AttackVectors/blob/master/LocalJournals/sites-ublock-origin-filter.md
+
+### Reddit Enhancement Suite
+
+RES can also be configured to alert us... in Appearance, go to Stylesheet Loader and add a row like:
+
+    .title[href*="kalamazootimes.com"]:before { content: "PROPAGANDA"; color: white; background-color: red; border: 2px solid #000; }
+
+Get the rest here: https://github.com/MassMove/AttackVectors/blob/master/LocalJournals/sites-reddit-enhancement-suite.md
+
+## Domains
 
 |domain|twitterFollowers|siteName|facebookUrl|awsOrigin|lat|lng|twitterUsername|itunesAppStoreUrl|twitterAccountCreatedAt|twitterUserId|twitterFollowing|twitterTweets|
 |:-----|:---------------|:---------------|:------------|:-------|:----------|:--------|:-----|:-----|:--------|:----------------|:----------------------|:------------|
@@ -30,13 +43,23 @@ Findings:
 |kankakeetimes.com|487|Kankakee Times|https://www.facebook.com/kankakeetimes|35.170.88.147|41.1200325|-87.8611531|Kankakee_Times||2015-11-18T13:34:04.000Z|4218254801|244|2257|
 |pennrecord.com|485|Pennsylvania Record|https://www.facebook.com/pages/Pennsylvania-Record/338776239487764|52.7.148.177|41.2033216|-77.1945247|pennrecord|https://itunes.apple.com/us/app/pennsylvania-record/id623294648|2011-05-16T13:28:41.000Z|299652000|219|7867|
 |dupagepolicyjournal.com|444|Dupage Policy Journal|https://www.facebook.com/DuPage-Policy-Journal-440850842779072|35.170.88.147|41.8243831|-88.0900762|DupageJournal||2015-01-29T14:45:45.000Z|3001471430|260|5060|
+|**[900+ more](https://github.com/MassMove/AttackVectors/blob/master/LocalJournals/sites-geocoded.csv)**||||||||||||
 
-[900+ more with 270+ Facebook pages, thousands of Facebook accounts and tens of thousands of Twitter followers](https://github.com/MassMove/AttackVectors/blob/master/LocalJournals/sites-geocoded.csv).
+### Methods
 
-Their shit looks really real: https://kalamazootimes.com until you start looking at all the articles at once: https://kalamazootimes.com/stories/tag/126-politics
+Some of the methods used to find more domains are detailed in the [pull requests](https://github.com/MassMove/AttackVectors/pulls?q=is%3Apr+sort%3Acreated-asc+):
 
-Some quick Google-fu with a sentence from their about page:
-https://www.google.com/search?q=%22Metric+Media+was+established+to+fill+the+void+in+community+news+after+years+of+decline+in+local+reporting+by+legacy+media.%22&rlz=1C1GCEU_nlNL823NL823&filter=0
+- Google-fu with a sentence from their about page: https://www.google.com/search?q=%22Metric+Media+was+established+to+fill+the+void+in+community+news+after+years+of+decline+in+local+reporting+by+legacy+media.%22
+
+- Dumped domains hosted by same servers on AWS
+
+- crawled sites + relationships data set
+
+- Reverse IP lookup
+
+## Interactive Maps
+
+Some maps to relay the sheer magnitude of the operation:
 
 [QGIS visualization with domain info](https://massmove.github.io/AttackVectors/LocalJournals/map.html):
 
