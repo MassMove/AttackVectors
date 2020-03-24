@@ -31,19 +31,19 @@ Get the rest here: https://github.com/MassMove/AttackVectors/blob/master/LocalJo
 
 ## Domains
 
-|domain|twitterFollowers|siteName|facebookUrl|awsOrigin|lat|lng|twitterUsername|itunesAppStoreUrl|twitterAccountCreatedAt|twitterUserId|twitterFollowing|twitterTweets|
-|:-----|:---------------|:---------------|:------------|:-------|:----------|:--------|:-----|:-----|:--------|:----------------|:----------------------|:------------|
-|louisianarecord.com|27490|Louisiana Record|https://www.facebook.com/LouisianaRecord/|52.7.148.177|30.9842977|-91.9623327|louisianarecord|https://itunes.apple.com/us/app/louisiana-record/id619088844|2010-10-13T21:58:46.000Z|202364607|23013|20433|
-|wvrecord.com|3991|West Virginia Record|https://www.facebook.com/WVRecord|52.7.148.177|38.5976262|-80.4549026|wvrecord|https://itunes.apple.com/us/app/wv-record/id599538288|2009-11-19T11:38:43.000Z|91087040|329|11660|
-|legalnewsline.com|1666|Legal Newsline|https://www.facebook.com/pages/Legal-Newsline/299588323424419|52.7.148.177|43.6961725|-79.4389309|legalnewsline|https://itunes.apple.com/us/app/legal-newsline/id603098697?mt=8|2009-11-02T03:30:54.000Z|86864211|559|16089|
-|setexasrecord.com|1136|Southeast Texas Record|https://www.facebook.com/SETexasRecord/|52.7.148.177|30.063191|-94.134436|setexasrecord|https://itunes.apple.com/us/app/se-texas-record/id592747678|2009-11-19T11:37:11.000Z|91086820|1442|15399|
-|cookcountyrecord.com|1114|Cook County Record|https://www.facebook.com/cookcountyrecord|52.7.148.177|41.7376587|-87.697554|CookRecord|https://itunes.apple.com/us/app/cook-county-record/id715265623?mt=8|2013-08-06T19:51:38.000Z|1651123645|408|12065|
-|madisonrecord.com|757|Madison - St. Clair Record|https://www.facebook.com/pages/MadisonSt-Clair-Record/164779816968453|52.7.148.177|43.0730517|-89.4012302|madisonrecord|https://itunes.apple.com/us/app/madison-st-clair-record/id597238468?mt=8|2009-11-19T11:34:47.000Z|91086406|583|13633|
-|lakecountygazette.com|533|Lake County Gazette|https://www.facebook.com/Lake-County-Gazette-854479238006224|35.170.88.147|39.0839644|-122.8084496|lakecntygazette||2015-11-17T00:59:16.000Z|4206041674|249|4132|
-|kankakeetimes.com|487|Kankakee Times|https://www.facebook.com/kankakeetimes|35.170.88.147|41.1200325|-87.8611531|Kankakee_Times||2015-11-18T13:34:04.000Z|4218254801|244|2257|
-|pennrecord.com|485|Pennsylvania Record|https://www.facebook.com/pages/Pennsylvania-Record/338776239487764|52.7.148.177|41.2033216|-77.1945247|pennrecord|https://itunes.apple.com/us/app/pennsylvania-record/id623294648|2011-05-16T13:28:41.000Z|299652000|219|7867|
-|dupagepolicyjournal.com|444|Dupage Policy Journal|https://www.facebook.com/DuPage-Policy-Journal-440850842779072|35.170.88.147|41.8243831|-88.0900762|DupageJournal||2015-01-29T14:45:45.000Z|3001471430|260|5060|
-|**[900+ more](https://github.com/MassMove/AttackVectors/blob/master/LocalJournals/sites-geocoded.csv)**||||||||||||
+|domain|twitterFollowers|siteName|facebookUrl|awsOrigin|lat|lng|twitterUsername|twitterAccountCreatedAt|twitterUserId|twitterFollowing|twitterTweets|
+|:-----|:---------------|:---------------|:------------|:-------|:----------|:--------|:-----|:-----|:----------------|:----------------------|:------------|
+|louisianarecord.com|27490|Louisiana Record|https://www.facebook.com/LouisianaRecord/|52.7.148.177|30.9842977|-91.9623327|louisianarecord|2010-10-13T21:58:46.000Z|202364607|23013|20433|
+|wvrecord.com|3991|West Virginia Record|https://www.facebook.com/WVRecord|52.7.148.177|38.5976262|-80.4549026|wvrecord|2009-11-19T11:38:43.000Z|91087040|329|11660|
+|legalnewsline.com|1666|Legal Newsline|https://www.facebook.com/pages/Legal-Newsline/299588323424419|52.7.148.177|43.6961725|-79.4389309|legalnewsline|2009-11-02T03:30:54.000Z|86864211|559|16089|
+|setexasrecord.com|1136|Southeast Texas Record|https://www.facebook.com/SETexasRecord/|52.7.148.177|30.063191|-94.134436|setexasrecord|2009-11-19T11:37:11.000Z|91086820|1442|15399|
+|cookcountyrecord.com|1114|Cook County Record|https://www.facebook.com/cookcountyrecord|52.7.148.177|41.7376587|-87.697554|CookRecord|2013-08-06T19:51:38.000Z|1651123645|408|12065|
+|madisonrecord.com|757|Madison - St. Clair Record|https://www.facebook.com/pages/MadisonSt-Clair-Record/164779816968453|52.7.148.177|43.0730517|-89.4012302|madisonrecord|2009-11-19T11:34:47.000Z|91086406|583|13633|
+|lakecountygazette.com|533|Lake County Gazette|https://www.facebook.com/Lake-County-Gazette-854479238006224|35.170.88.147|39.0839644|-122.8084496|lakecntygazette|2015-11-17T00:59:16.000Z|4206041674|249|4132|
+|kankakeetimes.com|487|Kankakee Times|https://www.facebook.com/kankakeetimes|35.170.88.147|41.1200325|-87.8611531|Kankakee_Times|2015-11-18T13:34:04.000Z|4218254801|244|2257|
+|pennrecord.com|485|Pennsylvania Record|https://www.facebook.com/pages/Pennsylvania-Record/338776239487764|52.7.148.177|41.2033216|-77.1945247|pennrecord|2011-05-16T13:28:41.000Z|299652000|219|7867|
+|dupagepolicyjournal.com|444|Dupage Policy Journal|https://www.facebook.com/DuPage-Policy-Journal-440850842779072|35.170.88.147|41.8243831|-88.0900762|DupageJournal|2015-01-29T14:45:45.000Z|3001471430|260|5060|
+|**[900+ more](https://github.com/MassMove/AttackVectors/blob/master/LocalJournals/sites.csv)**||||||||||||
 
 ### Methods
 
