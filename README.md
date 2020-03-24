@@ -43,7 +43,7 @@ Get the rest here: https://github.com/MassMove/AttackVectors/blob/master/LocalJo
 |kankakeetimes.com|487|Kankakee Times|https://www.facebook.com/kankakeetimes|35.170.88.147|41.1200325|-87.8611531|Kankakee_Times|2015-11-18T13:34:04.000Z|4218254801|244|2257|
 |pennrecord.com|485|Pennsylvania Record|https://www.facebook.com/pages/Pennsylvania-Record/338776239487764|52.7.148.177|41.2033216|-77.1945247|pennrecord|2011-05-16T13:28:41.000Z|299652000|219|7867|
 |dupagepolicyjournal.com|444|Dupage Policy Journal|https://www.facebook.com/DuPage-Policy-Journal-440850842779072|35.170.88.147|41.8243831|-88.0900762|DupageJournal|2015-01-29T14:45:45.000Z|3001471430|260|5060|
-|**[900+ more](https://github.com/MassMove/AttackVectors/blob/master/LocalJournals/sites.csv)**||||||||||||
+|**[1000+ more](https://github.com/MassMove/AttackVectors/blob/master/LocalJournals/sites.csv)**||||||||||||
 
 ### Methods
 
