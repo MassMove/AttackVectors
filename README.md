@@ -81,9 +81,7 @@ https://www.fec.gov/files/legal/murs/7148/19044475209.pdf
 
 >The Election Night disinformation blitz had all the markings of a foreign influence operation. In 2016, [Russian operatives] had worked in similar ways to contaminate U.S. political discourse—[posing as Black Lives Matter activists](https://www.usatoday.com/story/news/politics/2018/12/17/russia-social-media-senate-report/2334382002/) in an attempt to inflame racial divisions, and fanning pro-Trump conspiracy theories. (They even used Facebook to organize rallies, including one for Muslim supporters of Clinton in Washington, D.C., where they got [someone to hold up a sign](https://www.businessinsider.com/russians-organized-pro-anti-trump-rallies-to-sow-discord-2018-2#july-9-2016-washington-dc-2) attributing a fictional quote to the candidate: “I think Sharia law will be a powerful new direction of freedom.”)
 
->But when Twitter employees later reviewed the activity surrounding Kentucky’s election, they concluded that the [bots were largely based in America](https://www.nytimes.com/2019/11/10/us/politics/kentucky-election-disinformation-twitter.html)—a sign that political operatives here were learning to mimic Russian trolling tactics.
-
->But when Twitter employees later reviewed the activity surrounding Kentucky’s election, they concluded that the bots were largely based in America—a sign that political operatives here were learning to mimic [foreign tactics].
+>But when Twitter employees later reviewed the activity surrounding Kentucky’s election, they concluded that the [bots were largely based in America](https://www.nytimes.com/2019/11/10/us/politics/kentucky-election-disinformation-twitter.html)—a sign that political operatives here were learning to mimic [foreign tactics].
 
 Potentially state-backed information operations from the [Twitter Transparency Report](https://transparency.twitter.com/en/information-operations.html):
 
