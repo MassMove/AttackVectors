@@ -1083,3 +1083,10 @@ Development version available at [https://github.com/nikrolls/uBlock-Edge#edge](
     ||westsbvtimes.com
     ||westsfvtoday.com
     ||yubasuttertimes.com
+    ||bentleyvilleguide.com
+    ||columbusgroveguide.com
+    ||cornellransomguide.com
+    ||glendalesun.com
+    ||peoriasun.com
+    ||surprisejournal.com
+    ||uppertaconicguide.com
