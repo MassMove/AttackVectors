@@ -18,7 +18,7 @@ namespace HttpResponseMonitor
                 parser.SetDelimiters(",");
                 parser.ReadFields(); // skip header
 
-                String header = "awsOrigin,domain,lat,lng,locationVerified,httpResponseCode,contentLength,facebookUrl,siteName,twitterUsername,itunesAppStoreUrl,twitterAccountCreatedAt,twitterUserId,twitterFollowers,twitterFollowing,twitterTweets";
+                String header = "awsOrigin,domain,lat,lng,locationVerified,httpResponseCode,contentLength,facebookUrl,siteName,twitterUsername,itunesAppStoreUrl,twitterAccountCreatedAt,twitterUserId,twitterFollowers,twitterFollowing,twitterTweets,siteOperator";
                 String lines = header;
                 while (!parser.EndOfData)
                 {
@@ -41,6 +41,7 @@ namespace HttpResponseMonitor
                     String twitterFollowers = "";
                     String twitterFollowing = "";
                     String twitterTweets = "";
+                    String siteOperator = "";
 
                     Console.Write(domain + ": ");
 
@@ -83,7 +84,8 @@ namespace HttpResponseMonitor
                     line += twitterUserId + ",";
                     line += twitterFollowers + ",";
                     line += twitterFollowing + ",";
-                    line += twitterTweets;
+                    line += twitterTweets + ",";
+                    line += siteOperator;
 
                     lines += "\r\n" + line;
 
