@@ -14,14 +14,14 @@ namespace HttpResponseMonitor
             // ignore invalid certs so we can capture 404s
             ServicePointManager.ServerCertificateValidationCallback += (sender, cert, chain, sslPolicyErrors) => true;
 
-            // copy lat and lng from sites-geocoded.csv to sites.csv
-            using (TextFieldParser parser = new TextFieldParser("../../../../../sites-http-response-code.csv"))
+            // iterate through the domains in sites.csv
+            using (TextFieldParser parser = new TextFieldParser("../../../../../sites.csv"))
             {
                 parser.TextFieldType = FieldType.Delimited;
                 parser.SetDelimiters(",");
                 parser.ReadFields(); // skip header
 
-                String header = "awsOrigin,domain,lat,lng,locationVerified,httpResponseCode,contentLength,facebookUrl,siteName,twitterUsername,itunesAppStoreUrl,twitterAccountCreatedAt,twitterUserId,twitterFollowers,twitterFollowing,twitterTweets";
+                String header = "awsOrigin,domain,lat,lng,locationVerified,httpResponseCode,contentLength,facebookUrl,siteName,twitterUsername,itunesAppStoreUrl,twitterAccountCreatedAt,twitterUserId,twitterFollowers,twitterFollowing,twitterTweets,siteOperator";
                 String lines = header;
                 while (!parser.EndOfData)
                 {
@@ -44,6 +44,7 @@ namespace HttpResponseMonitor
                     String twitterFollowers = "";
                     String twitterFollowing = "";
                     String twitterTweets = "";
+                    String siteOperator = "";
 
                     try
                     {
@@ -51,6 +52,7 @@ namespace HttpResponseMonitor
                         twitterFollowers = fields[13];
                         twitterFollowing = fields[14];
                         twitterTweets = fields[15];
+                        siteOperator = fields[16];
                     }
                     catch (Exception ex)
                     {
@@ -62,13 +64,52 @@ namespace HttpResponseMonitor
                     {
                         HttpWebRequest request = (HttpWebRequest)WebRequest.Create("https://" + domain);
                         request.Method = "GET";
+
+                        //Fake firefox-like header. Valid HTTP request headers, particularly the user-agent are used to determine if
+                        //web request are valid. We can emulate different browsers using different headersl
+                        request.Headers["User-Agent"] = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36";
+
                         using (var response = request.GetResponse())
                         using (var stream = response.GetResponseStream())
                         using (var reader = new StreamReader(stream))
                         {
+                            HttpWebResponse webResponse = ((HttpWebResponse)response);
                             HttpStatusCode statusCode = ((HttpWebResponse)response).StatusCode;
                             httpResponseCode = ((int)statusCode).ToString();
                             contentLength = response.ContentLength.ToString();
+
+                            String responseString = reader.ReadToEnd();
+                            if (responseString.ToLower().Contains("corona"))
+                            {
+                                File.AppendAllText("../../../../../reports/corona/corona - " + DateTime.Now.ToString("yyyy-MM-dd") + ".txt", domain + "\r\n");
+                            }
+                            if (responseString.ToLower().Contains("covid-19"))
+                            {
+                                File.AppendAllText("../../../../../reports/corona/covid-19 - " + DateTime.Now.ToString("yyyy-MM-dd") + ".txt", domain + "\r\n");
+                            }
+                        }
+
+                        if (siteOperator == "")
+                        {
+                            request = (HttpWebRequest)WebRequest.Create("https://" + domain + "/privacy");
+                            using (var response = request.GetResponse())
+                            using (var stream = response.GetResponseStream())
+                            using (var reader = new StreamReader(stream))
+                            {
+                                HttpStatusCode statusCode = ((HttpWebResponse)response).StatusCode;
+                                httpResponseCode = ((int)statusCode).ToString();
+                                contentLength = response.ContentLength.ToString();
+
+                                String responseString = reader.ReadToEnd();
+                                if (responseString.Contains("Locality Labs"))
+                                {
+                                    siteOperator = "Locality Labs";
+                                }
+                                if (responseString.Contains("Metric Media"))
+                                {
+                                    siteOperator = "Metric Media";
+                                }
+                            }
                         }
                     }
                     catch (WebException we)
@@ -81,7 +122,7 @@ namespace HttpResponseMonitor
                         }
                     }
                     catch (Exception ex)
-                    { 
+                    {
                     }
 
                     // write a new line for the updated sites.csv
@@ -100,14 +141,16 @@ namespace HttpResponseMonitor
                     line += twitterUserId + ",";
                     line += twitterFollowers + ",";
                     line += twitterFollowing + ",";
-                    line += twitterTweets;
+                    line += twitterTweets + ",";
+                    line += siteOperator;
 
                     lines += "\r\n" + line;
 
                     Console.WriteLine(domain + ": " + httpResponseCode + ", " + contentLength);
                 }
-                File.WriteAllText("../../../../../sites2.csv", lines);
+                File.WriteAllText("../../../../../sites.csv", lines);
             }
         }
     }
 }
+
