@@ -1063,3 +1063,10 @@ For anybody that wants to add it in, this goes in the "Snippets" section. You ca
     .title[href*="westsbvtimes.com"]:before { content: "PROPAGANDA"; color: white; background-color: red; border: 2px solid #000; }
     .title[href*="westsfvtoday.com"]:before { content: "PROPAGANDA"; color: white; background-color: red; border: 2px solid #000; }
     .title[href*="yubasuttertimes.com"]:before { content: "PROPAGANDA"; color: white; background-color: red; border: 2px solid #000; }
+    .title[href*="bentleyvilleguide.com"]:before { content: "PROPAGANDA"; color: white; background-color: red; border: 2px solid #000; }
+    .title[href*="columbusgroveguide.com"]:before { content: "PROPAGANDA"; color: white; background-color: red; border: 2px solid #000; }
+    .title[href*="cornellransomguide.com"]:before { content: "PROPAGANDA"; color: white; background-color: red; border: 2px solid #000; }
+    .title[href*="glendalesun.com"]:before { content: "PROPAGANDA"; color: white; background-color: red; border: 2px solid #000; }
+    .title[href*="peoriasun.com"]:before { content: "PROPAGANDA"; color: white; background-color: red; border: 2px solid #000; }
+    .title[href*="surprisejournal.com"]:before { content: "PROPAGANDA"; color: white; background-color: red; border: 2px solid #000; }
+    .title[href*="uppertaconicguide.com"]:before { content: "PROPAGANDA"; color: white; background-color: red; border: 2px solid #000; }
