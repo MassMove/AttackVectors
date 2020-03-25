@@ -6,7 +6,7 @@ A repository to monitor attack vectors mentioned in the [billion-dollar disinfor
 
 >Parscale has indicated that he plans to open up a new front in this war: local news. Last year, he said the campaign intends to train “swarms of surrogates” to undermine negative coverage from local TV stations and newspapers. Polls have long found that Americans across the political spectrum trust local news more than national media. If the campaign has its way, that trust will be eroded by November.
 
->Running parallel to this effort, some conservatives have been experimenting with a scheme to exploit the credibility of local journalism. Over the past few years, hundreds of websites with innocuous-sounding names like the Arizona Monitor and The Kalamazoo Times have begun popping up. At first glance, they look like regular publications, complete with community notices and coverage of schools. But look closer and you’ll find that there are often no mastheads, few if any bylines, and no addresses for local offices. Many of them are organs of Republican lobbying groups; others belong to a mysterious company called Locality Labs, which is run by a conservative activist in Illinois. Readers are given no indication that these sites have political agendas—which is precisely what makes them valuable.
+>Running parallel to this effort, some conservatives have been experimenting with a [scheme to exploit the credibility of local journalism](https://www.nytimes.com/2019/10/31/upshot/fake-local-news.html). Over the past few years, hundreds of websites with innocuous-sounding names like the Arizona Monitor and The Kalamazoo Times have begun popping up. [At first glance, they look like regular publications, complete with community notices and coverage of schools](https://www.cjr.org/tow_center_reports/hundreds-of-pink-slime-local-news-outlets-are-distributing-algorithmic-stories-conservative-talking-points.php). But look closer and you’ll find that there are often no mastheads, few if any bylines, and no addresses for local offices. Many of them are organs of Republican lobbying groups; others belong to a mysterious company called Locality Labs, which is run by a conservative activist in Illinois. Readers are given no indication that these sites have political agendas—which is precisely what makes them valuable.
 
 Their shit looks really real: https://kalamazootimes.com until you start looking at all the articles at once: https://kalamazootimes.com/stories/tag/126-politics
 
@@ -47,9 +47,9 @@ Get the rest here: https://github.com/MassMove/AttackVectors/blob/master/LocalJo
 
 ### Methods
 
-Some of the methods used to find more domains are detailed in the [pull requests](https://github.com/MassMove/AttackVectors/pulls?q=is%3Apr+sort%3Acreated-asc+):
+The methods used to find more domains are detailed in the [pull requests](https://github.com/MassMove/AttackVectors/pulls?q=is%3Apr+sort%3Acreated-asc+) - spme highlights:
 
-- Google-fu with a sentence from their about page: https://www.google.com/search?q=%22Metric+Media+was+established+to+fill+the+void+in+community+news+after+years+of+decline+in+local+reporting+by+legacy+media.%22
+- We started with basic Google-fu using a sentence from their about page: https://www.google.com/search?q=%22Metric+Media+was+established+to+fill+the+void+in+community+news+after+years+of+decline+in+local+reporting+by+legacy+media.%22 (click on: "repeat the search with the omitted results included")
 
 - Dumped domains hosted by same servers on AWS
 
@@ -79,6 +79,10 @@ https://www.fec.gov/files/legal/murs/7148/19044475209.pdf
 
 ## Twitter
 
+>The Election Night disinformation blitz had all the markings of a foreign influence operation. In 2016, [Russian operatives] had worked in similar ways to contaminate U.S. political discourse—[posing as Black Lives Matter activists](https://www.usatoday.com/story/news/politics/2018/12/17/russia-social-media-senate-report/2334382002/) in an attempt to inflame racial divisions, and fanning pro-Trump conspiracy theories. (They even used Facebook to organize rallies, including one for Muslim supporters of Clinton in Washington, D.C., where they got [someone to hold up a sign](https://www.businessinsider.com/russians-organized-pro-anti-trump-rallies-to-sow-discord-2018-2#july-9-2016-washington-dc-2) attributing a fictional quote to the candidate: “I think Sharia law will be a powerful new direction of freedom.”)
+
+>But when Twitter employees later reviewed the activity surrounding Kentucky’s election, they concluded that the [bots were largely based in America](https://www.nytimes.com/2019/11/10/us/politics/kentucky-election-disinformation-twitter.html)—a sign that political operatives here were learning to mimic Russian trolling tactics.
+
 >But when Twitter employees later reviewed the activity surrounding Kentucky’s election, they concluded that the bots were largely based in America—a sign that political operatives here were learning to mimic [foreign tactics].
 
 Potentially state-backed information operations from the [Twitter Transparency Report](https://transparency.twitter.com/en/information-operations.html):
@@ -105,7 +109,7 @@ Potentially state-backed information operations from the [Twitter Transparency R
 
 ## Websites resembling official campaigns
 
->Last year, a website resembling an official Biden campaign page appeared on the internet. It emphasized elements of the candidate’s legislative record likely to hurt him in the Democratic primary—opposition to same-sex marriage, support for the Iraq War—and featured video clips of his awkward encounters with women. The site quickly became one of the most-visited Biden-related sites on the web. It was designed by a Trump consultant.
+>Last year, a website resembling an official Biden campaign page appeared on the internet. It emphasized elements of the candidate’s legislative record likely to hurt him in the Democratic primary—opposition to same-sex marriage, support for the Iraq War—and featured video clips of his awkward encounters with women. The site quickly became one of the most-visited Biden-related sites on the web. [It was designed by a Trump consultant](https://www.nytimes.com/2019/06/29/us/politics/fake-joe-biden-website.html).
 
 Not much to report on this front yet. Scouts?
 
