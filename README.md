@@ -4,11 +4,21 @@ A repository to monitor attack vectors mentioned in the [billion-dollar disinfor
 
 ## Local Journalism
 
+Some maps to relay the sheer magnitude of the operation with over a thousand domains operating as fake local journals:
+
+[QGIS visualization with domain info](https://massmove.github.io/AttackVectors/LocalJournals/map.html):
+
+![Local Journals Map](https://i.imgur.com/LP3SFEj.png "Local Journals Map")
+
+[Interactive Heat Map](https://arcg.is/0KmXKK):
+
+![Interactive Heat Map](https://i.imgur.com/TXO6xyN.png "Local Journals Heatmap")
+
+Their shit looks really real: https://kalamazootimes.com until you start looking at all the articles at once: https://kalamazootimes.com/stories/tag/126-politics
+
 >Parscale has indicated that he plans to open up a new front in this war: local news. Last year, he said the campaign intends to train “swarms of surrogates” to undermine negative coverage from local TV stations and newspapers. Polls have long found that Americans across the political spectrum trust local news more than national media. If the campaign has its way, that trust will be eroded by November.
 
 >Running parallel to this effort, some conservatives have been experimenting with a [scheme to exploit the credibility of local journalism](https://www.nytimes.com/2019/10/31/upshot/fake-local-news.html). Over the past few years, hundreds of websites with innocuous-sounding names like the Arizona Monitor and The Kalamazoo Times have begun popping up. [At first glance, they look like regular publications, complete with community notices and coverage of schools](https://www.cjr.org/tow_center_reports/hundreds-of-pink-slime-local-news-outlets-are-distributing-algorithmic-stories-conservative-talking-points.php). But look closer and you’ll find that there are often no mastheads, few if any bylines, and no addresses for local offices. Many of them are organs of Republican lobbying groups; others belong to a mysterious company called Locality Labs, which is run by a conservative activist in Illinois. Readers are given no indication that these sites have political agendas—which is precisely what makes them valuable.
-
-Their shit looks really real: https://kalamazootimes.com until you start looking at all the articles at once: https://kalamazootimes.com/stories/tag/126-politics
 
 ## Anti-Virus
 
@@ -58,18 +68,6 @@ The methods used to find more domains are detailed in the [pull requests](https:
 - Reverse IP lookup
 
 - Google BigQuery searches through 100s of TB in the HTTP Archive project for Google Analytics tags, Facebook pixels, and Quantserv IDs: https://discuss.httparchive.org/t/http-archive-project-vs-state-backed-disinformation-operations/1887
-
-## Interactive Maps
-
-Some maps to relay the sheer magnitude of the operation:
-
-[QGIS visualization with domain info](https://massmove.github.io/AttackVectors/LocalJournals/map.html):
-
-![Local Journals Map](https://i.imgur.com/LP3SFEj.png "Local Journals Map")
-
-[Interactive Heat Map](https://arcg.is/0KmXKK):
-
-![Interactive Heat Map](https://i.imgur.com/TXO6xyN.png "Local Journals Heatmap")
 
 ## Legal Findings
 
