@@ -694,20 +694,20 @@ awsOrigin,domain,lat,lng,locationVerified,httpResponseCode,contentLength,faceboo
 34.234.42.207,akbusinessdaily.com,,,0,200,53006,https://facebook.com/Alaska-Business-Daily-2099861930286698,Alaska Business Daily,,,,,,,,Metric Media
 34.234.42.207,albusinessdaily.com,,,0,200,78537,https://facebook.com/Alabama-Business-Daily-499614453836277/,Alabama Business Daily,,,,,,,,Metric Media
 34.234.42.207,arbusinessdaily.com,,,0,200,78972,https://facebook.com/Arkansas-Business-Daily-2181112815251856,Arkansas Business Daily,,,,,,,,Metric Media
-34.234.42.207,azbusinessdaily.com,,,0,200,79534,https://www.facebook.com/AZBusinessDaily/,Arizona Business Daily,,,,,,,,Metric Media
-34.234.42.207,cabusinessdaily.com,,,0,200,77700,https://facebook.com/California-Business-Daily-800849203443822,California Business Daily,,,,,,,,Metric Media
+34.234.42.207,azbusinessdaily.com,,,0,200,79534,https://www.facebook.com/AZBusinessDaily/,Arizona Business Daily,AZBizDaily,,,,,,,Metric Media
+34.234.42.207,cabusinessdaily.com,,,0,200,77700,https://facebook.com/California-Business-Daily-800849203443822,California Business Daily,CaBusinessDaily,,,,,,,Metric Media
 34.234.42.207,cobusinessdaily.com,,,0,200,75840,https://facebook.com/Colorado-Business-Daily-2021289557943148/,Colorado Business Daily,,,,,,,,Metric Media
 34.234.42.207,ctbusinessdaily.com,,,0,200,77452,https://facebook.com/Connecticut-Business-Daily-229590937823711/,Connecticut Business Daily,,,,,,,,Metric Media
 34.234.42.207,dcbusinessdaily.com,,,0,200,77788,https://www.facebook.com/DC-Business-Daily-477871215985975/,Washington D.C. Business Daily,,,,,,,,Metric Media
 34.234.42.207,debusinessdaily.com,,,0,200,79537,https://facebook.com/Delaware-Business-Daily-1684218098340690/,Delaware Business Daily,,,,,,,,Metric Media
-34.234.42.207,flbusinessdaily.com,,,0,200,75118,https://facebook.com/floridabizdaily,Florida Business Daily,,,,,,,,Metric Media
+34.234.42.207,flbusinessdaily.com,,,0,200,75118,https://facebook.com/floridabizdaily,Florida Business Daily,FLBizDaily,,,,,,,Metric Media
 34.234.42.207,gabusinessdaily.com,,,0,200,76167,https://www.facebook.com/pg/Georgia-Business-Daily-1010328595811403,Georgia Business Daily,,,,,,,,Metric Media
 34.234.42.207,hibusinessdaily.com,,,0,200,72848,https://facebook.com/Hawaii-Business-Daily-247929739329034,Hawaii Business Daily,,,,,,,,Metric Media
 34.234.42.207,iabusinessdaily.com,,,0,200,79004,https://www.facebook.com/Iowa-Business-Daily-653068658217747/,Iowa Business Daily,,,,,,,,
 34.234.42.207,idbusinessdaily.com,,,0,200,72029,https://facebook.com/Idaho-Business-Daily-1902761486691748,Idaho Business Daily,,,,,,,,Metric Media
-34.234.42.207,ilbusinessdaily.com,,,0,200,78888,https://facebook.com/ilbusinessdaily/,Illinois Business Daily,,,,,,,,Metric Media
+34.234.42.207,ilbusinessdaily.com,,,0,200,78888,https://facebook.com/ilbusinessdaily/,Illinois Business Daily,ILBizdaily,,,,,,,Metric Media
 34.234.42.207,indianabusinessdaily.com,39.7668804,-86.1565876,0,200,70650,https://facebook.com/Indiana-Business-Daily-210341736470656/,Indiana Business Daily,,,,,,,,Metric Media
-34.234.42.207,keystonebusinessnews.com,41.8427954,-87.9556981,0,200,75663,https://twitter.com/Keystone_Biz,Keystone Business News,,,,,,,,Metric Media
+34.234.42.207,keystonebusinessnews.com,41.8427954,-87.9556981,0,200,75663,https://twitter.com/Keystone_Biz,Keystone Business News,Keystone_Biz,,,,,,,Metric Media
 34.234.42.207,ksbusinessdaily.com,,,0,200,77595,https://facebook.com/Kansas-Business-Daily-2306278402715960/,Kansas Business Daily,,,,,,,,Metric Media
 34.234.42.207,kybusinessdaily.com,,,0,200,72025,https://facebook.com/Kentucky-Business-Daily-476329426162681,Kentucky Business Daily,,,,,,,,Metric Media
 34.234.42.207,labusinessdaily.com,,,0,200,79270,https://www.facebook.com/Louisiana-Business-Daily-909341742586701/,Louisiana Business Daily,,,,,,,,Metric Media
@@ -727,14 +727,14 @@ awsOrigin,domain,lat,lng,locationVerified,httpResponseCode,contentLength,faceboo
 34.234.42.207,nmbusinessdaily.com,,,0,200,75401,https://facebook.com/New-Mexico-Business-Daily-2099932086932806,New Mexico Business Daily,,,,,,,,Metric Media
 34.234.42.207,nvbusinessdaily.com,,,0,200,75539,https://facebook.com/Nevada-Business-Daily-523754801394758/,Nevada Business Daily,,,,,,,,Metric Media
 34.234.42.207,nybusinessdaily.com,,,0,200,80121,https://www.facebook.com/New-York-Business-Daily-783820915340052,New York Business Daily,,,,,,,,Metric Media
-34.234.42.207,ohbusinessdaily.com,,,0,200,78756,https://www.facebook.com/Ohio-Business-Daily-220891118469791/,Ohio Business Daily,,,,,,,,
+34.234.42.207,ohbusinessdaily.com,,,0,200,78756,https://www.facebook.com/Ohio-Business-Daily-220891118469791/,Ohio Business Daily,OHBusinessDaily,,,,,,,
 34.234.42.207,okbusinessdaily.com,,,0,200,74489,https://facebook.com/Oklahoma-Business-Daily-2038113229785394,Oklahoma Business Daily,,,,,,,,Metric Media
 34.234.42.207,orbusinessdaily.com,,,0,200,77491,https://www.facebook.com/Oregon-Business-Daily-201467027358188,Oregon Business Daily,,,,,,,,Metric Media
 34.234.42.207,palmettobusinessdaily.com,,,0,200,80138,https://www.facebook.com/palmettobusinessdaily,Palmetto Business Daily,,,,,,,,Metric Media
 34.234.42.207,ribusinessdaily.com,,,0,200,78418,https://facebook.com/Rhode-Island-Business-Daily-1754163088005617,Rhode Island Business Daily,,,,,,,,Metric Media
 34.234.42.207,sdbusinessdaily.com,,,0,200,73075,https://www.facebook.com/South-Dakota-Business-Daily-407009999729039/,South Dakota Business Daily,,,,,,,,Metric Media
 34.234.42.207,tnbusinessdaily.com,,,0,200,77515,https://facebook.com/Tennessee-Business-Daily-1971010509596695/,Tennessee Business Daily,,,,,,,,Metric Media
-34.234.42.207,txbusinessdaily.com,,,0,200,79745,https://www.facebook.com/txbusinessdaily,Texas Business Daily,,,,,,,,Metric Media
+34.234.42.207,txbusinessdaily.com,,,0,200,79745,https://www.facebook.com/txbusinessdaily,Texas Business Daily,txbizdaily,,,,,,,Metric Media
 34.234.42.207,utbusinessdaily.com,,,0,200,78148,https://www.facebook.com/Utah-Business-Daily-2029308027388517,Utah Business Daily,,,,,,,,Metric Media
 34.234.42.207,vabusinessdaily.com,,,0,200,80377,https://www.facebook.com/Virginia-Business-Daily-219747362174783/,Virginia Business Daily,,,,,,,,Metric Media
 34.234.42.207,vtbusinessdaily.com,,,0,200,74999,https://www.facebook.com/Vermont-Business-Daily-270091773743752,Vermont Business Daily,,,,,,,,Metric Media
@@ -794,7 +794,7 @@ awsOrigin,domain,lat,lng,locationVerified,httpResponseCode,contentLength,faceboo
 52.7.148.177,socalrecord.com,34.9592083,-116.419389,0,200,90096,,Southern California Record,,,,,,,,
 52.7.148.177,stlrecord.com,38.6270025,-90.1994042,0,200,106304,https://www.facebook.com/stlrecord,St. Louis Record,St_Louis_Record,https://itunes.apple.com/us/app/st-louisrecord/id1260557950,2016-12-16T16:36:59.000Z,8.10E+17,23,0,1882,Locality Labs - https://web.archive.org/web/20190401003534/https://stlrecord.com/privacy
 52.7.148.177,wvrecord.com,38.5976262,-80.4549026,0,200,103781,https://www.facebook.com/WVRecord,West Virginia Record,wvrecord,https://itunes.apple.com/us/app/wv-record/id599538288,2009-11-19T11:38:43.000Z,91087040,3991,329,11660,Locality Labs - https://web.archive.org/web/20190323125727/https://wvrecord.com/privacy
-34.200.186.167,desmoinesguide.com,,,0,200,-1,https://www.facebook.com/DesMoinesGuide/,,,,,,,,,Locality Labs
+34.200.186.167,desmoinesguide.com,,,0,200,-1,https://www.facebook.com/DesMoinesGuide/,,DesMoinesGuide,,,,,,,Locality Labs
 34.200.186.167,ellensburgguide.com,,,0,200,24876,https://www.facebook.com/Ellensburg-Guide-204235136761680,,,,,,,,,Locality Labs
 34.200.186.167,tricountytoday.com,,,0,200,24871,https://www.facebook.com/Tri-County-Today-457688771290599,,,,,,,,,Locality Labs
 34.200.186.167,yelmguide.com,,,0,200,24958,,,,,,,,,,Locality Labs
@@ -802,15 +802,15 @@ awsOrigin,domain,lat,lng,locationVerified,httpResponseCode,contentLength,faceboo
 34.200.186.167,germantownreview.com,,,0,200,-1,https://www.facebook.com/Germantown-Review-1418821631515369/,,,,,,,,,Locality Labs
 34.200.186.167,perryguide.com,,,0,200,23540,https://www.facebook.com/Perry-Guide-188256595031869/,,,,,,,,,Locality Labs
 34.200.186.167,vallianttoday.com,,,0,200,23705,https://www.facebook.com/Valliant-Today-261441214346950/,,,,,,,,,Locality Labs
-34.200.186.167,ruraltoday.com,,,0,200,24060,https://www.facebook.com/Rural-Today-917924948345445/,,,,,,,,,Locality Labs
+34.200.186.167,ruraltoday.com,,,0,200,24060,https://www.facebook.com/Rural-Today-917924948345445/,,rural_today,,,,,,,Locality Labs
 34.200.186.167,mabeltoday.com,,,0,200,27345,https://www.facebook.com/Mabel-Today-121328348477420/,,,,,,,,,Locality Labs
 34.200.186.167,monontoday.com,,,0,200,27067,https://www.facebook.com/Monon-Today-127352687865063/,,,,,,,,,Locality Labs
 34.200.186.167,almastandard.com,,,0,200,23069,https://www.facebook.com/pg/Alma-Standard-151440572091088/about/?ref=page_internal,,,,,,,,,Locality Labs
 34.200.186.167,mtenterprisetoday.com,,,0,200,-1,https://www.facebook.com/Mt-Enterprise-Today-1696677627305543/,,,,,,,,,Locality Labs
 34.200.186.167,greenhillsreporter.com,,,0,200,26261,https://www.facebook.com/,,,,,,,,,Locality Labs
-34.194.209.70,johnstontimes.com,,,0,200,55591,https://www.facebook.com/Johnston-Times-717831221674951/,,,,,,,,,Locality Labs
+34.194.209.70,johnstontimes.com,,,0,200,55591,https://www.facebook.com/Johnston-Times-717831221674951/,,JohnstonTimes,,,,,,,Locality Labs
 34.194.209.70,jonescountynews.com,,,0,200,31691,https://www.facebook.com/Jones-County-News-211760629380203,,,,,,,,,Locality Labs
-34.194.209.70,clivenews.com,,,0,200,56799,https://www.facebook.com/Clive-News-755922567925136/?business_id=941016566001347,,,,,,,,,Locality Labs
+34.194.209.70,clivenews.com,,,0,200,56799,https://www.facebook.com/Clive-News-755922567925136/?business_id=941016566001347,,Clive_News,,,,,,,Locality Labs
 34.194.209.70,warrencountynews.com,,,0,200,37611,,,,,,,,,,Locality Labs
 34.194.209.70,buchanancountynews.com,,,0,200,34782,,,,,,,,,,Locality Labs
 34.194.209.70,shelbycountytimes.com,,,0,200,32258,,,,,,,,,,Locality Labs
@@ -822,111 +822,111 @@ awsOrigin,domain,lat,lng,locationVerified,httpResponseCode,contentLength,faceboo
 34.194.209.70,ringgolddecaturnews.com,,,0,200,32273,,,,,,,,,,Locality Labs
 34.194.209.70,montgomeryadamsnews.com,,,0,200,36310,,,,,,,,,,Locality Labs
 34.194.209.70,crawfordcountytimes.com,,,0,200,31933,,,,,,,,,,Locality Labs
-34.194.209.70,grimesjournal.com,,,0,200,55779,https://www.facebook.com/Grimes-Journal-122490291717849,,,,,,,,,Locality Labs
-34.194.209.70,urbandaletimes.com,,,0,200,56883,https://www.facebook.com/theurbandaletimes/,,,,,,,,,Locality Labs
-34.194.209.70,norwalktimes.com,,,0,200,49725,https://www.facebook.com/Norwalk-Times-1429771880447737,,,,,,,,,Locality Labs
-34.194.209.70,waukeetimes.com,,,0,200,56202,https://www.facebook.com/Waukee-Times-1363239380455427/,,,,,,,,,Locality Labs
+34.194.209.70,grimesjournal.com,,,0,200,55779,https://www.facebook.com/Grimes-Journal-122490291717849,,GrimesJournal,,,,,,,Locality Labs
+34.194.209.70,urbandaletimes.com,,,0,200,56883,https://www.facebook.com/theurbandaletimes/,,Urbandale_Times,,,,,,,Locality Labs
+34.194.209.70,norwalktimes.com,,,0,200,49725,https://www.facebook.com/Norwalk-Times-1429771880447737,,NorwalkTimes,,,,,,,Locality Labs
+34.194.209.70,waukeetimes.com,,,0,200,56202,https://www.facebook.com/Waukee-Times-1363239380455427/,,WaukeeTimes,,,,,,,Locality Labs
 34.194.209.70,cretereview.com,,,0,200,54353,,,,,,,,,,Locality Labs
-34.194.209.70,lansingreporter.com,,,0,200,54429,https://www.facebook.com/Lansing-Reporter-334520970386694,,,,,,,,,Locality Labs
+34.194.209.70,lansingreporter.com,,,0,200,54429,https://www.facebook.com/Lansing-Reporter-334520970386694,,LansingReporter,,,,,,,Locality Labs
 34.194.209.70,lynwoodtimes.com,,,0,200,52906,,,,,,,,,,Locality Labs
 34.194.209.70,ankenyguide.com,,,0,200,53916,https://www.facebook.com/Ankeny-Guide-216923532596190,,,,,,,,,Locality Labs
-34.227.210.63,collegeparktoday.com,,,0,200,68505,https://www.facebook.com/College-Park-Today-212946995980103,,,,,,,,,Locality Labs
+34.227.210.63,collegeparktoday.com,,,0,200,68505,https://www.facebook.com/College-Park-Today-212946995980103,,CollegeParkTdy,,,,,,,Locality Labs
 34.227.210.63,apopkatimes.com,,,0,200,69310,https://www.facebook.com/Apopka-Times-2080209481992651,,,,,,,,,Locality Labs
-34.227.210.63,baldwinparktoday.com,,,0,200,77897,https://www.facebook.com/Baldwin-Park-Today-174155429916026,,,,,,,,,Locality Labs
-34.227.210.63,collegeparktoday.com,,,0,200,68505,https://www.facebook.com/College-Park-Today-212946995980103,,,,,,,,,Locality Labs
-34.227.210.63,doctorphillipstoday.com,,,0,200,72713,https://www.facebook.com/Doctor-Phillips-Today-1824735680919207,,,,,,,,,Locality Labs
+34.227.210.63,baldwinparktoday.com,,,0,200,77897,https://www.facebook.com/Baldwin-Park-Today-174155429916026,,BaldwinParkTdy,,,,,,,Locality Labs
+34.227.210.63,collegeparktoday.com,,,0,200,68505,https://www.facebook.com/College-Park-Today-212946995980103,,CollegeParkTdy,,,,,,,Locality Labs
+34.227.210.63,doctorphillipstoday.com,,,0,200,72713,https://www.facebook.com/Doctor-Phillips-Today-1824735680919207,,DrPhillipsToday,,,,,,,Locality Labs
 34.227.210.63,goldenrodnews.com,,,0,200,72897,https://www.facebook.com/Goldenrod-News-1674317559290723,,,,,,,,,Locality Labs
-34.227.210.63,gothatoday.com,,,0,200,71903,https://www.facebook.com/Gotha-Today-341023709635364,,,,,,,,,Locality Labs
-34.227.210.63,hunterscreeknews.com,,,0,200,71715,https://www.facebook.com/Hunters-Creek-News-213427642780196,,,,,,,,,Locality Labs
-34.227.210.63,lakebuenavistanews.com,,,0,200,-1,https://www.facebook.com/Lake-Buena-Vista-News-241347899750824,,,,,,,,,Locality Labs
+34.227.210.63,gothatoday.com,,,0,200,71903,https://www.facebook.com/Gotha-Today-341023709635364,,GothaToday,,,,,,,Locality Labs
+34.227.210.63,hunterscreeknews.com,,,0,200,71715,https://www.facebook.com/Hunters-Creek-News-213427642780196,,HuntersCreekNws,,,,,,,Locality Labs
+34.227.210.63,lakebuenavistanews.com,,,0,200,-1,https://www.facebook.com/Lake-Buena-Vista-News-241347899750824,,LakeBV_News,,,,,,,Locality Labs
 34.227.210.63,lakebutlernews.com,,,0,200,68262,https://www.facebook.com/Lake-Butler-News-364800094012229,,,,,,,,,Locality Labs
 34.227.210.63,lakehartnews.com,,,0,200,-1,https://www.facebook.com/Lake-Hart-News-455480251574168,,,,,,,,,Locality Labs
-34.227.210.63,lakenonatoday.com,,,0,200,74190,https://www.facebook.com/Lake-Nona-Today-212796526170011,,,,,,,,,Locality Labs
-34.227.210.63,maitlandtoday.com,,,0,200,69910,https://www.facebook.com/Maitland-Today-2332478370312235,,,,,,,,,Locality Labs
+34.227.210.63,lakenonatoday.com,,,0,200,74190,https://www.facebook.com/Lake-Nona-Today-212796526170011,,LakeNonaToday,,,,,,,Locality Labs
+34.227.210.63,maitlandtoday.com,,,0,200,69910,https://www.facebook.com/Maitland-Today-2332478370312235,,MaitlandToday,,,,,,,Locality Labs
 34.227.210.63,ocoeetoday.com,,,0,200,-1,https://www.facebook.com/Ocoee-Today-986706811493040,,,,,,,,,Locality Labs
 34.227.210.63,wadeviewparknews.com,,,0,200,74095,https://www.facebook.com/Wadeview-Park-News-206260250203068,,,,,,,,,Locality Labs
 34.227.210.63,windermeretoday.com,,,0,200,77085,https://www.facebook.com/Windermere-Today-398082274018201,,,,,,,,,Locality Labs
 54.152.78.38,fdahealthnews.com,,,0,200,38214,https://www.facebook.com/FDA-Health-News-1249492355204714,,,,,,,,,Locality Labs
 54.152.78.38,fdareporter.com,,,0,200,40065,https://www.facebook.com/FDA-Reporter-573864359780580,,,,,,,,,Locality Labs
 54.152.78.38,bartforillinois.com,,,0,404,169,,,,,,,,,,
-54.152.78.38,franklinarcher.com,,,0,200,12437,https://www.facebook.com/FranklinArcherPublishing,,,,,,,,,
+54.152.78.38,franklinarcher.com,,,0,200,12437,https://www.facebook.com/FranklinArcherPublishing,,FA_Publishing,,,,,,,
 54.152.78.38,therecordinc.com,,,0,200,4004,,,,,,,,,,Locality Labs
 54.152.78.38,tobacconewswire.com,,,0,200,41619,https://www.facebook.com/Tobacco-News-Wire-322986811692310,,,,,,,,,Locality Labs
 54.152.78.38,electcolonelcraigwilcox.com,,,0,404,2294,,,,,,,,,,
 54.152.78.38,toniaforillinois.com,,,0,404,169,,,,,,,,,,
 54.152.78.38,votejillian.com,,,0,404,2294,,,,,,,,,,
 54.152.78.38,westlooptoday.com,,,0,200,-1,,,,,,,,,,Metric Media
-34.200.186.167,ashlandreview.com,,,0,200,24920,https://www.facebook.com/Ashland-Review-459979407679889/,,,,,,,,,Locality Labs
-34.200.186.167,baragaguide.com,,,0,200,29251,https://www.facebook.com/Baraga-Guide-1985284001699439/,,,,,,,,,Locality Labs
-34.200.186.167,beggsguide.com,,,0,200,24277,https://www.facebook.com/Beggs-Guide-309520312817886/,,,,,,,,,Locality Labs
-34.200.186.167,bisonguide.com,,,0,200,24859,https://www.facebook.com/Bison-Guide-844926885683808/,,,,,,,,,Locality Labs
+34.200.186.167,ashlandreview.com,,,0,200,24920,https://www.facebook.com/Ashland-Review-459979407679889/,,AshlandReview,,,,,,,Locality Labs
+34.200.186.167,baragaguide.com,,,0,200,29251,https://www.facebook.com/Baraga-Guide-1985284001699439/,,BaragaGuide,,,,,,,Locality Labs
+34.200.186.167,beggsguide.com,,,0,200,24277,https://www.facebook.com/Beggs-Guide-309520312817886/,,BeggsGuide,,,,,,,Locality Labs
+34.200.186.167,bisonguide.com,,,0,200,24859,https://www.facebook.com/Bison-Guide-844926885683808/,,GuideBison,,,,,,,Locality Labs
 34.200.186.167,bixbyguide.com,,,0,200,26623,https://www.facebook.com/Bixby-Guide-1594877653856369/,,,,,,,,,Locality Labs
 34.200.186.167,bluehillguide.com,,,0,200,-1,https://www.facebook.com/Blue-Hill-Guide-1870809903158389/,,,,,,,,,Locality Labs
-34.194.209.70,boonecountyguide.com,,,0,200,37233,https://www.facebook.com/Boone-County-Guide-1815346611812744/,,,,,,,,,Locality Labs
+34.194.209.70,boonecountyguide.com,,,0,200,37233,https://www.facebook.com/Boone-County-Guide-1815346611812744/,,BooneCoGuide,,,,,,,Locality Labs
 34.200.186.167,bpsmoguide.com,,,0,200,23550,https://www.facebook.com/BPS-Guide-243848249428456/,,,,,,,,,Locality Labs
 34.200.186.167,branchguide.com,,,0,200,22740,https://www.facebook.com/Branch-Guide-1341498369271106/,,,,,,,,,Locality Labs
 34.200.186.167,calaverasguide.com,,,0,200,25556,https://www.facebook.com/Calaveras-Guide-1568995813145849/,,,,,,,,,Locality Labs
-34.200.186.167,canadianvalleyguide.com,,,0,200,23937,https://www.facebook.com/Canadian-Valley-Guide-425119107853401/,,,,,,,,,Locality Labs
-34.194.209.70,carrollcoguide.com,,,0,200,37374,https://www.facebook.com/Carrol-County-Guide-2017734631787305/,,,,,,,,,Locality Labs
-34.194.209.70,cedarfallsguide.com,,,0,200,33840,https://www.facebook.com/Cedar-Falls-Guide-1875696896028049/,,,,,,,,,Locality Labs
-34.194.209.70,clintonreview.com,,,0,200,36913,https://www.facebook.com/Clinton-Review-1909442899331225,,,,,,,,,Locality Labs
-34.200.186.167,coldspringguide.com,,,0,200,30442,https://www.facebook.com/Coldspring-Guide-1476183462421583/,,,,,,,,,Locality Labs
-34.200.186.167,colemancountyguide.com,,,0,200,23425,https://www.facebook.com/Coleman-County-Guide-1743458979277887/,,,,,,,,,Locality Labs
+34.200.186.167,canadianvalleyguide.com,,,0,200,23937,https://www.facebook.com/Canadian-Valley-Guide-425119107853401/,,CanadianVGuide,,,,,,,Locality Labs
+34.194.209.70,carrollcoguide.com,,,0,200,37374,https://www.facebook.com/Carrol-County-Guide-2017734631787305/,,CarrollCoGuide,,,,,,,Locality Labs
+34.194.209.70,cedarfallsguide.com,,,0,200,33840,https://www.facebook.com/Cedar-Falls-Guide-1875696896028049/,,GuideCedar ,,,,,,,Locality Labs
+34.194.209.70,clintonreview.com,,,0,200,36913,https://www.facebook.com/Clinton-Review-1909442899331225,,clintonreview,,,,,,,Locality Labs
+34.200.186.167,coldspringguide.com,,,0,200,30442,https://www.facebook.com/Coldspring-Guide-1476183462421583/,,ColdspringGuide,,,,,,,Locality Labs
+34.200.186.167,colemancountyguide.com,,,0,200,23425,https://www.facebook.com/Coleman-County-Guide-1743458979277887/,,ColemanCoGuide,,,,,,,Locality Labs
 34.200.186.167,coloradovalleyguide.com,,,0,200,26018,https://www.facebook.com/Colorado-Valley-Guide-156553831547449/,,,,,,,,,Locality Labs
-34.194.209.70,dallascountyreview.com,,,0,200,37018,https://www.facebook.com/Dallas-County-Review-1593527680668708/,,,,,,,,,Locality Labs
-34.194.209.70,delawarecoguide.com,,,0,200,37983,https://www.facebook.com/DelawareCountyGuide/,,,,,,,,,Locality Labs
-34.194.209.70,dewittreview.com,,,0,200,36410,https://www.facebook.com/DeWitt-Review-1440986479287027,,,,,,,,,Locality Labs
-34.194.209.70,dubuquecoguide.com,,,0,200,38181,https://www.facebook.com/Dubuque-County-Guide-1847307065525165/,,,,,,,,,Locality Labs
+34.194.209.70,dallascountyreview.com,,,0,200,37018,https://www.facebook.com/Dallas-County-Review-1593527680668708/,,DallasCoReview,,,,,,,Locality Labs
+34.194.209.70,delawarecoguide.com,,,0,200,37983,https://www.facebook.com/DelawareCountyGuide/,,DelawareGuide,,,,,,,Locality Labs
+34.194.209.70,dewittreview.com,,,0,200,36410,https://www.facebook.com/DeWitt-Review-1440986479287027,,dewitt_review,,,,,,,Locality Labs
+34.194.209.70,dubuquecoguide.com,,,0,200,38181,https://www.facebook.com/Dubuque-County-Guide-1847307065525165/,,DubuqueGuide,,,,,,,Locality Labs
 34.194.209.70,egyptianreview.com,,,0,200,33349,https://www.facebook.com/Egyptian-Review-637475996450034/,,,,,,,,,Locality Labs
-34.194.209.70,elkhornguide.com,,,0,200,32471,https://www.facebook.com/Elk-Horn-Guide-1867133576888422,,,,,,,,,Locality Labs
-34.194.209.70,englishvalleyguide.com,,,0,200,32996,https://www.facebook.com/English-Valley-Guide-114349272481224/,,,,,,,,,Locality Labs
+34.194.209.70,elkhornguide.com,,,0,200,32471,https://www.facebook.com/Elk-Horn-Guide-1867133576888422,,elkhornguide,,,,,,,Locality Labs
+34.194.209.70,englishvalleyguide.com,,,0,200,32996,https://www.facebook.com/English-Valley-Guide-114349272481224/,,EngValleyGuide,,,,,,,Locality Labs
 34.200.186.167,fiveareaguide.com,,,0,200,24524,https://www.facebook.com/Five-Area-Guide-1757065161258341/,,,,,,,,,Locality Labs
-34.194.209.70,fairfieldreview.com,,,0,200,33429,https://www.facebook.com/Fairfield-Review-1750010061995543,,,,,,,,,Locality Labs
+34.194.209.70,fairfieldreview.com,,,0,200,33429,https://www.facebook.com/Fairfield-Review-1750010061995543,,fairfieldreview,,,,,,,Locality Labs
 34.200.186.167,fallscityguide.com,,,0,200,28294,https://www.facebook.com/Falls-City-Guide-244592936019000/,,,,,,,,,Locality Labs
 34.200.186.167,floydvalleyguide.com,,,0,200,29031,https://www.facebook.com/Floyd-Valley-Guide-1262643997188971/,,,,,,,,,Locality Labs
 34.200.186.167,galvaguide.com,,,0,200,23951,https://www.facebook.com/Galva-Guide-1333622713391965/,,,,,,,,,Locality Labs
-34.194.209.70,glenelderguide.com,,,0,200,32954,https://www.facebook.com/Glen-Elder-Guide-1490678470962951,,,,,,,,,Locality Labs
+34.194.209.70,glenelderguide.com,,,0,200,32954,https://www.facebook.com/Glen-Elder-Guide-1490678470962951,,glenelderguide,,,,,,,Locality Labs
 34.194.209.70,grayguide.com,,,0,200,37538,https://www.facebook.com/Gray-Guide-1358510860885277/,,,,,,,,,Locality Labs
 34.194.209.70,greenecountyguide.com,,,0,200,32628,https://www.facebook.com/Greene-County-Guide-512323145825367/,,,,,,,,,Locality Labs
 34.194.209.70,grundyguide.com,,,0,200,32618,https://www.facebook.com/Grundy-Guide-1836715389980640/,,,,,,,,,Locality Labs
 34.194.209.70,guthriecountyguide.com,,,0,200,32295,https://www.facebook.com/Guthrie-County-Guide-1811578862492480/,,,,,,,,,Locality Labs
 34.200.186.167,hancockguide.com,,,0,200,29540,https://www.facebook.com/Hancock-Guide-1563146420363257/,,,,,,,,,Locality Labs
-34.200.186.167,hancocknyguide.com,,,0,200,24285,,,,,,,,,,Locality Labs
+34.200.186.167,hancocknyguide.com,,,0,200,24285,,,DupageJournal,,,,,,,Locality Labs
 34.200.186.167,holyroodguide.com,,,0,200,23635,https://www.facebook.com/Holyrood-Guide-103878883530818/,,,,,,,,,Locality Labs
 34.194.209.70,humboldtreview.com,,,0,200,32138,https://www.facebook.com/Humboldt-Review-296458807477637/,,,,,,,,,Locality Labs
-34.194.209.70,idasacguide.com,,,0,200,35884,https://www.facebook.com/Ida-Sac-Guide-238860069922950,,,,,,,,,Locality Labs
-34.194.209.70,indianolaguide.com,,,0,200,37797,https://www.facebook.com/IndianolaGuide/,,,,,,,,,Locality Labs
-34.194.209.70,indiantownguide.com,,,0,200,33368,https://www.facebook.com/Indiantown-Guide-402621240117992,,,,,,,,,Locality Labs
+34.194.209.70,idasacguide.com,,,0,200,35884,https://www.facebook.com/Ida-Sac-Guide-238860069922950,,idasacguide,,,,,,,Locality Labs
+34.194.209.70,indianolaguide.com,,,0,200,37797,https://www.facebook.com/IndianolaGuide/,,IndianolaGuide,,,,,,,Locality Labs
+34.194.209.70,indiantownguide.com,,,0,200,33368,https://www.facebook.com/Indiantown-Guide-402621240117992,,indiantownguide,,,,,,,Locality Labs
 34.200.186.167,industrytxguide.com,,,0,200,25027,https://www.facebook.com/Industry-Guide-1991562751067262/,,,,,,,,,Locality Labs
 34.200.186.167,iowaregionalguide.com,,,0,200,29335,https://www.facebook.com/Iowa-Regional-Guide-1475824399157647/,,,,,,,,,Locality Labs
-34.194.209.70,jacksoncoguide.com,,,0,200,36365,https://www.facebook.com/Jackson-County-Guide-282311458866135,,,,,,,,,Locality Labs
+34.194.209.70,jacksoncoguide.com,,,0,200,36365,https://www.facebook.com/Jackson-County-Guide-282311458866135,,jacksoncoguide,,,,,,,Locality Labs
 34.200.186.167,jacksonreporter.com,,,0,200,25484,https://www.facebook.com/Jackson-Reporter-1662333263804398,,,,,,,,,Locality Labs
-34.194.209.70,jaspercountyguide.com,,,0,200,37409,https://www.facebook.com/JasperCountyGuide/,,,,,,,,,Locality Labs
+34.194.209.70,jaspercountyguide.com,,,0,200,37409,https://www.facebook.com/JasperCountyGuide/,,JasperCoGuide,,,,,,,Locality Labs
 34.200.186.167,jayokguide.com,,,0,200,28731,https://www.facebook.com/Jay-Guide-1814710752189898/,,,,,,,,,Locality Labs
 34.200.186.167,laharpeguide.com,,,0,200,26031,https://www.facebook.com/La-Harpe-Guide-1365424946825952/,,,,,,,,,Locality Labs
 34.200.186.167,linncountyguide.com,,,0,200,23049,https://www.facebook.com/Linn-County-Guide-1499594400084631/,,,,,,,,,Locality Labs
-34.194.209.70,madisoncountyguide.com,,,0,200,34520,https://www.facebook.com/Madison-County-Guide-434413516939336/,,,,,,,,,Locality Labs
-34.194.209.70,mahaskaguide.com,,,0,,,https://www.facebook.com/Mahaska-County-Guide-178672769325043/?hc_ref=NEWSFEED,,,,,,,,,Locality Labs
-34.194.209.70,marioncountyguide.com,,,0,200,37466,https://www.facebook.com/MarionCountyGuide/,,,,,,,,,Locality Labs
+34.194.209.70,madisoncountyguide.com,,,0,200,34520,https://www.facebook.com/Madison-County-Guide-434413516939336/,,MadisonCoGuide,,,,,,,Locality Labs
+34.194.209.70,mahaskaguide.com,,,0,,,https://www.facebook.com/Mahaska-County-Guide-178672769325043/?hc_ref=NEWSFEED,,MahaskaCoGuide,,,,,,,Locality Labs
+34.194.209.70,marioncountyguide.com,,,0,200,37466,https://www.facebook.com/MarionCountyGuide/,,MarionCoGuide,,,,,,,Locality Labs
 34.194.209.70,marshallguide.com,,,0,200,33621,https://www.facebook.com/Marshall-Guide-1528079850598528/,,,,,,,,,Locality Labs
 34.194.209.70,metroeasttoday.com,,,0,200,28981,https://www.facebook.com/Metro-East-Today-252013861939499/,,,,,,,,,Locality Labs
 34.200.186.167,middleburghguide.com,,,0,200,23912,https://www.facebook.com/Middleburgh-Guide-1441708152542111/,,,,,,,,,Locality Labs
-34.194.209.70,miltonvaleguide.com,,,0,200,33027,https://www.facebook.com/Miltonvale-Guide-641055629420817,,,,,,,,,Locality Labs
+34.194.209.70,miltonvaleguide.com,,,0,200,33027,https://www.facebook.com/Miltonvale-Guide-641055629420817,,miltonvaleguide,,,,,,,Locality Labs
 34.194.209.70,moapavalleyguide.com,,,0,200,35723,https://www.facebook.com/Moapa-Valley-Guide-1888001961418706/,,,,,,,,,Locality Labs
 34.200.186.167,moundridgeguide.com,,,0,200,24572,https://www.facebook.com/Moundridge-Guide-348759095526653/,,,,,,,,,Locality Labs
-34.194.209.70,mtpleasantguide.com,,,0,200,36534,https://www.facebook.com/Mt-Pleasant-Guide-1380491851993850,,,,,,,,,Locality Labs
+34.194.209.70,mtpleasantguide.com,,,0,200,36534,https://www.facebook.com/Mt-Pleasant-Guide-1380491851993850,,mtpleasantguide,,,,,,,Locality Labs
 34.200.186.167,munisingguide.com,,,0,200,26072,https://www.facebook.com/Munising-Guide-449970635357361/,,,,,,,,,Locality Labs
 34.200.186.167,nehalemguide.com,,,0,200,25136,https://www.facebook.com/Nehalem-Guide-235350566948742/,,,,,,,,,Locality Labs
 34.194.209.70,northtexasreview.com,,,0,200,31784,https://www.facebook.com/North-Texas-Review-320539448365594/,,,,,,,,,Locality Labs
 34.200.186.167,nuclaguide.com,,,0,200,24271,https://www.facebook.com/Nucla-Guide-1510119102394947/,,,,,,,,,Locality Labs
 34.200.186.167,ontonagonguide.com,,,0,200,24711,https://www.facebook.com/Ontonagon-Guide-262438857555607/,,,,,,,,,Locality Labs
 34.194.209.70,orwellguide.com,,,0,404,2294,,,,,,,,,,
-34.194.209.70,ottumwaguide.com,,,0,200,37285,https://www.facebook.com/Ottumwa-Guide-293782697718707,,,,,,,,,Locality Labs
+34.194.209.70,ottumwaguide.com,,,0,200,37285,https://www.facebook.com/Ottumwa-Guide-293782697718707,,ottumwaguide,,,,,,,Locality Labs
 34.194.209.70,oxfordmetoday.com,,,0,200,35696,https://www.facebook.com/Oxford-Today-1715540181794123/,,,,,,,,,Locality Labs
 34.200.186.167,palmertonguide.com,,,0,200,27775,https://www.facebook.com/Palmerton-Guide-1934424456786479/,,,,,,,,,Locality Labs
 34.194.209.70,peculiarguide.com,,,0,404,2294,,,,,,,,,,
-34.194.209.70,pokalambroguide.com,,,0,200,32363,https://www.facebook.com/Poka-Lambro-Guide-183705765470421,,,,,,,,,Locality Labs
-34.194.209.70,poweshiekguide.com,,,0,200,37208,https://www.facebook.com/Poweshiek-County-Guide-1700202443613980/,,,,,,,,,Locality Labs
+34.194.209.70,pokalambroguide.com,,,0,200,32363,https://www.facebook.com/Poka-Lambro-Guide-183705765470421,,pokalambroguide,,,,,,,Locality Labs
+34.194.209.70,poweshiekguide.com,,,0,200,37208,https://www.facebook.com/Poweshiek-County-Guide-1700202443613980/,,PoweshiekGuide,,,,,,,Locality Labs
 34.200.186.167,rivieratxguide.com,,,0,200,23650,https://www.facebook.com/Riviera-Guide-1196912987085281/,,,,,,,,,Locality Labs
 34.200.186.167,sacoriverguide.com,,,0,200,28274,https://www.facebook.com/Saco-River-Guide-163727760829017/,,,,,,,,,Locality Labs
 34.200.186.167,santarosareview.com,,,0,404,162,,,,,,,,,,
@@ -938,10 +938,10 @@ awsOrigin,domain,lat,lng,locationVerified,httpResponseCode,contentLength,faceboo
 34.194.209.70,tamaguide.com,,,0,200,32105,https://www.facebook.com/Tama-Guide-296323947484455/,,,,,,,,,Locality Labs
 34.200.186.167,unitymaineguide.com,,,0,200,29339,https://www.facebook.com/Unity-Guide-532642810458701/,,,,,,,,,Locality Labs
 34.194.209.70,wamegoguide.com,,,0,200,31757,https://www.facebook.com/Wamego-Guide-818367991648427/,,,,,,,,,Locality Labs
-34.194.209.70,washingtoncoguide.com,,,0,200,36549,https://www.facebook.com/Washington-County-Guide-1487154191335357/,,,,,,,,,Locality Labs
+34.194.209.70,washingtoncoguide.com,,,0,200,36549,https://www.facebook.com/Washington-County-Guide-1487154191335357/,,WashCountyGuide,,,,,,,Locality Labs
 34.194.209.70,waskomreview.com,,,0,200,32650,https://www.facebook.com/Waskom-Review-223529584807188/,,,,,,,,,Locality Labs
 34.194.209.70,waterlooreview.com,,,0,200,32805,https://www.facebook.com/Waterloo-Review-721142051379769/,,,,,,,,,Locality Labs
-34.194.209.70,westdesmoinesguide.com,,,0,200,57717,https://www.facebook.com/West-Des-Moines-Guide-1747072195598175/,,,,,,,,,Locality Labs
+34.194.209.70,westdesmoinesguide.com,,,0,200,57717,https://www.facebook.com/West-Des-Moines-Guide-1747072195598175/,,WDesMoinesGuide,,,,,,,Locality Labs
 34.194.209.70,westfieldreporter.com,,,0,200,32497,https://www.facebook.com/Westfield-Reporter-214433245737128/,,,,,,,,,Locality Labs
 34.200.186.167,wilsonguide.com,,,0,200,24459,https://www.facebook.com/Wilson-Guide-128471177707793/,,,,,,,,,Locality Labs
 34.200.186.167,wiltonreview.com,,,0,200,29636,https://www.facebook.com/Wilton-Review-1316657661771232/,,,,,,,,,Locality Labs
