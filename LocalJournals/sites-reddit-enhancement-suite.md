@@ -1070,3 +1070,16 @@ For anybody that wants to add it in, this goes in the "Snippets" section. You ca
     .title[href*="peoriasun.com"]:before { content: "PROPAGANDA"; color: white; background-color: red; border: 2px solid #000; }
     .title[href*="surprisejournal.com"]:before { content: "PROPAGANDA"; color: white; background-color: red; border: 2px solid #000; }
     .title[href*="uppertaconicguide.com"]:before { content: "PROPAGANDA"; color: white; background-color: red; border: 2px solid #000; }
+    .title[href*="megadealernews.com"]:before { content: "PROPAGANDA"; color: white; background-color: red; border: 2px solid #000; }
+    .title[href*="highereducationtribune.com"]:before { content: "PROPAGANDA"; color: white; background-color: red; border: 2px solid #000; }
+    .title[href*="americansecuritynews.com"]:before { content: "PROPAGANDA"; color: white; background-color: red; border: 2px solid #000; }
+    .title[href*="hrdailywire.com"]:before { content: "PROPAGANDA"; color: white; background-color: red; border: 2px solid #000; }
+    .title[href*="maghrebnewswire.com"]:before { content: "PROPAGANDA"; color: white; background-color: red; border: 2px solid #000; }
+    .title[href*="tinewsdaily.com"]:before { content: "PROPAGANDA"; color: white; background-color: red; border: 2px solid #000; }
+    .title[href*="americanpharmacynews.com"]:before { content: "PROPAGANDA"; color: white; background-color: red; border: 2px solid #000; }
+    .title[href*="gulfnewsjournal.com"]:before { content: "PROPAGANDA"; color: white; background-color: red; border: 2px solid #000; }
+    .title[href*="patientdaily.com"]:before { content: "PROPAGANDA"; color: white; background-color: red; border: 2px solid #000; }
+    .title[href*="balkanbusinesswire.com"]:before { content: "PROPAGANDA"; color: white; background-color: red; border: 2px solid #000; }
+    .title[href*="latinbusinessdaily.com"]:before { content: "PROPAGANDA"; color: white; background-color: red; border: 2px solid #000; }
+    .title[href*="cropprotectionnews.com"]:before { content: "PROPAGANDA"; color: white; background-color: red; border: 2px solid #000; }
+    .title[href*="farminsurancenews.com"]:before { content: "PROPAGANDA"; color: white; background-color: red; border: 2px solid #000; }

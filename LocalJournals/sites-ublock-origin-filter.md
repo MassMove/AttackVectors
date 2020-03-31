@@ -1090,3 +1090,16 @@ Development version available at [https://github.com/nikrolls/uBlock-Edge#edge](
     ||peoriasun.com
     ||surprisejournal.com
     ||uppertaconicguide.com
+    ||megadealernews.com
+    ||highereducationtribune.com
+    ||americansecuritynews.com
+    ||hrdailywire.com
+    ||maghrebnewswire.com
+    ||tinewsdaily.com
+    ||americanpharmacynews.com
+    ||gulfnewsjournal.com
+    ||patientdaily.com
+    ||balkanbusinesswire.com
+    ||latinbusinessdaily.com
+    ||cropprotectionnews.com
+    ||farminsurancenews.com
