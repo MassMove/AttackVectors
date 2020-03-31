@@ -1,6 +1,6 @@
 astroid==2.3.3
 autopep8==1.5
-bleach==3.1.2
+bleach==3.1.4
 certifi==2019.11.28
 cffi==1.14.0
 chardet==3.0.4
