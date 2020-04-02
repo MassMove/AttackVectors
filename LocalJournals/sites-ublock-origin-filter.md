@@ -1103,3 +1103,7 @@ Development version available at [https://github.com/nikrolls/uBlock-Edge#edge](
     ||latinbusinessdaily.com
     ||cropprotectionnews.com
     ||farminsurancenews.com
+    ||cistranfinance.com
+    ||pennbusinessdaily.com
+    ||powernewswire.com
+    ||epnewswire.com
