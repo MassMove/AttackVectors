@@ -51,7 +51,7 @@ namespace HttpResponseMonitor
                         twitterFollowers = fields[13];
                         twitterFollowing = fields[14];
                         twitterTweets = fields[15];
-                        siteOperator = fields[15];
+                        siteOperator = fields[16];
                     }
                     catch (Exception ex)
                     {
