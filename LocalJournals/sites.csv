@@ -868,7 +868,7 @@ awsOrigin,domain,lat,lng,locationVerified,httpResponseCode,contentLength,faceboo
 34.200.186.167,calaverasguide.com,,,0,200,25556,https://www.facebook.com/Calaveras-Guide-1568995813145849/,,,,,,,,,Locality Labs
 34.200.186.167,canadianvalleyguide.com,,,0,200,23937,https://www.facebook.com/Canadian-Valley-Guide-425119107853401/,,CanadianVGuide,,,,,,,Locality Labs
 34.194.209.70,carrollcoguide.com,,,0,200,37374,https://www.facebook.com/Carrol-County-Guide-2017734631787305/,,CarrollCoGuide,,,,,,,Locality Labs
-34.194.209.70,cedarfallsguide.com,,,0,200,33840,https://www.facebook.com/Cedar-Falls-Guide-1875696896028049/,,GuideCedar ,,,,,,,Locality Labs
+34.194.209.70,cedarfallsguide.com,,,0,200,33840,https://www.facebook.com/Cedar-Falls-Guide-1875696896028049/,,GuideCedar,,,,,,,Locality Labs
 34.194.209.70,clintonreview.com,,,0,200,36913,https://www.facebook.com/Clinton-Review-1909442899331225,,clintonreview,,,,,,,Locality Labs
 34.200.186.167,coldspringguide.com,,,0,200,30442,https://www.facebook.com/Coldspring-Guide-1476183462421583/,,ColdspringGuide,,,,,,,Locality Labs
 34.200.186.167,colemancountyguide.com,,,0,200,23425,https://www.facebook.com/Coleman-County-Guide-1743458979277887/,,ColemanCoGuide,,,,,,,Locality Labs
@@ -1063,20 +1063,20 @@ awsOrigin,domain,lat,lng,locationVerified,httpResponseCode,contentLength,faceboo
 34.194.209.70,peoriasun.com,,,0,,,,,,,,,,,,Locality Labs
 34.194.209.70,surprisejournal.com,,,0,,,,,,,,,,,,Locality Labs
 34.194.209.70,uppertaconicguide.com,,,0,,,,,,,,,,,,
-,megadealernews.com,,,,,,,,,,,,,,,Locality Labs
-,highereducationtribune.com,,,,,,,,,,,,,,,Locality Labs
-,americansecuritynews.com,,,,,,,,,,,,,,,Locality Labs
-,hrdailywire.com,,,,,,,,,,,,,,,Locality Labs
-,maghrebnewswire.com,,,,,,,,,,,,,,,Locality Labs
-,tinewsdaily.com,,,,,,,,,,,,,,,Locality Labs
-,americanpharmacynews.com,,,,,,,,,,,,,,,Locality Labs
-,gulfnewsjournal.com,,,,,,https://www.facebook.com/GulfNewsJournal,,gulfnewsjournal,,,,975,,,Locality Labs
-,patientdaily.com,,,,,,,,,,,,,,,Locality Labs
-,balkanbusinesswire.com,,,,,,,,,,,,,,,Locality Labs
-,latinbusinessdaily.com,,,,,,,,,,,,,,,Locality Labs
-,cropprotectionnews.com,,,,,,,,,,,,,,,Locality Labs
-,farminsurancenews.com,,,,,,,,,,,,,,,Locality Labs
-,cistranfinance.com,,,,,,,,,,,,,,,Locality Labs
-,pennbusinessdaily.com,,,,,,,,,,,,,,,
-,powernewswire.com,,,,,,,,,,,,,,,Locality Labs
-,epnewswire.com,,,,,,,,,,,,,,,Locality Labs
+54.152.158.128,megadealernews.com,,,,,,,,,,,,,,,Locality Labs
+52.203.24.113,highereducationtribune.com,,,,,,,,,,,,,,,Locality Labs
+23.22.17.134,americansecuritynews.com,,,,,,,,,,,,,,,Locality Labs
+54.152.158.128,hrdailywire.com,,,,,,,,,,,,,,,Locality Labs
+54.152.158.128,maghrebnewswire.com,,,,,,,,,,,,,,,Locality Labs
+52.203.4.244,tinewsdaily.com,,,,,,,,,,,,,,,Locality Labs
+23.21.7.86,americanpharmacynews.com,,,,,,,,,,,,,,,Locality Labs
+52.203.17.87,gulfnewsjournal.com,,,,,,https://www.facebook.com/GulfNewsJournal,,gulfnewsjournal,,,,975,,,Locality Labs
+52.203.38.198,patientdaily.com,,,,,,,,,,,,,,,Locality Labs
+54.152.158.128,balkanbusinesswire.com,,,,,,,,,,,,,,,Locality Labs
+52.203.35.219,latinbusinessdaily.com,,,,,,,,,,,,,,,Locality Labs
+52.2.136.130,cropprotectionnews.com,,,,,,,,,,,,,,,Locality Labs
+54.152.158.128,farminsurancenews.com,,,,,,,,,,,,,,,Locality Labs
+52.0.221.182,cistranfinance.com,,,,,,,,,,,,,,,Locality Labs
+54.152.158.128,pennbusinessdaily.com,,,,,,,,,,,,,,,
+54.152.158.128,powernewswire.com,,,,,,,,,,,,,,,Locality Labs
+52.202.236.169,epnewswire.com,,,,,,,,,,,,,,,Locality Labs
