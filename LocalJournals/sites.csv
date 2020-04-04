@@ -932,7 +932,7 @@ awsOrigin,domain,lat,lng,locationVerified,httpResponseCode,contentLength,faceboo
 34.200.186.167,spurguide.com,,,0,200,23942,https://www.facebook.com/Spur-Guide-1289488071146554/,,,,,,,,,Locality Labs
 34.200.186.167,steelvilleguide.com,,,0,200,25569,https://www.facebook.com/Steelville-Guide-440417749666737/,,,,,,,,,Locality Labs
 34.200.186.167,swmissouriguide.com,,,0,200,25144,https://www.facebook.com/SW-Missouri-Guide-1706364099660636/,,,,,,,,,Locality Labs
-34.200.186.167,swnebraskaguide.com,,,0,200,28441,,,,,,,,,,Locality Labs
+34.200.186.167,swnebraskaguide.com,,,0,200,28441,https://www.facebook.com/SW-Nebraska-Guide-462711270740072/,,,,,,,,,Locality Labs
 34.194.209.70,tamaguide.com,,,0,200,32105,https://www.facebook.com/Tama-Guide-296323947484455/,,,,,,,,,Locality Labs
 34.200.186.167,unitymaineguide.com,,,0,200,29339,https://www.facebook.com/Unity-Guide-532642810458701/,,,,,,,,,Locality Labs
 34.194.209.70,wamegoguide.com,,,0,200,31757,https://www.facebook.com/Wamego-Guide-818367991648427/,,,,,,,,,Locality Labs
@@ -1058,19 +1058,19 @@ awsOrigin,domain,lat,lng,locationVerified,httpResponseCode,contentLength,faceboo
 34.194.209.70,peoriasun.com,,,0,,,,,,,,,,,,Locality Labs
 34.194.209.70,surprisejournal.com,,,0,,,,,,,,,,,,Locality Labs
 34.194.209.70,uppertaconicguide.com,,,0,,,,,,,,,,,,
-54.152.158.128,megadealernews.com,,,0,,,,,MegaDealerNews,,,,,,,Locality Labs
-52.203.24.113,highereducationtribune.com,,,0,,,,,,,,,,,,Locality Labs
-23.22.17.134,americansecuritynews.com,,,0,,,,,AmSecNews,,,,,,,Locality Labs
-54.152.158.128,hrdailywire.com,,,0,,,,,HRDailyWire,,,,,,,Locality Labs
-54.152.158.128,maghrebnewswire.com,,,0,,,,,MaghrebNewsWire,,,,,,,Locality Labs
+54.152.158.128,megadealernews.com,,,0,,,https://www.facebook.com/Mega-Dealer-News-273795989719990/,,MegaDealerNews,,,,,,,Locality Labs
+52.203.24.113,highereducationtribune.com,,,0,,,https://www.facebook.com/highereducationtribune,,,,,,,,,Locality Labs
+23.22.17.134,americansecuritynews.com,,,0,,,https://www.facebook.com/pages/American-Security-News/1140582572625587,,AmSecNews,,,,,,,Locality Labs
+54.152.158.128,hrdailywire.com,,,0,,,https://www.facebook.com/hrdailywire,,HRDailyWire,,,,,,,Locality Labs
+54.152.158.128,maghrebnewswire.com,,,0,,,https://www.facebook.com/Maghreb-News-Wire-133399090594408/,,MaghrebNewsWire,,,,,,,Locality Labs
 52.203.4.244,tinewsdaily.com,,,0,,,,,TINewsDaily,,,,,,,Locality Labs
 23.21.7.86,americanpharmacynews.com,,,0,,,,,,,,,,,,Locality Labs
 52.203.17.87,gulfnewsjournal.com,,,0,,,https://www.facebook.com/GulfNewsJournal,,gulfnewsjournal,,,,975,,,Locality Labs
-52.203.38.198,patientdaily.com,,,0,,,,,patient_daily,,,,,,,Locality Labs
-54.152.158.128,balkanbusinesswire.com,,,0,,,,,BalkanBiz,,,,,,,Locality Labs
-52.203.35.219,latinbusinessdaily.com,,,0,,,,,LatinBizDaily,,,,,,,Locality Labs
+52.203.38.198,patientdaily.com,,,0,,,https://www.facebook.com/patientdaily,,patient_daily,,,,,,,Locality Labs
+54.152.158.128,balkanbusinesswire.com,,,0,,,https://www.facebook.com/Balkan-Business-Wire-1197632876984928,,BalkanBiz,,,,,,,Locality Labs
+52.203.35.219,latinbusinessdaily.com,,,0,,,https://www.facebook.com/pages/Latin-Business-Daily/478421255648821,,LatinBizDaily,,,,,,,Locality Labs
 52.2.136.130,cropprotectionnews.com,,,0,,,,,crop_news,,,,,,,Locality Labs
-54.152.158.128,farminsurancenews.com,,,0,,,,,FarmInsureNews,,,,,,,Locality Labs
+54.152.158.128,farminsurancenews.com,,,0,,,https://www.facebook.com/Farm-Insurance-News-383890498633298/,,FarmInsureNews,,,,,,,Locality Labs
 52.0.221.182,cistranfinance.com,,,0,,,,,,,,,,,,Locality Labs
 54.152.158.128,pennbusinessdaily.com,,,0,,,,,,,,,,,,
 54.152.158.128,powernewswire.com,,,0,,,,,powernewswire,,,,,,,Locality Labs
