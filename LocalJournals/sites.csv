@@ -241,7 +241,6 @@ awsOrigin,domain,lat,lng,locationVerified,httpResponseCode,contentLength,faceboo
 3.213.234.4,knoxtimes.com,33.682969,-112.094475,0,200,-1,,,,,,,,,,Metric Media
 3.213.234.4,lafayettereporter.com,30.2240897,-92.0198427,0,200,51221,,,,,,,,,,Metric Media
 3.213.234.4,laredotimes.com,27.5035613,-99.5075519,0,200,77651,,Laredo Times,,,,,,,,Metric Media
-96.69.183.13,lightofbaldr.com,,,0,502,16,#N/A,,,,,,,,,
 3.213.234.4,lonestarstandard.com,33.5260478,-101.8064644,0,200,79244,,Lone Star Standard,,,,,,,,Metric Media
 3.213.234.4,longviewtimes.com,32.5007037,-94.7404891,0,200,-1,,Longview Times,,,,,,,,Metric Media
 3.213.234.4,louisvillecitywire.com,38.2523291,-85.7573948,0,200,70527,https://business.facebook.com/LouisvilleCityWire/?business_id=898179107217559,Louisville City Wire,,,,,,,,Metric Media
@@ -833,7 +832,6 @@ awsOrigin,domain,lat,lng,locationVerified,httpResponseCode,contentLength,faceboo
 34.227.210.63,collegeparktoday.com,,,0,200,68505,https://www.facebook.com/College-Park-Today-212946995980103,,CollegeParkTdy,,,,,,,Locality Labs
 34.227.210.63,apopkatimes.com,,,0,200,69310,https://www.facebook.com/Apopka-Times-2080209481992651,,,,,,,,,Locality Labs
 34.227.210.63,baldwinparktoday.com,,,0,200,77897,https://www.facebook.com/Baldwin-Park-Today-174155429916026,,BaldwinParkTdy,,,,,,,Locality Labs
-34.227.210.63,collegeparktoday.com,,,0,200,68505,https://www.facebook.com/College-Park-Today-212946995980103,,CollegeParkTdy,,,,,,,Locality Labs
 34.227.210.63,doctorphillipstoday.com,,,0,200,72713,https://www.facebook.com/Doctor-Phillips-Today-1824735680919207,,DrPhillipsToday,,,,,,,Locality Labs
 34.227.210.63,goldenrodnews.com,,,0,200,72897,https://www.facebook.com/Goldenrod-News-1674317559290723,,,,,,,,,Locality Labs
 34.227.210.63,gothatoday.com,,,0,200,71903,https://www.facebook.com/Gotha-Today-341023709635364,,GothaToday,,,,,,,Locality Labs
@@ -974,9 +972,6 @@ awsOrigin,domain,lat,lng,locationVerified,httpResponseCode,contentLength,faceboo
 3.222.217.66,vancouverreporter.com,,,0,200,-1,,,,,,,,,,Metric Media
 3.222.217.66,waislenews.com,,,0,200,58080,,,,,,,,,,Metric Media
 3.222.217.66,wenatcheetimes.com,,,0,200,-1,,,,,,,,,,Metric Media
-3.222.217.66,westcontracostanews.com,,,0,200,69220,,,,,,,,,,Metric Media
-3.222.217.66,westeldoradonews.com,,,0,200,71064,,,,,,,,,,
-3.222.217.66,westventuranews.com,,,0,200,70834,,,,,,,,,,Metric Media
 3.222.217.66,yakimatimes.com,,,0,200,-1,,,,,,,,,,Metric Media
 3.222.217.66,centralalamedanews.com,,,0,200,70729,,,,,,,,,,Metric Media
 3.222.217.66,centraloctimes.com,,,0,200,73980,,,,,,,,,,Metric Media
@@ -1063,20 +1058,20 @@ awsOrigin,domain,lat,lng,locationVerified,httpResponseCode,contentLength,faceboo
 34.194.209.70,peoriasun.com,,,0,,,,,,,,,,,,Locality Labs
 34.194.209.70,surprisejournal.com,,,0,,,,,,,,,,,,Locality Labs
 34.194.209.70,uppertaconicguide.com,,,0,,,,,,,,,,,,
-54.152.158.128,megadealernews.com,,,,,,,,,,,,,,,Locality Labs
-52.203.24.113,highereducationtribune.com,,,,,,,,,,,,,,,Locality Labs
-23.22.17.134,americansecuritynews.com,,,,,,,,,,,,,,,Locality Labs
-54.152.158.128,hrdailywire.com,,,,,,,,,,,,,,,Locality Labs
-54.152.158.128,maghrebnewswire.com,,,,,,,,,,,,,,,Locality Labs
-52.203.4.244,tinewsdaily.com,,,,,,,,,,,,,,,Locality Labs
-23.21.7.86,americanpharmacynews.com,,,,,,,,,,,,,,,Locality Labs
-52.203.17.87,gulfnewsjournal.com,,,,,,https://www.facebook.com/GulfNewsJournal,,gulfnewsjournal,,,,975,,,Locality Labs
-52.203.38.198,patientdaily.com,,,,,,,,,,,,,,,Locality Labs
-54.152.158.128,balkanbusinesswire.com,,,,,,,,,,,,,,,Locality Labs
-52.203.35.219,latinbusinessdaily.com,,,,,,,,,,,,,,,Locality Labs
-52.2.136.130,cropprotectionnews.com,,,,,,,,,,,,,,,Locality Labs
-54.152.158.128,farminsurancenews.com,,,,,,,,,,,,,,,Locality Labs
-52.0.221.182,cistranfinance.com,,,,,,,,,,,,,,,Locality Labs
-54.152.158.128,pennbusinessdaily.com,,,,,,,,,,,,,,,
-54.152.158.128,powernewswire.com,,,,,,,,,,,,,,,Locality Labs
-52.202.236.169,epnewswire.com,,,,,,,,,,,,,,,Locality Labs
+54.152.158.128,megadealernews.com,,,0,,,,,,,,,,,,Locality Labs
+52.203.24.113,highereducationtribune.com,,,0,,,,,,,,,,,,Locality Labs
+23.22.17.134,americansecuritynews.com,,,0,,,,,,,,,,,,Locality Labs
+54.152.158.128,hrdailywire.com,,,0,,,,,,,,,,,,Locality Labs
+54.152.158.128,maghrebnewswire.com,,,0,,,,,,,,,,,,Locality Labs
+52.203.4.244,tinewsdaily.com,,,0,,,,,,,,,,,,Locality Labs
+23.21.7.86,americanpharmacynews.com,,,0,,,,,,,,,,,,Locality Labs
+52.203.17.87,gulfnewsjournal.com,,,0,,,https://www.facebook.com/GulfNewsJournal,,gulfnewsjournal,,,,975,,,Locality Labs
+52.203.38.198,patientdaily.com,,,0,,,,,,,,,,,,Locality Labs
+54.152.158.128,balkanbusinesswire.com,,,0,,,,,,,,,,,,Locality Labs
+52.203.35.219,latinbusinessdaily.com,,,0,,,,,,,,,,,,Locality Labs
+52.2.136.130,cropprotectionnews.com,,,0,,,,,,,,,,,,Locality Labs
+54.152.158.128,farminsurancenews.com,,,0,,,,,,,,,,,,Locality Labs
+52.0.221.182,cistranfinance.com,,,0,,,,,,,,,,,,Locality Labs
+54.152.158.128,pennbusinessdaily.com,,,0,,,,,,,,,,,,
+54.152.158.128,powernewswire.com,,,0,,,,,,,,,,,,Locality Labs
+52.202.236.169,epnewswire.com,,,0,,,,,,,,,,,,Locality Labs
