@@ -806,7 +806,7 @@ awsOrigin,domain,lat,lng,locationVerified,httpResponseCode,contentLength,faceboo
 34.200.186.167,monontoday.com,,,0,200,27067,https://www.facebook.com/Monon-Today-127352687865063/,,,,,,,,,Locality Labs
 34.200.186.167,almastandard.com,,,0,200,23069,https://www.facebook.com/pg/Alma-Standard-151440572091088/about/?ref=page_internal,,,,,,,,,Locality Labs
 34.200.186.167,mtenterprisetoday.com,,,0,200,-1,https://www.facebook.com/Mt-Enterprise-Today-1696677627305543/,,,,,,,,,Locality Labs
-34.200.186.167,greenhillsreporter.com,,,0,200,26261,https://www.facebook.com/,,,,,,,,,Locality Labs
+34.200.186.167,greenhillsreporter.com,,,0,200,26261,https://www.facebook.com/,,GreenHills_Rptr,,,,,,,Locality Labs
 34.194.209.70,johnstontimes.com,,,0,200,55591,https://www.facebook.com/Johnston-Times-717831221674951/,,JohnstonTimes,,,,,,,Locality Labs
 34.194.209.70,jonescountynews.com,,,0,200,31691,https://www.facebook.com/Jones-County-News-211760629380203,,,,,,,,,Locality Labs
 34.194.209.70,clivenews.com,,,0,200,56799,https://www.facebook.com/Clive-News-755922567925136/?business_id=941016566001347,,Clive_News,,,,,,,Locality Labs
@@ -1058,20 +1058,20 @@ awsOrigin,domain,lat,lng,locationVerified,httpResponseCode,contentLength,faceboo
 34.194.209.70,peoriasun.com,,,0,,,,,,,,,,,,Locality Labs
 34.194.209.70,surprisejournal.com,,,0,,,,,,,,,,,,Locality Labs
 34.194.209.70,uppertaconicguide.com,,,0,,,,,,,,,,,,
-54.152.158.128,megadealernews.com,,,0,,,,,,,,,,,,Locality Labs
+54.152.158.128,megadealernews.com,,,0,,,,,MegaDealerNews,,,,,,,Locality Labs
 52.203.24.113,highereducationtribune.com,,,0,,,,,,,,,,,,Locality Labs
-23.22.17.134,americansecuritynews.com,,,0,,,,,,,,,,,,Locality Labs
-54.152.158.128,hrdailywire.com,,,0,,,,,,,,,,,,Locality Labs
-54.152.158.128,maghrebnewswire.com,,,0,,,,,,,,,,,,Locality Labs
-52.203.4.244,tinewsdaily.com,,,0,,,,,,,,,,,,Locality Labs
+23.22.17.134,americansecuritynews.com,,,0,,,,,AmSecNews,,,,,,,Locality Labs
+54.152.158.128,hrdailywire.com,,,0,,,,,HRDailyWire,,,,,,,Locality Labs
+54.152.158.128,maghrebnewswire.com,,,0,,,,,MaghrebNewsWire,,,,,,,Locality Labs
+52.203.4.244,tinewsdaily.com,,,0,,,,,TINewsDaily,,,,,,,Locality Labs
 23.21.7.86,americanpharmacynews.com,,,0,,,,,,,,,,,,Locality Labs
 52.203.17.87,gulfnewsjournal.com,,,0,,,https://www.facebook.com/GulfNewsJournal,,gulfnewsjournal,,,,975,,,Locality Labs
-52.203.38.198,patientdaily.com,,,0,,,,,,,,,,,,Locality Labs
-54.152.158.128,balkanbusinesswire.com,,,0,,,,,,,,,,,,Locality Labs
-52.203.35.219,latinbusinessdaily.com,,,0,,,,,,,,,,,,Locality Labs
-52.2.136.130,cropprotectionnews.com,,,0,,,,,,,,,,,,Locality Labs
-54.152.158.128,farminsurancenews.com,,,0,,,,,,,,,,,,Locality Labs
+52.203.38.198,patientdaily.com,,,0,,,,,patient_daily,,,,,,,Locality Labs
+54.152.158.128,balkanbusinesswire.com,,,0,,,,,BalkanBiz,,,,,,,Locality Labs
+52.203.35.219,latinbusinessdaily.com,,,0,,,,,LatinBizDaily,,,,,,,Locality Labs
+52.2.136.130,cropprotectionnews.com,,,0,,,,,crop_news,,,,,,,Locality Labs
+54.152.158.128,farminsurancenews.com,,,0,,,,,FarmInsureNews,,,,,,,Locality Labs
 52.0.221.182,cistranfinance.com,,,0,,,,,,,,,,,,Locality Labs
 54.152.158.128,pennbusinessdaily.com,,,0,,,,,,,,,,,,
-54.152.158.128,powernewswire.com,,,0,,,,,,,,,,,,Locality Labs
-52.202.236.169,epnewswire.com,,,0,,,,,,,,,,,,Locality Labs
+54.152.158.128,powernewswire.com,,,0,,,,,powernewswire,,,,,,,Locality Labs
+52.202.236.169,epnewswire.com,,,0,,,,,epnewswire,,,,,,,Locality Labs
