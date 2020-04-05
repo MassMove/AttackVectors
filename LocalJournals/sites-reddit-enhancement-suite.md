@@ -1087,3 +1087,8 @@ For anybody that wants to add it in, this goes in the "Snippets" section. You ca
     .title[href*="pennbusinessdaily.com"]:before { content: "PROPAGANDA"; color: white; background-color: red; border: 2px solid #000; }
     .title[href*="powernewswire.com"]:before { content: "PROPAGANDA"; color: white; background-color: red; border: 2px solid #000; }
     .title[href*="epnewswire.com"]:before { content: "PROPAGANDA"; color: white; background-color: red; border: 2px solid #000; }
+    .title[href*="mexicobusinessdaily.com"]:before { content: "PROPAGANDA"; color: white; background-color: red; border: 2px solid #000; }
+    .title[href*="guatemalabusinessdaily.com"]:before { content: "PROPAGANDA"; color: white; background-color: red; border: 2px solid #000; }
+    .title[href*="angolabusinessdaily.com"]:before { content: "PROPAGANDA"; color: white; background-color: red; border: 2px solid #000; }
+    .title[href*="torontobusinessdaily.com"]:before { content: "PROPAGANDA"; color: white; background-color: red; border: 2px solid #000; }
+    .title[href*="manilabusinessdaily.com"]:before { content: "PROPAGANDA"; color: white; background-color: red; border: 2px solid #000; }

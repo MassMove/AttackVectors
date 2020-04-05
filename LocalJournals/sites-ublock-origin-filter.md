@@ -1107,3 +1107,8 @@ Development version available at [https://github.com/nikrolls/uBlock-Edge#edge](
     ||pennbusinessdaily.com
     ||powernewswire.com
     ||epnewswire.com
+    ||mexicobusinessdaily.com
+    ||guatemalabusinessdaily.com
+    ||angolabusinessdaily.com
+    ||torontobusinessdaily.com
+    ||manilabusinessdaily.com
