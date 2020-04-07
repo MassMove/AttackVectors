@@ -978,6 +978,7 @@ For anybody that wants to add it in, this goes in the "Snippets" section. You ca
     .title[href*="upperwestscnews.com"]:before { content: "PROPAGANDA"; color: white; background-color: red; border: 2px solid #000; }
     .title[href*="upstatescnews.com"]:before { content: "PROPAGANDA"; color: white; background-color: red; border: 2px solid #000; }
     .title[href*="urbandaletimes.com"]:before { content: "PROPAGANDA"; color: white; background-color: red; border: 2px solid #000; }
+    .title[href*="urbanreform.org"]:before { content: "PROPAGANDA"; color: white; background-color: red; border: 2px solid #000; }
     .title[href*="utahvalleytimes.com"]:before { content: "PROPAGANDA"; color: white; background-color: red; border: 2px solid #000; }
     .title[href*="utbusinessdaily.com"]:before { content: "PROPAGANDA"; color: white; background-color: red; border: 2px solid #000; }
     .title[href*="vabusinessdaily.com"]:before { content: "PROPAGANDA"; color: white; background-color: red; border: 2px solid #000; }

@@ -998,6 +998,7 @@ Development version available at [https://github.com/nikrolls/uBlock-Edge#edge](
     ||upperwestscnews.com
     ||upstatescnews.com
     ||urbandaletimes.com
+    ||urbanreform.org
     ||utahvalleytimes.com
     ||utbusinessdaily.com
     ||vabusinessdaily.com
