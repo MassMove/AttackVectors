@@ -45,7 +45,7 @@ with open(sys.argv[1]) as csvfile:
                 csv_row["longitude"] = row['lng']
 
             if "status" in trackers:
-                csv_row["processed"] = False
+                csv_row["processed"] = "False"
             elif "success" in trackers:
                 for tracker in trackers["results"]:
                     if tracker["attributeType"] == "GoogleAnalyticsTrackingId":
