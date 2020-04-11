@@ -8,7 +8,7 @@ with open(sys.argv[1]) as csvfile:
     filereader = csv.DictReader(csvfile)
     for row in filereader:
         if "processed" not in row.keys():
-            row["processed"] = False
+            row["processed"] = "False"
         if row["processed"] == "False":
             # Get the IP address of the domain name
             try:
@@ -18,7 +18,7 @@ with open(sys.argv[1]) as csvfile:
 
             # Get geo-coordinates of the IP address
             coordinates = None
-            if not row['latitude'] and not row['longitude']:
+            if not row['lat'] and not row['lng']:
                 try:
                     coordinates = DbIpCity.get(ip, api_key='free')
                 except:
@@ -41,11 +41,11 @@ with open(sys.argv[1]) as csvfile:
                 csv_row["latitude"] = str(coordinates.latitude) 
                 csv_row["longitude"] = str(coordinates.longitude)
             else:
-                csv_row["latitude"] = row['latitude']
-                csv_row["longitude"] = row['longitude']
+                csv_row["latitude"] = row['lat']
+                csv_row["longitude"] = row['lng']
 
             if "status" in trackers:
-                csv_row["processed"] = False
+                csv_row["processed"] = "False"
             elif "success" in trackers:
                 for tracker in trackers["results"]:
                     if tracker["attributeType"] == "GoogleAnalyticsTrackingId":
