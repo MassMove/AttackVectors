@@ -8,7 +8,7 @@ with open(sys.argv[1]) as csvfile:
     filereader = csv.DictReader(csvfile)
     for row in filereader:
         if "processed" not in row.keys():
-            row["processed"] = False
+            row["processed"] = "False"
         if row["processed"] == "False":
             # Get the IP address of the domain name
             try:
