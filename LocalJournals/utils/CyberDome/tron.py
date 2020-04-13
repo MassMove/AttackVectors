@@ -22,6 +22,9 @@ while (True):
             
             posts = reddit.domain(row["domain"]).new(limit=10)
             
+            # wait 2 seconds
+            time.sleep(2)
+            
             # Have we run this domain before? If not, create an empty list
             if not os.path.isfile("domains/" + row["domain"] + ".txt"):
                 posts_replied_to = []
