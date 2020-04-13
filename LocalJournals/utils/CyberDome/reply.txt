@@ -1,15 +1,9 @@
-User, the domain you linked to is running a fake local journal. It is one of over a thousand domains tracked in an open-source counterintelligence project: [https://github.com/MassMove/AttackVectors](https://github.com/MassMove/AttackVectors).
+User, the domain you linked to is running a fake local journal. It is one of over a thousand domains tracked in an open-source project: [https://github.com/MassMove/AttackVectors](https://github.com/MassMove/AttackVectors).
 
-From the [billion-dollar disinformation campaign to reelect the president in 2020](https://www.theatlantic.com/magazine/archive/2020/03/the-2020-disinformation-war/605530/):
+We have them pinned to an interactive heat-map: https://arcg.is/0KmXKK
 
->Parscale has indicated that he plans to open up a new front in this  war: local news. Last year, he said the campaign [intends to train "swarms of surrogates"](https://www.palmbeachpost.com/news/20190531/brad-parscale-genius-who-won-trumps-campaign-and-how-hell-get-him-reelected) to undermine negative coverage from local TV stations and newspapers. Polls have long found that Americans across the political spectrum trust local news more than national media. If the  campaign has its way, that trust will be eroded by November.  
->  
->Running parallel to this effort, some conservatives have been experimenting with a [scheme to exploit the credibility of local journalism](https://www.nytimes.com/2019/10/31/upshot/fake-local-news.html). Over the past few years, hundreds of websites with innocuous-sounding names like the Arizona Monitor and The Kalamazoo Times have begun popping up. [At first glance, they look like regular publications, complete with community notices and coverage of schools](https://www.cjr.org/tow_center_reports/hundreds-of-pink-slime-local-news-outlets-are-distributing-algorithmic-stories-conservative-talking-points.php).  But look closer and you'll find that there are often no mastheads, few if any bylines, and no addresses for local offices. Many of them are  organs of Republican lobbying groups; others belong to a mysterious company called Locality Labs, which is run by a conservative activist in  Illinois. Readers are given no indication that these sites have political agendas - which is precisely what makes them valuable.
+Please reply with as much detail as you can on how you came across the link you posted. Was it an ad, for example?
 
-Their stuff looks really real: [https://grandcanyontimes.com/](https://grandcanyontimes.com/) until you start looking at all the articles at once: [https://grandcanyontimes.com/stories/tag/126-politics](https://grandcanyontimes.com/stories/tag/126-politics) 
-
-Please reply to this comment with as much detail as you can on how you came across the link you posted. Was it an ad, for example? Only together can we conquer mountains of wealth.
-
-I am a bot, for feedback or further discussion please speak to someone from r/MassMove or contact the [moderators](https://reddit.com/message/compose?to=/r/MassMove).
+I am a bot, please post feedback or questions to r/MassMove or contact the [moderators](https://reddit.com/message/compose?to=/r/MassMove).
 
     This is our world now.
