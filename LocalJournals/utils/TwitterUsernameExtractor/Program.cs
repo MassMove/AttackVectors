@@ -27,16 +27,17 @@ namespace HttpResponseMonitor
                     // extract a line from sites.csv
                     String awsOrigin = fields[0];
                     String domain = fields[1];
-                    String lat = fields[2];
-                    String lng = fields[3];
-                    String locationVerified = fields[4];
-                    String httpResponseCode = fields[5];
-                    String contentLength = fields[6];
-                    String facebookUrl = fields[7];
-                    String siteName = fields[8];
-                    String twitterUsername = fields[9];
-                    String itunesAppStoreUrl = fields[10];
-                    String twitterAccountCreatedAt = fields[11];
+                    String state = fields[2];
+                    String lat = fields[3];
+                    String lng = fields[4];
+                    String locationVerified = fields[5];
+                    String httpResponseCode = fields[6];
+                    String contentLength = fields[7];
+                    String facebookUrl = fields[8];
+                    String siteName = fields[9];
+                    String twitterUsername = fields[10];
+                    String itunesAppStoreUrl = fields[11];
+                    String twitterAccountCreatedAt = fields[12];
                     String twitterUserId = "";
                     String twitterFollowers = "";
                     String twitterFollowing = "";
@@ -45,11 +46,11 @@ namespace HttpResponseMonitor
 
                     try
                     {
-                        twitterUserId = fields[12];
-                        twitterFollowers = fields[13];
-                        twitterFollowing = fields[14];
-                        twitterTweets = fields[15];
-                        siteOperator = fields[16];
+                        twitterUserId = fields[13];
+                        twitterFollowers = fields[14];
+                        twitterFollowing = fields[15];
+                        twitterTweets = fields[16];
+                        siteOperator = fields[17];
                     }
                     catch (Exception ex)
                     {
@@ -102,6 +103,7 @@ namespace HttpResponseMonitor
                     // write a new line for the updated sites.csv
                     String line = awsOrigin + ",";
                     line += domain + ",";
+                    line += state + ",";
                     line += lat + ",";
                     line += lng + ",";
                     line += locationVerified + ",";
