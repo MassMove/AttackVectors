@@ -2,7 +2,23 @@
 
 A repository to monitor attack vectors mentioned in the [billion-dollar disinformation campaign to reelect the president in 2020](https://www.theatlantic.com/magazine/archive/2020/03/the-2020-disinformation-war/605530/)
 
-## Local Journalism
+## Local News
+
+>Parscale has indicated that he plans to open up a new front in this war: local news. Last year, he said the campaign intends to train “swarms of surrogates” to undermine negative coverage from local TV stations and newspapers. Polls have long found that Americans across the political spectrum trust local news more than national media. If the campaign has its way, that trust will be eroded by November.
+
+>[Sinclair Broadcast Group](https://en.wikipedia.org/wiki/List_of_stations_owned_or_operated_by_Sinclair_Broadcast_Group), a media company, owns or operates 294 television stations across the United States in 89 markets ranging in size from as large as Washington, D.C. to as small as Ottumwa, Iowa–Kirksville, Missouri.
+
+![List of stations owned or operated by Sinclair Broadcast Group](https://github.com/MassMove/AttackVectors/raw/master/LocalNews/stations.png?raw=true "List of stations owned or operated by Sinclair Broadcast Group")
+
+[stations.csv](https://github.com/MassMove/AttackVectors/blob/master/LocalNews/stations.csv)
+
+## Local Journals
+
+>Running parallel to this effort, some conservatives have been experimenting with a [scheme to exploit the credibility of local journalism](https://www.nytimes.com/2019/10/31/upshot/fake-local-news.html). Over the past few years, hundreds of websites with innocuous-sounding names like the Arizona Monitor and The Kalamazoo Times have begun popping up. [At first glance, they look like regular publications, complete with community notices and coverage of schools](https://www.cjr.org/tow_center_reports/hundreds-of-pink-slime-local-news-outlets-are-distributing-algorithmic-stories-conservative-talking-points.php). But look closer and you’ll find that there are often no mastheads, few if any bylines, and no addresses for local offices. Many of them are organs of Republican lobbying groups; others belong to a mysterious company called Locality Labs, which is run by a conservative activist in Illinois. Readers are given no indication that these sites have political agendas—which is precisely what makes them valuable.
+
+Their stuff looks really real: https://kalamazootimes.com until you start looking at all the articles at once: https://kalamazootimes.com/stories/tag/126-politics
+
+### Maps
 
 Some maps to relay the sheer magnitude of the operation with over a thousand domains operating as fake local journals:
 
@@ -14,32 +30,7 @@ Some maps to relay the sheer magnitude of the operation with over a thousand dom
 
 ![Interactive Heat Map](https://i.imgur.com/TXO6xyN.png "Local Journals Heatmap")
 
-Their shit looks really real: https://kalamazootimes.com until you start looking at all the articles at once: https://kalamazootimes.com/stories/tag/126-politics
-
->Parscale has indicated that he plans to open up a new front in this war: local news. Last year, he said the campaign intends to train “swarms of surrogates” to undermine negative coverage from local TV stations and newspapers. Polls have long found that Americans across the political spectrum trust local news more than national media. If the campaign has its way, that trust will be eroded by November.
-
->Running parallel to this effort, some conservatives have been experimenting with a [scheme to exploit the credibility of local journalism](https://www.nytimes.com/2019/10/31/upshot/fake-local-news.html). Over the past few years, hundreds of websites with innocuous-sounding names like the Arizona Monitor and The Kalamazoo Times have begun popping up. [At first glance, they look like regular publications, complete with community notices and coverage of schools](https://www.cjr.org/tow_center_reports/hundreds-of-pink-slime-local-news-outlets-are-distributing-algorithmic-stories-conservative-talking-points.php). But look closer and you’ll find that there are often no mastheads, few if any bylines, and no addresses for local offices. Many of them are organs of Republican lobbying groups; others belong to a mysterious company called Locality Labs, which is run by a conservative activist in Illinois. Readers are given no indication that these sites have political agendas—which is precisely what makes them valuable.
-
-## Anti-Virus
-
-### uBlock Origin Filters
-
-uBlock Origin can be configured to alert us when one of the local journals appears in the wild. Open the configuration dashboard and tab to "My filters" or enter this URL in Chrome: [chrome-extension://cjpalhdlnbpafiamejdnhcphjbkeiagm/dashboard.html#1p-filters.html](chrome-extension://cjpalhdlnbpafiamejdnhcphjbkeiagm/dashboard.html#1p-filters.html).
-
-
-    ||kalamazootimes.com
-
-Get the rest here: https://github.com/MassMove/AttackVectors/blob/master/LocalJournals/sites-ublock-origin-filter.md
-
-### Reddit Enhancement Suite
-
-RES can also be configured to alert us... in Appearance, go to Stylesheet Loader and add a row like:
-
-    .title[href*="kalamazootimes.com"]:before { content: "PROPAGANDA"; color: white; background-color: red; border: 2px solid #000; }
-
-Get the rest here: https://github.com/MassMove/AttackVectors/blob/master/LocalJournals/sites-reddit-enhancement-suite.md
-
-## Domains
+### Domains
 
 |domain|twitterFollowers|siteName|facebookUrl|awsOrigin|lat|lng|twitterUsername|twitterAccountCreatedAt|twitterUserId|twitterFollowing|twitterTweets|
 |:-----|:---------------|:---------------|:------------|:-------|:----------|:--------|:-----|:-----|:----------------|:----------------------|:------------|
@@ -53,7 +44,25 @@ Get the rest here: https://github.com/MassMove/AttackVectors/blob/master/LocalJo
 |kankakeetimes.com|487|Kankakee Times|https://www.facebook.com/kankakeetimes|35.170.88.147|41.1200325|-87.8611531|Kankakee_Times|2015-11-18T13:34:04.000Z|4218254801|244|2257|
 |pennrecord.com|485|Pennsylvania Record|https://www.facebook.com/pages/Pennsylvania-Record/338776239487764|52.7.148.177|41.2033216|-77.1945247|pennrecord|2011-05-16T13:28:41.000Z|299652000|219|7867|
 |dupagepolicyjournal.com|444|Dupage Policy Journal|https://www.facebook.com/DuPage-Policy-Journal-440850842779072|35.170.88.147|41.8243831|-88.0900762|DupageJournal|2015-01-29T14:45:45.000Z|3001471430|260|5060|
-|**[1000+ more](https://github.com/MassMove/AttackVectors/blob/master/LocalJournals/sites.csv)**||||||||||||
+|**[1000+ more in sites.csv](https://github.com/MassMove/AttackVectors/blob/master/LocalJournals/sites.csv)**||||||||||||
+
+### Anti-Virus
+
+#### uBlock Origin Filters
+
+uBlock Origin can be configured to alert us when one of the local journals appears in the wild. Open the configuration dashboard and tab to "My filters" or enter this URL in Chrome: [chrome-extension://cjpalhdlnbpafiamejdnhcphjbkeiagm/dashboard.html#1p-filters.html](chrome-extension://cjpalhdlnbpafiamejdnhcphjbkeiagm/dashboard.html#1p-filters.html).
+
+    ||kalamazootimes.com
+
+Get the rest here: https://github.com/MassMove/AttackVectors/blob/master/LocalJournals/sites-ublock-origin-filter.md
+
+#### Reddit Enhancement Suite
+
+RES can also be configured to alert us... in Appearance, go to Stylesheet Loader and add a row like:
+
+    .title[href*="kalamazootimes.com"]:before { content: "PROPAGANDA"; color: white; background-color: red; border: 2px solid #000; }
+
+Get the rest here: https://github.com/MassMove/AttackVectors/blob/master/LocalJournals/sites-reddit-enhancement-suite.md
 
 ### Methods
 
@@ -69,7 +78,7 @@ The methods used to find more domains are detailed in the [pull requests](https:
 
 - Google BigQuery searches through 100s of TB in the HTTP Archive project for Google Analytics tags, Facebook pixels, and Quantserv IDs: https://discuss.httparchive.org/t/http-archive-project-vs-state-backed-disinformation-operations/1887
 
-## Legal Findings
+### Legal Findings
 
 https://www.fec.gov/files/legal/murs/7148/19044475209.pdf
 
@@ -95,11 +104,11 @@ Potentially state-backed information operations from the [Twitter Transparency R
 | 201906|China |169 MB|40 GB|196 |||
 | 201906|China |913 MB|604 GB|4,301|||
 | 201910|Saudi Arabia |4.3 GB|1.3 TB|5,929|||
-| 202003|Ghana / Nigeria |27 MB|17 GB|[71](https://github.com/MassMove/AttackVectors/blob/master/Twitter/032020_users_csv_hashed.csv)|[42,475](https://github.com/MassMove/AttackVectors/blob/master/Twitter/032020_tweets_csv_hashed.csv)| [CNN](https://edition.cnn.com/2020/03/12/world/russia-ghana-troll-farms-2020-ward/index.html) |
+| 202003|Ghana / Nigeria |27 MB|17 GB|[71](https://github.com/MassMove/AttackVectors/blob/master/Twitter/datasets/GHA%20or%20NGA/032020_users_csv_hashed.csv)|[42,475](https://github.com/MassMove/AttackVectors/blob/master/Twitter/datasets/GHA%20or%20NGA/032020_tweets_csv_hashed.csv)| [CNN](https://edition.cnn.com/2020/03/12/world/russia-ghana-troll-farms-2020-ward/index.html) |
 
 [Ghana / Nigeria Palladio visualization with randomized coordinates](https://github.com/MassMove/AttackVectors/blob/master/Twitter/datasets/GHA%20or%20NGA/palladio-top1k-tweet-visualization.png):
 
-![Ghana / Nigeria visualization](Twitter/datasets/GHA%20or%20NGA/palladio-top1k-tweet-visualization.png?raw=true "Ghana / Nigeria Palladio visualization")
+![Ghana / Nigeria visualization](https://github.com/MassMove/AttackVectors/blob/master/Twitter/datasets/GHA%20or%20NGA/palladio-top1k-tweet-visualization.png?raw=true "Ghana / Nigeria Palladio visualization")
 
 ## Websites resembling official campaigns
 
