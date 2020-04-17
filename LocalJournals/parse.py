@@ -3,17 +3,13 @@ import json, csv
 
 sites = {}
 sites = []
-with open("sites-geocoded.csv", "r") as csvfile:
-    data = csv.reader(csvfile)
-    for row in data:
+with open("sites.csv", "r") as csvfile:
+    filereader = csv.DictReader(csvfile)
+    for row in filereader:
         try:
-            # sites[row[0]] = {"lat" : float(row[1]), "lon" : float(row[2])}
-            sites.append([row[0], float(row[1]), float(row[2])])
+            sites.append([row['domain'], float(row['lat']), float(row['lng'])])
         except ValueError: # for sites that dont have location
             pass
 
 with open("sites-geocoded.json", "w") as jsonfile:
-    json.dump(sites, jsonfile)
-
-
-
+    json.dump(sites, jsonfile, indent=4)
