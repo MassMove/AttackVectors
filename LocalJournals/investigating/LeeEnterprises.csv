@@ -1,4 +1,4 @@
-awsOrigin,domain,lat,lng,locationVerified,httpResponseCode,contentLength,facebookUrl,siteName,twitterUsername,itunesAppStoreUrl,twitterAccountCreatedAt,twitterUserId,twitterFollowers,twitterFollowing,twitterTweets,siteOperator
+OriginIP,domain,lat,lng,locationVerified,httpResponseCode,contentLength,facebookUrl,siteName,twitterUsername,itunesAppStoreUrl,twitterAccountCreatedAt,twitterUserId,twitterFollowers,twitterFollowing,twitterTweets,siteOperator
 192.104.183.109,martinsvillebulletin.com,,,,,429,17,,mvillebulletin,,,,,,,
 192.104.183.109,gazette.com,,,,,429,17,,csgazette,,,,,,,
 192.104.183.209,kndo.com,,,,,429,17,,,,,,,,,
