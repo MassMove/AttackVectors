@@ -35,7 +35,7 @@
 		var map = new mapboxgl.Map({
 			container: 'map', // container id
 			style: 'mapbox://styles/mapbox/light-v10', // stylesheet location
-			center: [-100, 42], // starting position [lng, lat] <-- Note this is reversed
+			center: [-100, 48], // starting position [lng, lat] <-- Note this is reversed
 			zoom: 2
 		});
 
@@ -54,11 +54,11 @@
 						type: 'geojson',
 						data: geojson
 					});
-
+					/*
 					map.fitBounds(turf.bbox(geojson), {
 						padding: 20
 					});
-
+					*/
 					map.addLayer({
 						'id': 'sites',
 						'type': 'symbol',
