@@ -35,13 +35,13 @@
 		var map = new mapboxgl.Map({
 			container: 'map', // container id
 			style: 'mapbox://styles/mapbox/light-v10', // stylesheet location
-			// center: [-74.5, 40], // starting position [lng, lat]
-			// zoom: 9,
+			center: [-100, 48], // starting position [lng, lat] <-- Note this is reversed
+			zoom: 2
 		});
 
 		map.addControl(new mapboxgl.NavigationControl());
 
-		$.get('./sites-geocoded.csv', (csv) => {
+		$.get('./sites.csv', (csv) => {
 
 			csv2geojson.csv2geojson(csv, {
 				latfield: 'lat',
@@ -54,11 +54,11 @@
 						type: 'geojson',
 						data: geojson
 					});
-
+					/*
 					map.fitBounds(turf.bbox(geojson), {
 						padding: 20
 					});
-
+					*/
 					map.addLayer({
 						'id': 'sites',
 						'type': 'symbol',
@@ -128,9 +128,9 @@
 				type: 'FeatureCollection',
 				features: f
 			});
-			map.fitBounds(bbox, {
+			/*map.fitBounds(bbox, {
 				padding: 20
-			});
+			});*/
 		});
 	</script>
 
