@@ -18,8 +18,6 @@ A repository to monitor attack vectors mentioned in the [billion-dollar disinfor
 
 Their stuff looks really real: https://kalamazootimes.com until you start looking at all the articles at once: https://kalamazootimes.com/stories/tag/126-politics
 
-A Twitter bot to monitor and respond to tweets promoting state-backed information operations is at https://github.com/karan/TakeoverBot. It downloads fake local news sites.csv file, searches for mentions of each on Twitter, and replies to them with an informative message.
-
 ### Maps
 
 Some maps to relay the sheer magnitude of the operation with over a thousand domains operating as fake local journals:
@@ -49,6 +47,14 @@ Some maps to relay the sheer magnitude of the operation with over a thousand dom
 |**[1000+ more in sites.csv](https://github.com/MassMove/AttackVectors/blob/master/LocalJournals/sites.csv)**||||||||||||
 
 ### Anti-Virus
+
+#### Twitter Bot
+
+A Twitter bot to monitor and respond to tweets promoting state-backed information operations is at https://github.com/karan/TakeoverBot. It downloads fake local news sites.csv file, searches for mentions of each on Twitter, and replies to them with an informative message.
+
+#### Reddit Bot
+
+A Reddit bot to inform users when they post a link to one of the local journals: https://github.com/MassMove/AttackVectors/blob/master/LocalJournals/utils/CyberDome/tron.py.
 
 #### uBlock Origin Filters
 

@@ -38,6 +38,14 @@ Some maps to relay the sheer magnitude of the operation with over a thousand dom
 
 ### Anti-Virus
 
+#### Twitter Bot
+
+A Twitter bot to monitor and respond to tweets promoting state-backed information operations is at https://github.com/karan/TakeoverBot. It downloads fake local news sites.csv file, searches for mentions of each on Twitter, and replies to them with an informative message.
+
+#### Reddit Bot
+
+A Reddit bot to inform users when they post a link to one of the local journals: https://github.com/MassMove/AttackVectors/blob/master/LocalJournals/utils/CyberDome/tron.py.
+
 #### uBlock Origin Filters
 
 uBlock Origin can be configured to alert us when one of the local journals appears in the wild. Open the configuration dashboard and tab to "My filters" or enter this URL in Chrome: [chrome-extension://cjpalhdlnbpafiamejdnhcphjbkeiagm/dashboard.html#1p-filters.html](chrome-extension://cjpalhdlnbpafiamejdnhcphjbkeiagm/dashboard.html#1p-filters.html).
