@@ -81,3 +81,15 @@ The methods used to find more domains are detailed in the [pull requests](https:
 https://www.fec.gov/files/legal/murs/7148/19044475209.pdf
 
 [Legal Findings](https://github.com/MassMove/AttackVectors/blob/master/LocalJournals/LegalFindings.md)
+
+## Facebook
+
+Facebook is raking in tens of thousands of dollars from ad campaigns paid for by LGIS (Local Government Information Services) to promote the various local journals:
+
+- https://www.facebook.com/ads/library/?active_status=active&ad_type=political_and_issue_ads&country=US&impression_search_field=has_impressions_lifetime&q=lgis&sort_data[direction]=desc&sort_data[mode]=relevancy_monthly_grouped
+
+- https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=US&impression_search_field=has_impressions_lifetime&view_all_page_id=440850842779072
+
+## Twitter
+
+Twitter has suspended most of their accounts: https://twitter.com/DupageJournal

@@ -92,7 +92,17 @@ https://www.fec.gov/files/legal/murs/7148/19044475209.pdf
 
 [Legal Findings](https://github.com/MassMove/AttackVectors/blob/master/LocalJournals/LegalFindings.md)
 
+## Facebook
+
+Facebook is raking in tens of thousands of dollars from ad campaigns paid for by LGIS (Local Government Information Services) to promote the various local journals:
+
+- https://www.facebook.com/ads/library/?active_status=active&ad_type=political_and_issue_ads&country=US&impression_search_field=has_impressions_lifetime&q=lgis&sort_data[direction]=desc&sort_data[mode]=relevancy_monthly_grouped
+
+- https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=US&impression_search_field=has_impressions_lifetime&view_all_page_id=440850842779072
+
 ## Twitter
+
+Twitter has suspended most of their accounts: https://twitter.com/DupageJournal
 
 >The Election Night disinformation blitz had all the markings of a foreign influence operation. In 2016, [Russian operatives] had worked in similar ways to contaminate U.S. political discourse—[posing as Black Lives Matter activists](https://www.usatoday.com/story/news/politics/2018/12/17/russia-social-media-senate-report/2334382002/) in an attempt to inflame racial divisions, and fanning pro-Trump conspiracy theories. (They even used Facebook to organize rallies, including one for Muslim supporters of Clinton in Washington, D.C., where they got [someone to hold up a sign](https://www.businessinsider.com/russians-organized-pro-anti-trump-rallies-to-sow-discord-2018-2#july-9-2016-washington-dc-2) attributing a fictional quote to the candidate: “I think Sharia law will be a powerful new direction of freedom.”)
 
