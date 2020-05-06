@@ -1,9 +1,5 @@
-User, the domain you linked to is running a fake local journal. It is one of over a thousand domains tracked in an open-source project: [https://github.com/MassMove/AttackVectors](https://github.com/MassMove/AttackVectors).
-
-We have them pinned to an interactive heat-map: https://arcg.is/0KmXKK
+User, the domain you linked to is running a fake local journal. It is one of over a thousand domains tracked in an open-source project: [https://massmove.github.io/AttackVectors/#local-journals](https://massmove.github.io/AttackVectors/#local-journals).
 
 Please reply with as much detail as you can on how you came across the link you posted. Was it an ad, for example?
 
 I am a bot, please post feedback or questions to r/MassMove or contact the [moderators](https://reddit.com/message/compose?to=/r/MassMove).
-
-    This is our world now.
