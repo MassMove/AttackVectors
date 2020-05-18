@@ -132,7 +132,9 @@ Potentially state-backed information operations from the [Twitter Transparency R
 
 >In 2018, as early voting got under way in Tennessee’s Republican gubernatorial primary, [voters began receiving text messages](https://www.tennessean.com/story/news/politics/tn-elections/2018/07/13/tn-governors-race-tennesseans-receive-potentially-illegal-text-messages-attacking-randy-boyd-billlee/783785002/) attacking two of the candidates’ conservative credentials. The texts—written in a conversational style, as if they’d been sent from a friend—were unsigned, and people who tried calling the numbers received a busy signal. The local press covered the smear campaign. Law enforcement was notified. But the source of the texts was never discovered.
 
-[6 text messages attacking Joe Biden](https://github.com/MassMove/AttackVectors/blob/master/Text%20Messages/djtfp-utm-variables.csv)
+[17 text messages attacking Joe Biden](https://github.com/MassMove/AttackVectors/blob/master/Text%20Messages/djtfp-utm-variables.csv)
+
+Expanded Rebrandly link: https://www.donaldjtrump.com/landing/sleepy-joe?utm_medium=sms&utm_source=opns_djt_audience11987_political&utm_campaign=20200512_na_sleepy-joe-china-nepotism-beijingbiden-az-2_djtfp_djt_na_na_audience11987_creative100112_na_na_na_na_political_na_na_na_opns_persuasion_na_na_na_na&utm_content=na&amount=na
 
 Somebody recently shared an unsolicited text ad that they received (ostensibly) from the Trump campaign. Since they shared it, another friend shared a slightly different one with me.
 
