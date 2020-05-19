@@ -16,7 +16,7 @@ A repository to monitor attack vectors mentioned in the [billion-dollar disinfor
 
 >Running parallel to this effort, some conservatives have been experimenting with a [scheme to exploit the credibility of local journalism](https://www.nytimes.com/2019/10/31/upshot/fake-local-news.html). Over the past few years, hundreds of websites with innocuous-sounding names like the Arizona Monitor and The Kalamazoo Times have begun popping up. [At first glance, they look like regular publications, complete with community notices and coverage of schools](https://www.cjr.org/tow_center_reports/hundreds-of-pink-slime-local-news-outlets-are-distributing-algorithmic-stories-conservative-talking-points.php). But look closer and you’ll find that there are often no mastheads, few if any bylines, and no addresses for local offices. Many of them are organs of Republican lobbying groups; others belong to a mysterious company called Locality Labs, which is run by a conservative activist in Illinois. Readers are given no indication that these sites have political agendas—which is precisely what makes them valuable.
 
-Their stuff looks really real: https://kalamazootimes.com until you start looking at all the articles at once: https://kalamazootimes.com/stories/tag/126-politics
+Their stuff looks really real: [https://kalamazootimes.com](https://kalamazootimes.com) until you start looking at all the articles at once: [https://kalamazootimes.com/stories/tag/126-politics](https://kalamazootimes.com/stories/tag/126-politics)
 
 ### Maps
 
@@ -50,11 +50,11 @@ Some maps to relay the sheer magnitude of the operation with over a thousand dom
 
 #### Twitter Bot
 
-A Twitter bot to monitor and respond to tweets promoting state-backed information operations is at https://github.com/karan/TakeoverBot. It downloads fake local news sites.csv file, searches for mentions of each on Twitter, and replies to them with an informative message.
+A Twitter bot to monitor and respond to tweets promoting state-backed information operations is at [https://github.com/karan/TakeoverBot](https://github.com/karan/TakeoverBot). It downloads fake local news sites.csv file, searches for mentions of each on Twitter, and replies to them with an informative message.
 
 #### Reddit Bot
 
-A Reddit bot to inform users when they post a link to one of the local journals: https://github.com/MassMove/AttackVectors/blob/master/LocalJournals/utils/CyberDome/tron.py.
+A Reddit bot to inform users when they post a link to one of the local journals: [https://github.com/MassMove/AttackVectors/blob/master/LocalJournals/utils/CyberDome/tron.py](https://github.com/MassMove/AttackVectors/blob/master/LocalJournals/utils/CyberDome/tron.py).
 
 #### uBlock Origin Filters
 
