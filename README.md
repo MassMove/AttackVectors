@@ -56,7 +56,7 @@ A Twitter bot to monitor and respond to tweets promoting state-backed informatio
 
 A Reddit bot to inform users when they post a link to one of the local journals: [https://github.com/MassMove/AttackVectors/blob/master/LocalJournals/utils/CyberDome/tron.py](https://github.com/MassMove/AttackVectors/blob/master/LocalJournals/utils/CyberDome/tron.py).
 
-[https://www.reddit.com/user/cyber_dome_bot](user/cyber_dome_bot)
+[user/cyber_dome_bot](https://www.reddit.com/user/cyber_dome_bot)
 
 #### uBlock Origin Filters
 
