@@ -1,5 +1,7 @@
-User, the domain you linked to is running a fake local journal. It is one of over a thousand domains tracked in an open-source project: [https://massmove.github.io/AttackVectors/#local-journals](https://massmove.github.io/AttackVectors/#local-journals).
+The website you linked to is a fake local journal. It is one of over a thousand domains tracked in an open-source project: [https://massmove.github.io/AttackVectors/#local-journals](https://massmove.github.io/AttackVectors/#local-journals).
 
 Please reply with as much detail as you can on how you came across the link you posted. Was it an ad, for example?
 
-I am a bot, please post feedback or questions to r/MassMove or contact the [moderators](https://reddit.com/message/compose?to=/r/MassMove).
+**Moderators**:  Please consider using automoderator to block these domains using the code available [here](https://old.reddit.com/r/cyber_dome/wiki/sites_automod)
+
+I am a bot, for feedback, questions, or more information please visit [What is Cyber Dome?](https://www.reddit.com/r/cyber_dome/comments/go966w/what_is_cyber_dome/)
