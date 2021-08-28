@@ -18,26 +18,27 @@ namespace HttpResponseMonitor
                 parser.SetDelimiters(",");
                 parser.ReadFields(); // skip header
 
-                String header = "awsOrigin,domain,lat,lng,locationVerified,httpResponseCode,contentLength,facebookUrl,siteName,twitterUsername,itunesAppStoreUrl,twitterAccountCreatedAt,twitterUserId,twitterFollowers,twitterFollowing,twitterTweets,siteOperator";
+                String header = ",awsOrigin,domain,lat,lng,locationVerified,httpResponseCode,contentLength,facebookUrl,siteName,twitterUsername,itunesAppStoreUrl,twitterAccountCreatedAt,twitterUserId,twitterFollowers,twitterFollowing,twitterTweets,siteOperator";
                 String lines = header;
                 while (!parser.EndOfData)
                 {
                     string[] fields = parser.ReadFields();
 
                     // extract a line from sites.csv
-                    String awsOrigin = fields[0];
-                    String domain = fields[1];
-                    String state = fields[2];
-                    String lat = fields[3];
-                    String lng = fields[4];
-                    String locationVerified = fields[5];
-                    String httpResponseCode = fields[6];
-                    String contentLength = fields[7];
-                    String facebookUrl = fields[8];
-                    String siteName = fields[9];
-                    String twitterUsername = fields[10];
-                    String itunesAppStoreUrl = fields[11];
-                    String twitterAccountCreatedAt = fields[12];
+                    String id = fields[0];
+                    String awsOrigin = fields[1];
+                    String domain = fields[2];
+                    String state = fields[3];
+                    String lat = fields[4];
+                    String lng = fields[5];
+                    String locationVerified = fields[6];
+                    String httpResponseCode = fields[7];
+                    String contentLength = fields[8];
+                    String facebookUrl = fields[9];
+                    String siteName = fields[10];
+                    String twitterUsername = fields[11];
+                    String itunesAppStoreUrl = fields[12];
+                    String twitterAccountCreatedAt = fields[13];
                     String twitterUserId = "";
                     String twitterFollowers = "";
                     String twitterFollowing = "";
@@ -48,11 +49,11 @@ namespace HttpResponseMonitor
 
                     try
                     {
-                        twitterUserId = fields[13];
-                        twitterFollowers = fields[14];
-                        twitterFollowing = fields[15];
-                        twitterTweets = fields[16];
-                        siteOperator = fields[17];
+                        twitterUserId = fields[14];
+                        twitterFollowers = fields[15];
+                        twitterFollowing = fields[16];
+                        twitterTweets = fields[17];
+                        siteOperator = fields[18];
                     }
                     catch (Exception ex)
                     {
@@ -71,7 +72,8 @@ namespace HttpResponseMonitor
                     }
 
                     // write a new line for the updated sites.csv
-                    String line = awsOrigin + ",";
+                    String line = id + ",";
+                    line += awsOrigin + ",";
                     line += domain + ",";
                     line += state + ",";
                     line += lat + ",";
