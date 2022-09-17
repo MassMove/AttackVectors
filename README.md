@@ -58,6 +58,10 @@ A Reddit bot to inform users when they post a link to one of the local journals:
 
 [user/cyber_dome_bot](https://www.reddit.com/user/cyber_dome_bot)
 
+#### Reddit Post Monitor
+
+A script that lists when domains were last posted to reddit in the last month: https://github.com/MassMove/AttackVectors/tree/master/LocalJournals/utils/RedditPostMonitor.
+
 #### uBlock Origin Filters
 
 uBlock Origin can be configured to alert us when one of the local journals appears in the wild. Open the configuration dashboard and tab to "My filters" or enter this URL in Chrome: [chrome-extension://cjpalhdlnbpafiamejdnhcphjbkeiagm/dashboard.html#1p-filters.html](chrome-extension://cjpalhdlnbpafiamejdnhcphjbkeiagm/dashboard.html#1p-filters.html).
