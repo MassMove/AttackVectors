@@ -15,7 +15,7 @@ namespace HttpResponseMonitor
 
             String readMe = "# Reddit Post Monitor\r\n\r\n";
 
-            readMe += "Last run: " + DateTime.UtcNow.ToString("yyyy-MM-dd hh:mm UTC") + ".\r\n\r\n";
+            readMe += "Last run: " + DateTime.UtcNow.ToString("yyyy-MM-dd hh:mm UTC") + "\r\n\r\n";
 
             // iterate through the domains in sites.csv
             using (TextFieldParser parser = new TextFieldParser("../../../../../sites.csv"))
@@ -43,7 +43,7 @@ namespace HttpResponseMonitor
                                     using (StreamReader streamReader = new StreamReader(responseStream))
                                     {
                                         string domainHtml = streamReader.ReadToEnd();
-                                        string domainUrl = "[" + domain + "](" + "https://www.reddit.com/domain/" + domain + ")";
+                                        string domainUrl = "- [" + domain + "](" + "https://www.reddit.com/domain/" + domain + ")";
                                         if (domainHtml.IndexOf("hour ago") > 0)
                                         {
                                             readMe += domainUrl + " : an hour ago!" + "\r\n";
