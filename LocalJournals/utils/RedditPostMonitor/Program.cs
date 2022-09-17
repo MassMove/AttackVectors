@@ -46,24 +46,24 @@ namespace HttpResponseMonitor
                                         string domainUrl = "- [" + domain + "](" + "https://www.reddit.com/domain/" + domain + ")";
                                         if (domainHtml.IndexOf("hour ago") > 0)
                                         {
-                                            readMe += domainUrl + " : an hour ago!" + "\r\n";
+                                            readMe += domainUrl + ": an hour ago!" + "\r\n";
                                             Console.WriteLine("\r\n" + domain + ": an hour ago!");
                                         }
                                         else if (domainHtml.IndexOf("hours ago") > 0)
                                         {
                                             string hours = getTimeframe(domainHtml, "hours ago");
-                                            readMe += domainUrl + " : " + hours + " hours ago!" + "\r\n";
+                                            readMe += domainUrl + ": " + hours + " hours ago!" + "\r\n";
                                             Console.WriteLine("\r\n" + domain + ": " + hours + " hours ago!");
                                         }
                                         else if (domainHtml.IndexOf("day ago") > 0)
                                         {
-                                            readMe += domainUrl + " : a day ago!" + "\r\n";
+                                            readMe += domainUrl + ": a day ago!" + "\r\n";
                                             Console.WriteLine("\r\n" + domain + ": a day ago!");
                                         }
                                         else if (domainHtml.IndexOf("days ago") > 0)
                                         {
                                             string days = getTimeframe(domainHtml, "days ago");
-                                            readMe += domainUrl + " : " + days + " days ago" + "\r\n";
+                                            readMe += domainUrl + ": " + days + " days ago" + "\r\n";
                                             Console.WriteLine("\r\n" + domain + ": " + days + " days ago");
                                         }
                                         else
