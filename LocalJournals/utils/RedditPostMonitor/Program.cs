@@ -26,7 +26,7 @@ namespace HttpResponseMonitor
 
                 while (!parser.EndOfData)
                 {
-                    string domain = parser.ReadFields()[2];
+                    string domain = parser.ReadFields()[1];
 
                     threads++;
                     new Thread((ThreadStart)(() =>
