@@ -21,7 +21,7 @@ namespace HttpResponseMonitor
                 parser.SetDelimiters(",");
                 parser.ReadFields(); // skip header
 
-                String header = "awsOrigin,domain,lat,lng,locationVerified,httpResponseCode,contentLength,facebookUrl,siteName,twitterUsername,itunesAppStoreUrl,twitterAccountCreatedAt,twitterUserId,twitterFollowers,twitterFollowing,twitterTweets,siteOperator";
+                String header = "awsOrigin,domain,state,lat,lng,locationVerified,httpResponseCode,contentLength,facebookUrl,siteName,twitterUsername,itunesAppStoreUrl,twitterAccountCreatedAt,twitterUserId,twitterFollowers,twitterFollowing,twitterTweets,siteOperator,twitterSuspended";
                 String lines = header;
                 while (!parser.EndOfData)
                 {
@@ -41,24 +41,12 @@ namespace HttpResponseMonitor
                     String twitterUsername = fields[10];
                     String itunesAppStoreUrl = fields[11];
                     String twitterAccountCreatedAt = fields[12];
-                    String twitterUserId = "";
-                    String twitterFollowers = "";
-                    String twitterFollowing = "";
-                    String twitterTweets = "";
-                    String siteOperator = "";
-
-                    try
-                    {
-                        twitterUserId = fields[13];
-                        twitterFollowers = fields[14];
-                        twitterFollowing = fields[15];
-                        twitterTweets = fields[16];
-                        siteOperator = fields[17];
-                    }
-                    catch (Exception ex)
-                    {
-                        String x = ex.Message;
-                    }
+                    String twitterUserId = fields[13];
+                    String twitterFollowers = fields[14];
+                    String twitterFollowing = fields[15];
+                    String twitterTweets = fields[16];
+                    String siteOperator = fields[17];
+                    String twitterSuspended = fields[18];
 
                     // get the http response code
                     try
@@ -67,7 +55,7 @@ namespace HttpResponseMonitor
                         request.Method = "GET";
 
                         //Fake firefox-like header. Valid HTTP request headers, particularly the user-agent are used to determine if
-                        //web request are valid. We can emulate different browsers using different headersl
+                        //web request are valid. We can emulate different browsers using different headers
                         request.Headers["User-Agent"] = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36";
 
                         using (var response = request.GetResponse())
@@ -77,16 +65,8 @@ namespace HttpResponseMonitor
                             HttpWebResponse webResponse = ((HttpWebResponse)response);
                             HttpStatusCode statusCode = ((HttpWebResponse)response).StatusCode;
                             httpResponseCode = ((int)statusCode).ToString();
-                            contentLength = response.ContentLength.ToString();
-
-                            String responseString = reader.ReadToEnd();
-                            if (responseString.ToLower().Contains("corona"))
-                            {
-                                File.AppendAllText("../../../../../reports/corona/corona - " + DateTime.Now.ToString("yyyy-MM-dd") + ".txt", domain + "\r\n");
-                            }
-                            if (responseString.ToLower().Contains("covid-19"))
-                            {
-                                File.AppendAllText("../../../../../reports/corona/covid-19 - " + DateTime.Now.ToString("yyyy-MM-dd") + ".txt", domain + "\r\n");
+                            if (response.ContentLength > 0) { 
+                                contentLength = response.ContentLength.ToString();
                             }
                         }
 
@@ -124,6 +104,7 @@ namespace HttpResponseMonitor
                     }
                     catch (Exception ex)
                     {
+                        httpResponseCode = "-1";
                     }
 
                     // write a new line for the updated sites.csv
@@ -144,7 +125,8 @@ namespace HttpResponseMonitor
                     line += twitterFollowers + ",";
                     line += twitterFollowing + ",";
                     line += twitterTweets + ",";
-                    line += siteOperator;
+                    line += siteOperator + ",";
+                    line += twitterSuspended;
 
                     lines += "\r\n" + line;
 
