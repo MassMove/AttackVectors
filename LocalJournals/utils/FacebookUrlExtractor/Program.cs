@@ -50,6 +50,8 @@ namespace FacebookUrlExtractor
                     // get the facebook URL
                     try
                     {
+                        Console.Write(domain + ": ");
+
                         var domainSource = getWebResponse("https://" + domain);
 
                         int facebookUrlStart = domainSource.IndexOf("href=\"https://www.facebook.com/");
@@ -58,9 +60,10 @@ namespace FacebookUrlExtractor
                             facebookUrlStart += "href=\"".Length;
                             int facebookUrlEnd = domainSource.IndexOf("\"", facebookUrlStart);
                             facebookUrl = domainSource.Substring(facebookUrlStart, facebookUrlEnd - facebookUrlStart);
+                        }
 
-                            Console.Write(domain + ": " + facebookUrl);
-
+                        Console.Write(facebookUrl);
+                        if (facebookUrl != "") { 
                             var facebookSource = getWebResponse(facebookUrl);
 
                             if (facebookSource.IndexOf("follower_count") > 0) { 
@@ -78,14 +81,10 @@ namespace FacebookUrlExtractor
 
                             Console.Write(" - " + facebookFollowers + ", " + facebookLikes);
                         }
-                        else
-                        {
-                            Console.Write(domain + ": -");
-                        }
                     }
                     catch (Exception ex)
                     {
-                        Console.Write(domain + ": " + ex.Message);
+                        Console.Write(ex.Message);
                     }
                     Console.WriteLine("");
 
