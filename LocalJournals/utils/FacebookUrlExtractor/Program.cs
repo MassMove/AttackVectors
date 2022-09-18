@@ -3,7 +3,7 @@ using System;
 using System.IO;
 using System.Net;
 
-namespace HttpResponseMonitor
+namespace FacebookUrlExtractor
 {
     class Program
     {
@@ -18,7 +18,7 @@ namespace HttpResponseMonitor
                 parser.SetDelimiters(",");
                 parser.ReadFields(); // skip header
 
-                String header = "awsOrigin,domain,lat,lng,locationVerified,httpResponseCode,contentLength,facebookUrl,siteName,twitterUsername,itunesAppStoreUrl,twitterAccountCreatedAt,twitterUserId,twitterFollowers,twitterFollowing,twitterTweets,siteOperator";
+                String header = "awsOrigin,domain,state,lat,lng,locationVerified,httpResponseCode,contentLength,facebookUrl,siteName,twitterUsername,itunesAppStoreUrl,twitterAccountCreatedAt,twitterUserId,twitterFollowers,twitterFollowing,twitterTweets,siteOperator,twitterSuspended";
                 String lines = header;
                 while (!parser.EndOfData)
                 {
@@ -38,23 +38,12 @@ namespace HttpResponseMonitor
                     String twitterUsername = fields[10];
                     String itunesAppStoreUrl = fields[11];
                     String twitterAccountCreatedAt = fields[12];
-                    String twitterUserId = "";
-                    String twitterFollowers = "";
-                    String twitterFollowing = "";
-                    String twitterTweets = "";
-                    String siteOperator = "";
-
-                    try
-                    {
-                        twitterUserId = fields[13];
-                        twitterFollowers = fields[14];
-                        twitterFollowing = fields[15];
-                        twitterTweets = fields[16];
-                        siteOperator = fields[17];
-                    }
-                    catch (Exception ex)
-                    {
-                    }
+                    String twitterUserId = fields[13];
+                    String twitterFollowers = fields[14];
+                    String twitterFollowing = fields[15];
+                    String twitterTweets = fields[16];
+                    String siteOperator = fields[17];
+                    String twitterSuspended = fields[18];
 
                     // get the facebook URL
                     if (facebookUrl == "")
@@ -113,7 +102,8 @@ namespace HttpResponseMonitor
                     line += twitterFollowers + ",";
                     line += twitterFollowing + ",";
                     line += twitterTweets + ",";
-                    line += siteOperator;
+                    line += siteOperator + ",";
+                    line += twitterSuspended;
 
                     lines += "\r\n" + line;
                 }
