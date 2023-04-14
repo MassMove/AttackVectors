@@ -114,21 +114,58 @@ Twitter has suspended most of their accounts: https://twitter.com/DupageJournal
 
 >But when Twitter employees later reviewed the activity surrounding Kentucky’s election, they concluded that the [bots were largely based in America](https://www.nytimes.com/2019/11/10/us/politics/kentucky-election-disinformation-twitter.html)—a sign that political operatives here were learning to mimic [foreign tactics].
 
-Potentially state-backed information operations from the [Twitter Transparency Report](https://transparency.twitter.com/en/information-operations.html):
+State-backed information operations from the [Twitter Transparency Report](https://transparency.twitter.com/en/information-operations.html):
 
 | Date | Country | Msg Info | Media | Accounts |Tweets|Reports|
 |:-----|:-------:|:--------:|:-----:|---------:|:-----:|:-----:|
-| 201906|Catalonia |1.5 MB|2.74 GB|130 |||
-| 201906|Iran|316 MB|258 GB|1,666 |||
-| 201906|Iran|318 MB|183 GB|248 |||
-| 201906|Iran|46 MB|55 GB|2,865 |||
-| 201906|Russia|260 KB|72 MB|4|||
-| 201906|Venezuela |64 MB|24 GB|33 |||
-| 201906|China |158 MB|85 GB|744  |||
-| 201906|China |169 MB|40 GB|196 |||
-| 201906|China |913 MB|604 GB|4,301|||
-| 201910|Saudi Arabia |4.3 GB|1.3 TB|5,929|||
-| 202003|Ghana / Nigeria |27 MB|17 GB|[71](https://github.com/MassMove/AttackVectors/blob/master/Twitter/datasets/GHA%20or%20NGA/032020_users_csv_hashed.csv)|[42,475](https://github.com/MassMove/AttackVectors/blob/master/Twitter/datasets/GHA%20or%20NGA/032020_tweets_csv_hashed.csv)| [CNN](https://edition.cnn.com/2020/03/12/world/russia-ghana-troll-farms-2020-ward/index.html) |
+| 2021-12|[China](https://github.com/MassMove/TwitterStateBackedOps/tree/main/datasets/People’s%20Republic%20of%20China/Changyu%20Culture) |2.57 MB|4.61 GB|112 ||
+| 2021-12|[China](https://github.com/MassMove/TwitterStateBackedOps/tree/main/datasets/People’s%20Republic%20of%20China/Xinjiang) |3.46 MB|2.3 GB|2048 ||
+| 2021-12|[Russia IRA](https://github.com/MassMove/TwitterStateBackedOps/tree/main/datasets/Russia/IRA/North%20Africa) |2.48 MB|3.31 GB|16 ||
+| 2021-12|[Russia](https://github.com/MassMove/TwitterStateBackedOps/tree/main/datasets/Russia/East%20Africa) |1.11 MB|1.65 GB|50 ||
+| 2021-12|[Tanzania](https://github.com/MassMove/TwitterStateBackedOps/tree/main/datasets/Tanzania) |1.58 MB|(1.81 GB|268 ||
+| 2021-12|[Uganda](https://github.com/MassMove/TwitterStateBackedOps/tree/main/datasets/Uganda) |62.14 MB|19.92 GB|418 ||
+| 2021-12|[Venezuela](https://github.com/MassMove/TwitterStateBackedOps/tree/main/datasets/Venezuela) |82.07 MB|20.18 GB|277 ||
+| 2021-12|[Mexico](https://github.com/MassMove/TwitterStateBackedOps/tree/main/datasets/Mexico) |2.49 MB|2.84 GB|276 ||
+| 2021-02|[Russia IRA](Russia/IRA/2021-02) |36.6 MB|2.6 GB|31 ||
+| 2021-02|[Russia GRU](https://github.com/MassMove/TwitterStateBackedOps/tree/main/datasets/Russia/GRU) |14.3 MB|1.8 GB|69 ||
+| 2021-02|[Armenia](https://github.com/MassMove/TwitterStateBackedOps/tree/main/datasets/Armenia) |46.7 KB|1.2 GB|35 ||
+| 2021-02|[Iran](https://github.com/MassMove/TwitterStateBackedOps/tree/main/datasets/Iran/2021-02) |285.2 MB|32.4 GB|238 ||
+| 2020-09|[Saudi Arabia](https://github.com/MassMove/TwitterStateBackedOps/tree/main/datasets/Saudi%20Arabia) |24 KB|5.8 GB|33 ||
+| 2020-09|[Cuba](https://github.com/MassMove/TwitterStateBackedOps/tree/main/datasets/Cuba) |666 MB|49.2 GB|526 ||
+| 2020-09|[Thailand](https://github.com/MassMove/TwitterStateBackedOps/tree/main/datasets/Thailand) |2.3 MB|2.9 GB|926 ||
+| 2020-09|[Russia](https://github.com/MassMove/TwitterStateBackedOps/tree/main/datasets/Russia/IRA/2020-09) |180 KB|10 MB|5 ||
+| 2020-09|[Iran](https://github.com/MassMove/TwitterStateBackedOps/tree/main/datasets/Iran/2020-09) |292 KB|16.7 GB|104 ||
+| 2020-05|[Russia](https://github.com/MassMove/TwitterStateBackedOps/tree/main/datasets/Russia/2020-05) |353 MB|108 GB|1,152 ||
+| 2020-05|Turkey |5 GB|821 GB|7,340 ||
+| 2020-05|China |73.2 MB|31 GB|23,750 ||
+| 2020-03|[Ghana / Nigeria](https://github.com/MassMove/TwitterStateBackedOps/tree/main/datasets/Ghana%20or%20Nigeria) |[27 MB]((https://github.com/MassMove/AttackVectors/blob/master/Twitter/datasets/GHA%20or%20NGA/032020_tweets_csv_hashed.csv))|17 GB|[71](https://github.com/MassMove/AttackVectors/blob/master/Twitter/datasets/GHA%20or%20NGA/032020_users_csv_hashed.csv)| [CNN](https://edition.cnn.com/2020/03/12/world/russia-ghana-troll-farms-2020-ward/index.html) |
+| 2020-02|Serbia |5.7 GB|2.3 TB|8,558 ||
+| 2020-02|SA / UAE / Egypt |4.2 GB|977 GB|5,350 ||
+| 2020-02|Indonesia |207 MB|78 GB|795 ||
+| 2020-02|Honduras |137 MB|75 GB|2,541 ||
+| 2020-02|Egypt |1 GB|575 TB|2,541 ||
+| 2019-10|Saudi Arabia |4.3 GB|1.3 TB|5,929||
+| 2019-06|China |913 MB|604 GB|4,301||
+| 2019-06|China |169 MB|40 GB|196 ||
+| 2019-06|China |158 MB|85 GB|744  ||
+| 2019-06|Venezuela |64 MB|24 GB|33 ||
+| 2019-06|Russia|260 KB|72 MB|4||
+| 2019-06|Iran|46 MB|55 GB|2,865 ||
+| 2019-06|Iran|318 MB|183 GB|248 ||
+| 2019-06|Iran|316 MB|258 GB|1,666 ||
+| 2019-06|Catalonia |1.5 MB|2.74 GB|130 ||
+| 2019-04|Spain |7 MB|16 GB|259 ||
+| 2019-04|Ecuador |85 MB|173 MB|1,019  ||
+| 2019-04|Saudi Arabia|38 KB|357 MB|6 ||
+| 2019-04|UAE / Egypt|30 MB|45 GB|271||
+| 2019-03|UAE |227 MB|680 GB|4,248 ||
+| 2019-01|Venezuela |136 MB|81 GB|764 ||
+| 2019-01|Venezuela |1 GB|359 GB|1,196||
+| 2019-01|Russia|120 MB|63.7 GB|416 ||
+| 2019-01|Bangladesh |2.6 MB|77 MB|15 ||
+| 2019-01|Iran     |  717 MB| 202 GB|2,320||
+| 2018-10|Iran     | 168 MB | 65.7 GB|770 ||
+| 2018-10|Russia   |  1.2 GB|274 GB|3,613||
 
 [Ghana / Nigeria Palladio visualization with randomized coordinates](https://github.com/MassMove/AttackVectors/blob/master/Twitter/datasets/GHA%20or%20NGA/palladio-top1k-tweet-visualization.png):
 
