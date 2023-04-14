@@ -74,7 +74,7 @@ awsOrigin,domain,state,lat,lng,locationVerified,httpResponseCode,contentLength,f
 34.236.176.60,ncncnews.com,NC,35.76,-79.02,0,200,79813,https://www.facebook.com/NC-North-Carolina-News-112558680139451/,NC North Carolina News,,,,,,,,Metric Media,,91,85
 3.82.80.110,ncsctimes.com,SC,33.84,-81.16,0,200,49251,,NC South Carolina Times,,,,,,,,Metric Media,,,
 3.82.80.110,ncunionnews.com,NC,34.93,-80.54,0,200,79620,https://www.facebook.com/Union-News-114326133299310/,Union News,,,,,,,,Metric Media,,1,1
-3.82.80.110,ncwvnews.com,WV,38.6,-80.45,0,200,46511,https://www.facebook.com/NC-West-Virginia-News-112561160403651/,NC West Virginia News,,,,,,,,Metric Media,,0,0
+3.82.80.110,ncwvnews.com,WV,38.6,-80.45,0,200,46511,https://www.facebook.com/NC-West-Virginia-News-112561160403651/,NC West Virginia News,,,,,,,,Metric Media,,1,1
 34.236.176.60,neatlantanews.com,GA,33.75,-84.39,0,200,70154,https://www.facebook.com/NE-Atlanta-News-101387741544046/?ref=br_rs,NE Atlanta News,,,,,,,,Metric Media,,0,0
 34.236.176.60,nefloridanews.com,FL,27.66,-81.52,0,200,75886,https://www.facebook.com/NE-Florida-News-110424683845927/?ref=br_rs,NE Florida News,,,,,,,,Metric Media,,,
 34.236.176.60,nepiedmontnews.com,NC,35.1,-80.49,0,200,80359,https://www.facebook.com/NE-Piedmont-News-108836913847873/,NE Piedmont News,,,,,,,,Metric Media,,100,100
@@ -127,7 +127,7 @@ awsOrigin,domain,state,lat,lng,locationVerified,httpResponseCode,contentLength,f
 34.236.176.60,richmondleader.com,VA,37.54,-77.44,0,200,58206,https://www.facebook.com/Richmond-Leader-107844947552946,Richmond Leader,,,,,,,,Metric Media,,,
 34.236.176.60,roanokesun.com,VA,37.27,-79.94,0,200,53046,https://www.facebook.com/Roanoke-Sun-101079134903529/,Roanoke Sun,,,,,,,,Metric Media,,,
 3.82.80.110,rockymounttoday.com,NC,35.94,-77.79,0,200,80596,https://www.facebook.com/Rocky-Mount-Today-115352959862275/,Rocky Mount Today,,,,,,,,Metric Media,,75,72
-3.82.80.110,romereporter.com,GA,34.26,-85.16,0,200,55903,https://www.facebook.com/Rome-Reporter-106552034367609/,Rome Reporter,,,,,,,,Metric Media,,3,3
+3.82.80.110,romereporter.com,GA,34.26,-85.16,0,200,55903,https://www.facebook.com/Rome-Reporter-106552034367609/,Rome Reporter,,,,,,,,Metric Media,,5,5
 34.236.176.60,rowannews.com,NC,35.63,-80.54,0,200,79406,https://www.facebook.com/Rowan-News-106127457456478/,Rowan News,,,,,,,,Metric Media,,24,21
 3.82.80.110,sarasotareview.com,FL,27.34,-82.53,0,200,75450,https://www.facebook.com/Sarasota-Review-100692781499565/,Sarasota Review,,,,,,,,Metric Media,,0,0
 3.82.80.110,savannahstandard.com,GA,32.08,-81.09,0,200,63901,https://www.facebook.com/Savannah-Standard-103219098038052/,Savannah Standard,,,,,,,,Metric Media,,0,0
@@ -149,12 +149,12 @@ awsOrigin,domain,state,lat,lng,locationVerified,httpResponseCode,contentLength,f
 34.236.176.60,southguilfordnews.com,NC,36.09,-79.83,0,200,79773,https://www.facebook.com/South-Guilford-News-100112064728186/,South Guilford News,,,,,,,,Metric Media,,75,75
 3.82.80.110,southgwinnettnews.com,GA,33.92,-84.02,0,200,56461,https://www.facebook.com/South-Gwinnett-News-109434227407559/,South Gwinnett News,,,,,,,,Metric Media,,0,0
 3.82.80.110,southlaketoday.com,FL,28.7,-81.78,0,200,-1,https://www.facebook.com/South-Lake-Today-104161574274877/,South Lake Today,,,,,,,,Metric Media,,0,0
-3.82.80.110,southmecklenburgnews.com,NC,35.26,-80.85,0,200,83541,https://www.facebook.com/South-Mecklenburg-News-100968904641995/,South Mecklenburg News,,,,,,,,Metric Media,,0,0
+3.82.80.110,southmecklenburgnews.com,NC,35.26,-80.85,0,200,83541,https://www.facebook.com/South-Mecklenburg-News-100968904641995/,South Mecklenburg News,,,,,,,,Metric Media,,1,1
 3.82.80.110,southmianews.com,FL,25.55,-80.63,0,200,77745,https://www.facebook.com/South-Miami-Dade-News-105752254320672/,South Miami-Dade News,,,,,,,,Metric Media,,,
 3.82.80.110,southncnews.com,NC,35.76,-79.02,0,200,80501,https://www.facebook.com/South-North-Carolina-News-108664537201551/,South North Carolina News,,,,,,,,Metric Media,,,
 3.82.80.110,southnewcastlenews.com,DE,39.66,-75.57,0,200,-1,https://www.facebook.com/South-New-Castle-News-103651217716865/,South New Castle News,,,,,,,,Metric Media,,2,2
 34.236.176.60,southorlandonews.com,FL,28.54,-81.38,0,200,75238,https://www.facebook.com/South-Orlando-News-108189620740779/,South Orlando News,,,,,,,,Metric Media,,,
-3.82.80.110,southpalmbeachtoday.com,FL,26.71,-80.04,0,200,76165,https://www.facebook.com/South-Palm-Beach-Today-110516757171338/,South Palm Beach Today,,,,,,,,Metric Media,,212,211
+3.82.80.110,southpalmbeachtoday.com,FL,26.71,-80.04,0,200,76165,https://www.facebook.com/South-Palm-Beach-Today-110516757171338/,South Palm Beach Today,,,,,,,,Metric Media,,206,205
 34.236.176.60,southpinellastimes.com,FL,27.88,-82.78,0,200,73911,https://www.facebook.com/South-Pinellas-Times-107767730783677/,South Pinellas Times,,,,,,,,Metric Media,,54,54
 34.236.176.60,southraleighnews.com,NC,35.78,-78.64,0,200,81524,https://www.facebook.com/South-Raleigh-News-122305189162080/,South Raleigh News,,,,,,,,Metric Media,,,
 3.82.80.110,southsidevanews.com,VA,37.07,-77.95,0,200,55907,https://www.facebook.com/Southside-VA-News-103267471347511/,Southside VA News,,,,,,,,Metric Media,,0,0
@@ -163,7 +163,7 @@ awsOrigin,domain,state,lat,lng,locationVerified,httpResponseCode,contentLength,f
 34.236.176.60,southwinstonsalemnews.com,NC,36.1,-80.24,0,200,79988,https://www.facebook.com/South-Winston-Salem-News-119205412808145/,South Winston Salem News,,,,,,,,Metric Media,,280,281
 3.82.80.110,spartanburgreporter.com,SC,34.95,-81.93,0,200,50766,https://www.facebook.com/Spartanburg-Reporter-109526537388407/,Spartanburg Reporter,,,,,,,,Metric Media,,,
 34.236.176.60,stpetestandard.com,FL,27.77,-82.64,0,200,75975,https://www.facebook.com/St-Pete-Standard-101362458097532/,St. Pete Standard,,,,,,,,Metric Media,,2,1
-3.82.80.110,sumtertimes.com,FL,28.67,-82.08,0,200,76975,https://www.facebook.com/Sumter-Times-112794503607333/,Sumter Times,,,,,,,,Metric Media,,154,153
+3.82.80.110,sumtertimes.com,FL,28.67,-82.08,0,200,76975,https://www.facebook.com/Sumter-Times-112794503607333/,Sumter Times,,,,,,,,Metric Media,,149,148
 3.82.80.110,sunshinesentinel.com,FL,26.06,-80.29,0,200,72877,https://www.facebook.com/Sun-Shine-Sentinel-113970290155891/,Sun Shine Sentinel,,,,,,,,Metric Media,,,
 34.236.176.60,sussexreview.com,DE,38.65,-75.43,0,200,62707,https://www.facebook.com/Sussex-Review-111264033622037/,Sussex Review,,,,,,,,Metric Media,,,
 34.236.176.60,swgeorgianews.com,GA,32.17,-82.9,0,200,61353,https://www.facebook.com/SW-Georgia-News-105995501090149/,SW Georgia News,,,,,,,,Metric Media,,,
@@ -198,7 +198,7 @@ awsOrigin,domain,state,lat,lng,locationVerified,httpResponseCode,contentLength,f
 34.236.176.60,centrallouisiananews.com,LA,30.98,-91.96,0,200,54279,https://www.facebook.com/Central-Louisiana-News-104154594631379/,Central Louisiana News,,,,,,,,Metric Media,,,
 3.82.80.110,centraltxnews.com,TX,31.97,-99.9,0,200,79347,https://www.facebook.com/North-Austin-News-113355283540833/,Central Texas News,,,,,,,,Metric Media,,,
 34.236.176.60,centroplexnews.com,TX,31.57,-97.11,0,200,78689,https://www.facebook.com/Centroplex-News-114081190134318/,Centroplex News,,,,,,,,Metric Media,,48,48
-34.236.176.60,clarksvilletimes.com,TN,36.53,-87.36,0,200,53662,https://www.facebook.com/Clarksville-Times-104312657876229/,Clarksville Times,,,,,,,,Metric Media,,0,0
+34.236.176.60,clarksvilletimes.com,TN,36.53,-87.36,0,200,53662,https://www.facebook.com/Clarksville-Times-104312657876229/,Clarksville Times,,,,,,,,Metric Media,,1,0
 3.82.80.110,collintimes.com,TX,33.18,-96.49,0,200,76193,https://www.facebook.com/Collin-Times-113122380231487/,Collin Times,,,,,,,,Metric Media,,61,61
 34.236.176.60,conchovalleynews.com,TX,31.42,-100.48,0,200,77501,https://www.facebook.com/Concho-Valley-News-106050100946717/,Concho Valley News,,,,,,,,Metric Media,,30,25
 3.82.80.110,corpuschristisun.com,TX,27.8,-97.4,0,200,78894,https://www.facebook.com/Corpus-Christi-Sun-107216310826748/,Corpus Christi Sun,,,,,,,,Metric Media,,57,56
@@ -259,7 +259,7 @@ awsOrigin,domain,state,lat,lng,locationVerified,httpResponseCode,contentLength,f
 34.236.176.60,nckentuckynews.com,KY,37.84,-84.27,0,200,67452,https://business.facebook.com/NC-Kentucky-News-111261930254860/?business_id=898179107217559,NC Kentucky News,,,,,,,,Metric Media,,,
 3.82.80.110,ncmissnews.com,MS,32.35,-89.4,0,200,52064,,NC Mississippi News,,,,,,,,Metric Media,,,
 34.236.176.60,nctennnews.com,TN,35.52,-86.58,0,200,52056,https://www.facebook.com/NC-Tennessee-News-107418937599319/,NC Tennessee News,,,,,,,,Metric Media,,0,0
-3.82.80.110,nealabamanews.com,AL,32.32,-86.9,0,200,57057,https://www.facebook.com/NE-Alabama-News-104835851170004/,NE Alabama News,,,,,,,,Metric Media,,1,1
+3.82.80.110,nealabamanews.com,AL,32.32,-86.9,0,200,57057,https://www.facebook.com/NE-Alabama-News-104835851170004/,NE Alabama News,,,,,,,,Metric Media,,2,2
 34.236.176.60,nedallasnews.com,TX,32.78,-96.8,0,200,79896,https://www.facebook.com/NE-Dallas-News-110176403860576/?__tn__=%2Cd%2CP-R&amp;eid=ARABmY3T0fJ6-B-j73Yzvwm4mD1PuYrhns4qUeQQDa_xQfFA13P6I-1WS6fnHPuP3c6-0FrSlxFgXkDn,NE Dallas News,,,,,,,,Metric Media,,,
 34.236.176.60,nekentuckynews.com,KY,37.84,-84.27,0,200,67762,https://business.facebook.com/NE-Kentucky-News-110835553630870/?business_id=898179107217559,NE Kentucky News,,,,,,,,Metric Media,,296,296
 3.82.80.110,nelouisiananews.com,LA,30.98,-91.96,0,200,49887,https://www.facebook.com/NE-Louisiana-News-102980284750825/,Ne Louisiana News,,,,,,,,Metric Media,,,
@@ -282,7 +282,7 @@ awsOrigin,domain,state,lat,lng,locationVerified,httpResponseCode,contentLength,f
 3.82.80.110,northtxnews.com,TX,31.97,-99.9,0,200,79079,https://www.facebook.com/North-Texas-News-102131881343105/,North Texas News,,,,,,,,Metric Media,,,
 34.236.176.60,nwalabamanews.com,AL,32.32,-86.9,0,200,53131,https://www.facebook.com/NW-Alabama-News-112285973749063/,NW Alabama News,,,,,,,,Metric Media,,,
 3.82.80.110,nwarkansasnews.com,AR,35.2,-91.83,0,200,58884,https://www.facebook.com/NW-Arkansas-News-114605253522471/,NW Arkansas News,,,,,,,,Metric Media,,,
-3.82.80.110,nwhoustonnews.com,TX,29.76,-95.37,0,200,76757,https://www.facebook.com/NW-Houston-News-108440420703039/,NW Houston News,,,,,,,,Metric Media,,69,68
+3.82.80.110,nwhoustonnews.com,TX,29.76,-95.37,0,200,76757,https://www.facebook.com/NW-Houston-News-108440420703039/,NW Houston News,,,,,,,,Metric Media,,121,120
 34.236.176.60,nwkentuckynews.com,KY,37.84,-84.27,0,200,68468,https://business.facebook.com/NW-Kentucky-News-105957117456175/?business_id=898179107217559,NW Kentucky News,,,,,,,,Metric Media,,,
 34.236.176.60,nwlouisiananews.com,LA,30.98,-91.96,0,200,52690,https://www.facebook.com/NW-Louisiana-News-101348318249823/,Nw Louisiana News,,,,,,,,Metric Media,,,
 3.82.80.110,nwmissnews.com,MS,32.35,-89.4,0,200,48725,,NW Mississippi News,,,,,,,,Metric Media,,,
@@ -330,7 +330,7 @@ awsOrigin,domain,state,lat,lng,locationVerified,httpResponseCode,contentLength,f
 3.82.80.110,tuscaloosaleader.com,AL,33.21,-87.57,0,200,58348,https://www.facebook.com/Tuscaloosa-Leader-105924931060187/,Tuscaloosa Leader,,,,,,,,Metric Media,,0,0
 3.82.80.110,tylerreporter.com,TX,32.35,-95.3,0,200,77185,https://www.facebook.com/Tyler-Reporter-108300880716003/,Tyler Reporter,,,,,,,,Metric Media,,,
 3.82.80.110,uppercumberlandtimes.com,TN,35.9,-85.02,0,200,54532,https://www.facebook.com/Upper-Cumberland-Times-110435563959752/,Upper Cumberland Times,,,,,,,,Metric Media,,0,0
-34.236.176.60,upperdeltanews.com,AR,31.13,-87.85,0,200,59126,https://www.facebook.com/Upper-Delta-News-100150601656881/,Upper Delta News,,,,,,,,Metric Media,,51,51
+34.236.176.60,upperdeltanews.com,AR,31.13,-87.85,0,200,59126,https://www.facebook.com/Upper-Delta-News-100150601656881/,Upper Delta News,,,,,,,,Metric Media,,50,50
 3.82.80.110,uppereasttx.com,TX,31.97,-99.9,0,200,76577,https://www.facebook.com/Upper-East-Texas-News-105826237632989/,Upper East Texas News,,,,,,,,Metric Media,,,
 3.82.80.110,volunteerstatenews.com,TN,35.52,-86.58,0,200,39308,https://www.facebook.com/Volunteer-State-News-102603991419690/,Volunteer State News,,,,,,,,Metric Media,,0,0
 34.236.176.60,wacoreporter.com,TX,31.55,-97.15,0,200,78469,https://www.facebook.com/Waco-Reporter-111813203693728/,Waco Reporter,,,,,,,,Metric Media,,0,0
@@ -457,13 +457,13 @@ awsOrigin,domain,state,lat,lng,locationVerified,httpResponseCode,contentLength,f
 3.82.80.110,swwisconsinnews.com,WI,43.78,-88.79,0,200,-1,https://www.facebook.com/SW-Wisconsin-News-112202160440258/,SW Wisconsin News,,,,,,,,Metric Media,,0,0
 34.236.176.60,theregionnews.com,IN,37.26,-95.31,0,200,-1,,The Region News,,,,,,,,Metric Media,,,
 34.236.176.60,thesconi.com,WI,43.04,-87.92,0,200,-1,https://www.facebook.com/The-Sconi-103902317946785/,The Sconi,,,,,,,,Metric Media,,198,193
-34.236.176.60,thumbreporter.com,MI,43.49,-83.4,0,200,74718,https://business.facebook.com/Thumb-Reporter-108682560526571/?business_id=898179107217559,Thumb Reporter,,,,,,,,Metric Media,,164,164
+34.236.176.60,thumbreporter.com,MI,43.49,-83.4,0,200,74718,https://business.facebook.com/Thumb-Reporter-108682560526571/?business_id=898179107217559,Thumb Reporter,,,,,,,,Metric Media,,160,160
 34.236.176.60,toledoreporter.com,OH,41.65,-83.54,0,200,-1,https://www.facebook.com/Toledo-Reporter-103514874752198/,Toledo Reporter,,,,,,,,Metric Media,,,
 3.82.80.110,tricitysun.com,MI,43.6,-84.18,0,200,78223,https://business.facebook.com/Tri-City-Sun-109273330467110/?business_id=898179107217559,Tri-City Sun,,,,,,,,Metric Media,,,
 34.236.176.60,triconews.com,OH,40.08,-83.55,0,200,-1,https://www.facebook.com/Tri-County-News-103623858061082/,Tri County News,,,,,,,,Metric Media,,0,0
 34.236.176.60,trumballnews.com,OH,41.31,-80.72,0,200,-1,https://www.facebook.com/Trumball-News-106473241103270/?ref=search&amp;__tn__=%2Cd%2CP-R&amp;eid=ARDcurq9bnrehZboIUvb3Dde6c-xI-HOiQkA2Cs6ELTz1KYx4BI_z0KkP_SfJLkFZqrAE0CPT-dL6LTh,Trumball News,,,,,,,,Metric Media,,2,2
 34.236.176.60,tuscarawasnews.com,OH,40.39,-81.41,0,200,63356,https://www.facebook.com/Tuscarawas-News-110543470692816/,Tuscarawas News,,,,,,,,Metric Media,,,
-3.82.80.110,upgazette.com,MI,46.54,-87.4,0,200,77642,https://business.facebook.com/UP-Gazette-117321146322386/?business_id=898179107217559,UP Gazette,,,,,,,,Metric Media,,377,375
+3.82.80.110,upgazette.com,MI,46.54,-87.4,0,200,77642,https://business.facebook.com/UP-Gazette-117321146322386/?business_id=898179107217559,UP Gazette,,,,,,,,Metric Media,,665,662
 34.236.176.60,vacationlandtimes.com,OH,41.42,-82.72,0,200,65300,https://www.facebook.com/Vacationland-Times-109537964127895/,Vacationland Times,,,,,,,,Metric Media,,,
 34.236.176.60,warrenclintonnews.com,OH,40.93,-81.63,0,200,-1,https://www.facebook.com/Warren-Clinton-News-110850490661307/,Warren-Clinton News,,,,,,,,Metric Media,,,
 3.82.80.110,warrensun.com,MI,42.51,-83.01,0,200,74233,https://business.facebook.com/The-Warren-Sun-110015123724499/?business_id=898179107217559,The Warren Sun,,,,,,,,Metric Media,,,
@@ -505,11 +505,11 @@ awsOrigin,domain,state,lat,lng,locationVerified,httpResponseCode,contentLength,f
 34.236.176.60,eastidahotimes.com,ID,44.07,-114.74,0,200,-1,https://www.facebook.com/East-Idaho-Times-106660057696538/,East Idaho Times,,,,,,,,Metric Media,,0,0
 34.236.176.60,eastnewmexiconews.com,NM,34.52,-105.87,0,200,64192,https://www.facebook.com/East-New-Mexico-News-110831350325769/,East New Mexico News,,,,,,,,Metric Media,,,
 3.82.80.110,eastslcnews.com,UT,40.76,-111.89,0,200,48369,https://www.facebook.com/East-SLC-News-100622451620084/,East SLC News,,,,,,,,Metric Media,,1,1
-34.236.176.60,enchantmentstatenews.com,NM,35.35,-106.61,0,200,61915,https://www.facebook.com/Enchantment-State-News-104592640953650/,Enchantment State News,,,,,,,,Metric Media,,48,48
+34.236.176.60,enchantmentstatenews.com,NM,35.35,-106.61,0,200,61915,https://www.facebook.com/Enchantment-State-News-104592640953650/,Enchantment State News,,,,,,,,Metric Media,,53,53
 34.236.176.60,equalitystatenews.com,WY,43.08,-107.29,0,200,-1,https://www.facebook.com/Equality-State-News-106255007707788/,Equality State News,,,,,,,,Metric Media,,56,56
 34.236.176.60,gemstatewire.com,ID,44.07,-114.74,0,200,-1,https://www.facebook.com/Gem-State-Wire-110910743933124/,Gem State Wire,,,,,,,,Metric Media,,1,1
 34.236.176.60,glaciercountrynews.com,MT,46.92,-114.06,0,200,-1,https://www.facebook.com/Glacier-County-News-111596100255900/,Glacier Country News,,,,,,,,Metric Media,,,
-34.236.176.60,grandcanyontimes.com,AZ,36.05,-112.14,0,200,70306,https://www.facebook.com/Grand-Canyon-Times-103936177693945/,Grand Canyon Times,,,,,,,,Metric Media,,338,324
+34.236.176.60,grandcanyontimes.com,AZ,36.05,-112.14,0,200,70306,https://www.facebook.com/Grand-Canyon-Times-103936177693945/,Grand Canyon Times,,,,,,,,Metric Media,,474,419
 3.82.80.110,grandjunctiontimes.com,CO,39.06,-108.55,0,200,62573,https://www.facebook.com/Grand-Junction-Times-108722274133013/,Grand Junction Times,,,,,,,,Metric Media,,42,42
 3.82.80.110,larimernews.com,CO,40.7,-105.59,0,200,57585,https://www.facebook.com/Larimer-News-106630051011229/,Larimer News,,,,,,,,Metric Media,,0,0
 34.236.176.60,lasvegasrecord.com,NV,36.17,-115.14,0,200,-1,https://www.facebook.com/Las-Vegas-City-Wire-105039077938939/,Las Vegas Record,,,,,,,,Metric Media,,9,9
@@ -540,7 +540,7 @@ awsOrigin,domain,state,lat,lng,locationVerified,httpResponseCode,contentLength,f
 3.82.80.110,searizonanews.com,AZ,34.05,-111.09,0,200,-1,https://www.facebook.com/SE-Arizona-News-105278744161657/,SE Arizona News,,,,,,,,Metric Media,,,
 34.236.176.60,secoloradonews.com,CO,39.55,-105.78,0,200,54407,https://www.facebook.com/SE-Colorado-News-111874757146901/,Se Colorado News,,,,,,,,Metric Media,,,
 34.236.176.60,sedenvernews.com,CO,39.74,-104.99,0,200,56418,https://www.facebook.com/SE-Denver-News-106853260988359/,Se Denver News,,,,,,,,Metric Media,,0,0
-3.82.80.110,semontananews.com,MT,45.77,-108.5,0,200,-1,https://www.facebook.com/Southeast-Montana-News-108673553883558/,Southeast Montana News,,,,,,,,Metric Media,,64,62
+3.82.80.110,semontananews.com,MT,45.77,-108.5,0,200,-1,https://www.facebook.com/Southeast-Montana-News-108673553883558/,Southeast Montana News,,,,,,,,Metric Media,,63,61
 34.236.176.60,sevalleytimes.com,AZ,32.39,-110.97,0,200,-1,https://www.facebook.com/SE-Valley-Times-116771266400427/,SE Valley Times,,,,,,,,Metric Media,,,
 3.82.80.110,sevegasnews.com,NV,36.17,-115.14,0,200,-1,https://www.facebook.com/SE-Vegas-News-105166607925485/,SE Vegas News,,,,,,,,Metric Media,,,
 34.236.176.60,sewyomingnews.com,WY,43.08,-107.29,0,200,-1,https://www.facebook.com/SE-Wyoming-News-103146231356895/,SE Wyoming News,,,,,,,,Metric Media,,0,0
@@ -690,7 +690,7 @@ awsOrigin,domain,state,lat,lng,locationVerified,httpResponseCode,contentLength,f
 3.82.80.110,westtwincities.com,MN,44.92,-93.48,1,200,70208,https://business.facebook.com/West-Twin-Cities-101347867958302/?business_id=898179107217559,West Twin Cities,,,,,,,,Metric Media,,,
 34.236.176.60,wichitastandard.com,KS,37.69,-97.33,0,200,55529,https://www.facebook.com/Wichita-Standard-107240807652521/,Wichita Standard,,,,,,,,Metric Media,,,
 3.82.80.110,wyandottetimes.com,KS,39.1,-94.77,0,200,-1,https://www.facebook.com/Wyandotte-Times-114729330229151/,Wyandotte Times,,,,,,,,Metric Media,,,
-34.234.42.207,akbusinessdaily.com,,61.2,-149.89,0,200,52646,https://facebook.com/Alaska-Business-Daily-2099861930286698,Alaska Business Daily,,,,,,,,Metric Media,,553,552
+34.234.42.207,akbusinessdaily.com,,61.2,-149.89,0,200,52646,https://facebook.com/Alaska-Business-Daily-2099861930286698,Alaska Business Daily,,,,,,,,Metric Media,,552,551
 34.234.42.207,albusinessdaily.com,,33.47,-86.79,0,200,78209,https://facebook.com/Alabama-Business-Daily-499614453836277/,Alabama Business Daily,,,,,,,,Metric Media,,218,218
 34.234.42.207,arbusinessdaily.com,,34.75,-92.27,0,200,80175,https://facebook.com/Arkansas-Business-Daily-2181112815251856,Arkansas Business Daily,,,,,,,,Metric Media,,,
 34.234.42.207,azbusinessdaily.com,,33.41,-111.98,0,200,79829,https://www.facebook.com/AZBusinessDaily/,Arizona Business Daily,AZBizDaily,,,,217,130,7391,Metric Media,,,
@@ -706,7 +706,7 @@ awsOrigin,domain,state,lat,lng,locationVerified,httpResponseCode,contentLength,f
 34.234.42.207,idbusinessdaily.com,,43.61,-116.21,0,200,73080,https://facebook.com/Idaho-Business-Daily-1902761486691748,Idaho Business Daily,,,,,,,,Metric Media,,,
 34.234.42.207,ilbusinessdaily.com,,40.1,-88.23,0,200,79192,https://facebook.com/ilbusinessdaily/,Illinois Business Daily,ILBizdaily,,,,115,106,1724,Metric Media,,,
 34.234.42.207,indianabusinessdaily.com,,39.92,-86.22,0,200,70977,https://facebook.com/Indiana-Business-Daily-210341736470656/,Indiana Business Daily,,,,,,,,Metric Media,,103,102
-34.234.42.207,keystonebusinessnews.com,,41.84,-87.96,0,200,76817,https://twitter.com/Keystone_Biz,Keystone Business News,Keystone_Biz,,,,7,38,741,Metric Media,,,
+34.234.42.207,keystonebusinessnews.com,,41.84,-87.96,0,200,76817,https://twitter.com/Keystone_Biz,Keystone Business News,Keystone_Biz,,,,7,38,741,Metric Media,,eduction_copy_enabled":{"value":true},
 34.234.42.207,ksbusinessdaily.com,,37.69,-97.24,0,200,77491,https://facebook.com/Kansas-Business-Daily-2306278402715960/,Kansas Business Daily,,,,,,,,Metric Media,,157,156
 34.234.42.207,kybusinessdaily.com,,38.03,-84.52,0,200,70671,https://facebook.com/Kentucky-Business-Daily-476329426162681,Kentucky Business Daily,,,,,,,,Metric Media,,,
 34.234.42.207,labusinessdaily.com,,30.36,-91.14,0,200,79210,https://www.facebook.com/Louisiana-Business-Daily-909341742586701/,Louisiana Business Daily,,,,,,,,Metric Media,,,
@@ -719,12 +719,12 @@ awsOrigin,domain,state,lat,lng,locationVerified,httpResponseCode,contentLength,f
 34.234.42.207,msbusinessdaily.com,,32.33,-90.13,0,200,79295,https://www.facebook.com/Mississippi-Business-Daily-2235851169967760/,Mississippi Business Daily,,,,,,,,Metric Media,,,
 34.234.42.207,mtbusinessdaily.com,,46.58,-112.04,0,200,73274,https://facebook.com/Montana-Business-Daily-411201416046507/,Montana Business Daily,,,,,,,,Metric Media,,4,4
 34.234.42.207,ncbusinessdaily.com,,35.28,-80.89,0,200,79177,https://www.facebook.com/North-Carolina-Business-Daily-1948531921832956/,North Carolina Business Daily,,,,,,,,Metric Media,,292,285
-34.234.42.207,ndbusinessdaily.com,,44.1,-103.27,0,200,72079,https://www.facebook.com/North-Dakota-Business-Daily-170798873534943,North Dakota Business Daily,,,,,,,,Metric Media,,0,0
+34.234.42.207,ndbusinessdaily.com,,44.1,-103.27,0,200,72079,https://www.facebook.com/North-Dakota-Business-Daily-170798873534943,North Dakota Business Daily,,,,,,,,Metric Media,,1,1
 34.234.42.207,nebraskabusinessdaily.com,,40.82,-96.7,0,200,75486,https://www.facebook.com/Nebraska-Business-Daily-2021552487876945/,Nebraska Business Daily,,,,,,,,Metric Media,,169,166
 34.234.42.207,nhbusinessdaily.com,,42.99,-71.47,0,200,71807,https://facebook.com/New-Hampshire-Business-Daily-221139551844299,New Hampshire Business Daily,,,,,,,,Metric Media,,,
 34.234.42.207,njbusinessdaily.com,,40.88,-74.27,0,200,80044,https://www.facebook.com/New-Jersey-Business-Daily-230447581074974,New Jersey Business Daily,,,,,,,,Metric Media,,187,186
 34.234.42.207,nmbusinessdaily.com,,35.18,-106.59,0,200,74744,https://facebook.com/New-Mexico-Business-Daily-2099932086932806,New Mexico Business Daily,,,,,,,,Metric Media,,,
-34.234.42.207,nvbusinessdaily.com,,36.06,-115.05,0,200,76908,https://facebook.com/Nevada-Business-Daily-523754801394758/,Nevada Business Daily,,,,,,,,Metric Media,,2,1
+34.234.42.207,nvbusinessdaily.com,,36.06,-115.05,0,200,76908,https://facebook.com/Nevada-Business-Daily-523754801394758/,Nevada Business Daily,,,,,,,,Metric Media,,3,2
 34.234.42.207,nybusinessdaily.com,,40.75,-73.98,0,200,80305,https://www.facebook.com/New-York-Business-Daily-783820915340052,New York Business Daily,,,,,,,,Metric Media,,136,133
 34.234.42.207,ohbusinessdaily.com,,41.42,-82.07,0,200,79685,https://www.facebook.com/Ohio-Business-Daily-220891118469791/,Ohio Business Daily,OHBusinessDaily,,,,8,0,768,Metric Media,,25,25
 34.234.42.207,okbusinessdaily.com,,35.5,-97.54,0,200,75690,https://facebook.com/Oklahoma-Business-Daily-2038113229785394,Oklahoma Business Daily,,,,,,,,Metric Media,,135,128
@@ -739,7 +739,7 @@ awsOrigin,domain,state,lat,lng,locationVerified,httpResponseCode,contentLength,f
 34.234.42.207,vtbusinessdaily.com,,44.46,-73.18,0,200,72325,https://www.facebook.com/Vermont-Business-Daily-270091773743752,Vermont Business Daily,,,,,,,,Metric Media,,,
 34.234.42.207,wabusinessdaily.com,,38.89,-77.07,0,200,80702,https://www.facebook.com/Washington-Business-Daily-184016308945096,Washington Business Daily,,,,,,,,Metric Media,,111,111
 34.234.42.207,wibusinessdaily.com,,43.07,-89.4,0,200,79766,https://www.facebook.com/Wisconsin-Business-Daily-2182735538629508,Wisconsin Business Daily,,,,,,,,Metric Media,,83,78
-34.234.42.207,wvbusinessdaily.com,,37.54,-77.43,0,200,2265,https://www.facebook.com/West-Virginia-Business-Daily-271442843606789,West Virginia Business Daily,,,,,,,,Metric Media,,155,155
+34.234.42.207,wvbusinessdaily.com,,37.54,-77.43,0,200,2265,https://www.facebook.com/West-Virginia-Business-Daily-271442843606789,West Virginia Business Daily,,,,,,,,Metric Media,,166,166
 34.234.42.207,wybusinessdaily.com,,41.13,-104.82,0,200,73698,https://www.facebook.com/Wyoming-Business-Daily-2131087563834632/,Wyoming Business Daily,,,,,,,,Metric Media,,,
 54.234.106.117,annearundeltoday.com,MD,38.95,-76.55,0,200,71422,,Anne Arundel Today,,,,,,,,Metric Media,,,
 54.234.106.117,baltimorecitywire.com,MD,39.29,-76.61,0,200,69418,https://www.facebook.com/,Baltimore City Wire,,,,,,,,Metric Media,,,
@@ -757,7 +757,7 @@ awsOrigin,domain,state,lat,lng,locationVerified,httpResponseCode,contentLength,f
 54.234.106.117,kanecountyreporter.com,IL,41.99,-88.4,0,200,86039,https://www.facebook.com/Kane-County-Reporter-113001215788482/,Kane County Reporter,kane_reporter,,2016-05-31T21:18:18.000Z,7.38E+17,127,0,6254,Metric Media,,,
 54.234.106.117,kankakeetimes.com,IL,41.12,-87.86,0,200,84214,https://www.facebook.com/kankakeetimes,Kankakee Times,Kankakee_Times,,2015-11-18T13:34:04.000Z,4218254801,,,,Metric Media,,,
 54.234.106.117,kendallcountytimes.com,IL,41.55,-88.44,0,200,84939,https://www.facebook.com/Kendall-County-Times-151364972111507,Kendall County Times,,,,,,,,Metric Media,,139,125
-54.234.106.117,lakecountygazette.com,IL,42.37,-87.83,0,200,84217,https://www.facebook.com/Lake-County-Gazette-854479238006224,Lake County Gazette,lakecntygazette,,2015-11-17T00:59:16.000Z,4206041674,453,0,4196,Metric Media,,1271,1192
+54.234.106.117,lakecountygazette.com,IL,42.37,-87.83,0,200,84217,https://www.facebook.com/Lake-County-Gazette-854479238006224,Lake County Gazette,lakecntygazette,,2015-11-17T00:59:16.000Z,4206041674,453,0,4196,Metric Media,,1417,1323
 54.234.106.117,maconreporter.com,IL,39.71,-89,0,200,84973,https://www.facebook.com/Macon-Reporter-915144198623038/,Macon Reporter,MaconReporter,,2017-01-20T20:06:47.000Z,8.23E+17,,,,Metric Media,,145,130
 54.234.106.117,mchenrytimes.com,IL,42.33,-88.27,0,200,84946,https://www.facebook.com/McHenry-Times-1007855922605367,McHenry Times,McHenryTimes1,,2015-11-16T22:17:06.000Z,4205082557,,,,Metric Media,,,
 54.234.106.117,mcleancountytimes.com,IL,40.55,-88.86,0,200,84068,https://www.facebook.com/McLean-County-Times-135405700298293,McLean County Times,McLean_Times,,2017-01-20T20:12:51.000Z,8.23E+17,,,,Metric Media,,161,143
@@ -765,10 +765,10 @@ awsOrigin,domain,state,lat,lng,locationVerified,httpResponseCode,contentLength,f
 54.234.106.117,metroeastsun.com,IL,38.7,-90.17,0,200,83576,https://www.facebook.com/metroeastsun,Metro East Sun,metroeastsun,,2015-11-18T13:43:00.000Z,4218256407,,,,Metric Media,,,
 54.234.106.117,montgomerymdnews.com,MD,39.15,-77.24,0,200,70777,https://www.facebook.com/,Montgomery News,,,,,,,,Metric Media,,,
 54.234.106.117,northbaltimorejournal.com,MD,39.29,-76.61,0,200,69570,https://www.facebook.com/,North Baltimore Journal,,,,,,,,Metric Media,,,
-54.234.106.117,northcooknews.com,IL,41.74,-87.7,0,200,84368,https://www.facebook.com/North-Cook-News-1509066772752076,North Cook News,northcooknews,,2015-11-16T22:51:29.000Z,4205338234,,,,Metric Media,,748,597
+54.234.106.117,northcooknews.com,IL,41.74,-87.7,0,200,84368,https://www.facebook.com/North-Cook-News-1509066772752076,North Cook News,northcooknews,,2015-11-16T22:51:29.000Z,4205338234,,,,Metric Media,,773,596
 54.234.106.117,northegyptnews.com,IL,37.63,-88.96,0,200,83941,https://www.facebook.com/North-Egypt-News-2042181879445200/,North Egypt News,,,,,,,,Metric Media,,,
 54.234.106.117,nwillinoisnews.com,IL,40.63,-89.4,0,200,84636,https://www.facebook.com/NW-Illinois-News-386241278410290,NW Illinois News,NW_IllinoisNews,,2017-01-20T20:16:49.000Z,8.23E+17,,,,Metric Media,,,
-54.234.106.117,peoriastandard.com,IL,40.69,-89.59,0,200,83563,https://www.facebook.com/Peoria-Standard-469649066574953/,Peoria Standard,peoria_standard,,2016-05-31T20:40:50.000Z,7.38E+17,,,,Metric Media,,105,89
+54.234.106.117,peoriastandard.com,IL,40.69,-89.59,0,200,83563,https://www.facebook.com/Peoria-Standard-469649066574953/,Peoria Standard,peoria_standard,,2016-05-31T20:40:50.000Z,7.38E+17,,,,Metric Media,,179,161
 54.234.106.117,prairiestatewire.com,IL,41.53,-87.64,0,200,84615,https://www.facebook.com/Prairie-State-Wire-1121259961337606,Prairie State Wire,Prairie_Wire,,2017-08-15T20:06:00.000Z,8.98E+17,,,,Metric Media,,,
 54.234.106.117,quincyreporter.com,IL,39.94,-91.41,0,200,82886,https://www.facebook.com/Quincy-Reporter-474680926275770/,Quincy Reporter,,,,,,,,Metric Media,,,
 54.234.106.117,rockfordsun.com,IL,42.27,-89.09,0,200,84149,https://www.facebook.com/Rockford-Sun-232943860486838,Rockford Sun,Rockford_Sun,,2017-01-20T20:20:08.000Z,8.23E+17,19,0,911,Metric Media,,200,184
@@ -852,7 +852,7 @@ awsOrigin,domain,state,lat,lng,locationVerified,httpResponseCode,contentLength,f
 54.152.78.38,tobacconewswire.com,,,,0,200,41905,https://www.facebook.com/Tobacco-News-Wire-322986811692310,,,,,,,,,Locality Labs,,107,106
 54.152.78.38,electcolonelcraigwilcox.com,,,,0,301,0,,,,,,,,,,,,,
 34.98.99.30,toniaforillinois.com,,,,0,404,571,,,,,,,,,,,,,
-54.152.78.38,votejillian.com,,,,0,404,555,,,,,,,,,,,,,
+54.152.78.38,votejillian.com,,,,0,404,555,https://www.facebook.com/JillianRoseBernas,,,,,,,,,,,,
 54.152.78.38,westlooptoday.com,,,,0,200,38716,,,,,,,,,,Metric Media,,,
 34.194.209.70,ashlandreview.com,,,,0,200,24920,https://www.facebook.com/Ashland-Review-459979407679889/,,AshlandReview,,,,0,0,0,Locality Labs,,,
 109.234.164.234,baragaguide.com,,,,0,200,29224,https://www.facebook.com/Baraga-Guide-1985284001699439/,,BaragaGuide,,,,0,0,0,Locality Labs,,,
@@ -884,7 +884,7 @@ awsOrigin,domain,state,lat,lng,locationVerified,httpResponseCode,contentLength,f
 34.200.186.167,floydvalleyguide.com,,,,0,200,29070,https://www.facebook.com/Floyd-Valley-Guide-1262643997188971/,,,,,,,,,Locality Labs,,,
 137.175.67.218,galvaguide.com,,,,0,200,23951,https://www.facebook.com/Galva-Guide-1333622713391965/,,,,,,,,,Locality Labs,,,
 34.194.209.70,glenelderguide.com,,,,0,200,32954,https://www.facebook.com/Glen-Elder-Guide-1490678470962951,,glenelderguide,,,,1,0,512,Locality Labs,,,
-13.56.33.8,grayguide.com,,,,0,200,37293,https://www.facebook.com/brandbucket,,,,,,,,,Locality Labs,,9665,9416
+13.56.33.8,grayguide.com,,,,0,200,37293,https://www.facebook.com/brandbucket,,,,,,,,,Locality Labs,,9690,9418
 34.194.209.70,greenecountyguide.com,,,,0,200,32250,https://www.facebook.com/Greene-County-Guide-512323145825367/,,,,,,,,,Locality Labs,,,
 156.245.135.172,grundyguide.com,,,,0,200,32618,https://www.facebook.com/Grundy-Guide-1836715389980640/,,,,,,,,,Locality Labs,,,
 34.194.209.70,guthriecountyguide.com,,,,0,200,32222,https://www.facebook.com/Guthrie-County-Guide-1811578862492480/,,,,,,,,,Locality Labs,,,
@@ -921,7 +921,7 @@ awsOrigin,domain,state,lat,lng,locationVerified,httpResponseCode,contentLength,f
 34.98.99.30,orwellguide.com,,,,0,404,2294,,,,,,,,,,,,,
 34.194.209.70,ottumwaguide.com,,,,0,200,37011,https://www.facebook.com/Ottumwa-Guide-293782697718707,,ottumwaguide,,,,4,0,454,Locality Labs,,,
 216.224.115.78,oxfordmetoday.com,,,,0,302,0,https://www.facebook.com/Oxford-Today-1715540181794123/,,,,,,,,,Locality Labs,,,
-34.194.209.70,palmertonguide.com,,,,0,200,27775,https://www.facebook.com/Palmerton-Guide-1934424456786479/,,,,,,,,,Locality Labs,,,
+34.194.209.70,palmertonguide.com,,,,0,200,27775,https://www.facebook.com/Palmertonguide/,,,,,,,,,Locality Labs,,,
 34.194.209.70,peculiarguide.com,,,,0,404,2294,,,,,,,,,,,,,
 172.67.214.140,pokalambroguide.com,,,,0,200,32363,https://www.facebook.com/Poka-Lambro-Guide-183705765470421,,pokalambroguide,,,,0,0,574,Locality Labs,,,
 34.194.209.70,poweshiekguide.com,,,,0,200,37142,https://www.facebook.com/Poweshiek-County-Guide-1700202443613980/,,PoweshiekGuide,,,,3,0,571,Locality Labs,,,
@@ -1029,7 +1029,7 @@ awsOrigin,domain,state,lat,lng,locationVerified,httpResponseCode,contentLength,f
 3.82.80.110,sfvtoday.com,CA,34.18,-118.44,0,200,76498,https://www.facebook.com/SFV-Today-102947351378408/,SFV Today,,,,,,,,Metric Media,,0,0
 34.236.176.60,sgvstandard.com,CA,34.03,-118.04,0,200,-1,https://www.facebook.com/SGV-Standard-110268563969457/,SGV Standard,,,,,,,,Metric Media,,0,0
 3.82.80.110,sloreporter.com,CA,35.28,-120.66,0,200,74138,https://www.facebook.com/SLO-Reporter-102845614721883/,SLO Reporter,,,,,,,,Metric Media,,,
-34.236.176.60,solanosun.com,CA,38.31,-121.9,0,200,69945,https://www.facebook.com/Solano-Sun-109468370717543/,Solano Sun,,,,,,,,Metric Media,,,
+34.236.176.60,solanosun.com,CA,38.31,-121.9,0,200,69945,https://www.facebook.com/Solano-Sun-109468370717543/,Solano Sun,,,,,,,,Metric Media,,0,0
 34.236.176.60,southalamedanews.com,CA,37.78,-122.28,0,200,77416,https://www.facebook.com/South-Alameda-News-111796683798223/,South Alameda News,,,,,,,,Metric Media,,,
 3.82.80.110,southbayleader.com,CA,35.35,-120.84,0,200,-1,https://www.facebook.com/South-Bay-Leader-103785184626546/,South Bay Leader,,,,,,,,Metric Media,,,
 34.236.176.60,southbaysdnews.com,CA,32.67,-117.14,0,200,-1,https://www.facebook.com/South-Bay-SD-News-106344557387219/,South Bay SD News,,,,,,,,Metric Media,,0,0
@@ -1078,12 +1078,12 @@ awsOrigin,domain,state,lat,lng,locationVerified,httpResponseCode,contentLength,f
 34.234.42.207,mexicobusinessdaily.com,,,,0,200,45469,,,,,,,,,,Locality Labs,,,
 34.234.42.207,guatemalabusinessdaily.com,,,,0,200,35569,,,,,,,,,,Locality Labs,,,
 100.26.62.126,angolabusinessdaily.com,,,,0,200,26819,https://www.facebook.com/,,,,,,,,,Locality Labs,,,
-100.26.62.126,torontobusinessdaily.com,,,,0,200,34541,https://www.facebook.com/Toronto-Business-Daily-210115379482921/,,,,,,,,,Locality Labs,,,
+100.26.62.126,torontobusinessdaily.com,,,,0,200,34541,https://www.facebook.com/Toronto-Business-Daily-210115379482921/,,,,,,,,,Locality Labs,,22,19
 100.26.62.126,manilabusinessdaily.com,,,,0,200,30466,https://www.facebook.com/,,,,,,,,,Locality Labs,,,
 54.152.78.38,urbanreform.org,,,,0,200,52032,https://www.facebook.com/urbanreformorg,,,,,,,,,Metric Media,,5575,5059
 72.167.242.48,advantageinformatics.com,,,,0,200,10806,,,,,,,,,,Locality Labs,,,
 54.152.78.38,contentservices.co,,,,0,200,11406,,,,,,,,,,Locality Labs,,,
-54.152.78.38,votejillian.com,,,,0,404,555,,,,,,,,,,,,,
+54.152.78.38,votejillian.com,,,,0,404,555,https://www.facebook.com/JillianRoseBernas,,,,,,,,,,,,
 54.152.78.38,bnnwire.com,,,,0,,,,,,,,,,,,,,,
 54.152.78.38,kennyforillinois.com,,,,0,,,,,,,,,,,,,,,
 54.152.78.38,brianforillinois.com,,,,0,,,,,,,,,,,,,,,
@@ -1131,7 +1131,7 @@ awsOrigin,domain,state,lat,lng,locationVerified,httpResponseCode,contentLength,f
 34.236.176.60,mainelakesnews.com,ME,44.55,-68.99,0,200,,,Maine Lakes News,,,,,,,,Metric Media,,,
 3.82.80.110,matsutimes.com,AK,61.6,-149.12,0,200,,https://www.facebook.com/Mat-Su-Times-102679901386253/,Mat-Su Times,,,,,,,,Metric Media,,0,0
 34.236.176.60,merrimackvalleynews.com,MA,42.65,-71.31,0,200,,https://www.facebook.com/Merrimack-Valley-News-106509597767169/,Merrimack Valley News,,,,,,,,Metric Media,,,
-3.82.80.110,metrowesttimes.com,MA,42.29,-71.42,0,200,,https://www.facebook.com/Metro-West-Times-103760238045040/,Metro West Times,,,,,,,,Metric Media,,,
+3.82.80.110,metrowesttimes.com,MA,42.29,-71.42,0,200,,https://www.facebook.com/Metro-West-Times-103760238045040/,Metro West Times,,,,,,,,Metric Media,,1,1
 34.236.176.60,midcoasttoday.com,ME,43.91,-69.97,0,200,,,Mid Coast Today,,,,,,,,Metric Media,,,
 3.82.80.110,midmassnews.com,MA,42.27,-71.8,0,200,,https://www.facebook.com/Mid-Massachusetts-News-103166981438072/,Mid Massachusetts News,,,,,,,,Metric Media,,163,163
 3.82.80.110,naugatucktimes.com,CT,41.49,-73.05,0,200,,https://www.facebook.com/Naugatuck-Times-105754944433202/,Naugatuck Times,,,,,,,,Metric Media,,0,0
@@ -1155,7 +1155,7 @@ awsOrigin,domain,state,lat,lng,locationVerified,httpResponseCode,contentLength,f
 3.82.80.110,southmainenews.com,ME,45.25,-69.45,0,200,,https://www.facebook.com/South-Maine-News-100514629172001/,South Maine News,,,,,,,,Metric Media,,0,0
 ,southsacramentotoday.com,,,,0,,,,,,,,,,,,Metric Media,,,
 34.236.176.60,springfieldrecord.com,MA,42.1,-72.59,0,200,,https://www.facebook.com/Springfield-City-Wire-101512841623728/,Springfield Record,,,,,,,,Metric Media,,0,0
-34.236.176.60,stanislausnews.com,CA,37.51,-120.99,0,200,,https://www.facebook.com/Stanislaus-News-113455976981311/,Stanislaus News,,,,,,,,Metric Media,,99,98
+34.236.176.60,stanislausnews.com,CA,37.51,-120.99,0,200,,https://www.facebook.com/Stanislaus-News-113455976981311/,Stanislaus News,,,,,,,,Metric Media,,131,116
 34.236.176.60,swconnnews.com,CT,41.6,-73.09,0,200,,https://www.facebook.com/SW-Connecticut-News-108231237516265/,SW Connecticut News,,,,,,,,Metric Media,,0,0
 ,vincennestoday.com,,,,0,,,,,,,,,,,,Metric Media,,,
 3.82.80.110,westmassnews.com,MA,42.41,-71.38,0,200,,https://www.facebook.com/West-Massachusetts-News-107621661008364/,West Massachusetts News,,,,,,,,Metric Media,,0,0
