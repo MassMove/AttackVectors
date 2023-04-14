@@ -18,7 +18,7 @@ namespace FacebookUrlExtractor
                 parser.SetDelimiters(",");
                 parser.ReadFields(); // skip header
 
-                String header = "awsOrigin,domain,state,lat,lng,locationVerified,httpResponseCode,contentLength,facebookUrl,siteName,twitterUsername,itunesAppStoreUrl,twitterAccountCreatedAt,twitterUserId,twitterFollowers,twitterFollowing,twitterTweets,siteOperator,twitterSuspended";
+                String header = "awsOrigin,domain,state,lat,lng,locationVerified,httpResponseCode,contentLength,facebookUrl,siteName,twitterUsername,itunesAppStoreUrl,twitterAccountCreatedAt,twitterUserId,twitterFollowers,twitterFollowing,twitterTweets,siteOperator,twitterSuspended,facebookFollowers,facebookLikes";
                 String lines = header;
                 while (!parser.EndOfData)
                 {
@@ -44,45 +44,49 @@ namespace FacebookUrlExtractor
                     String twitterTweets = fields[16];
                     String siteOperator = fields[17];
                     String twitterSuspended = fields[18];
+                    String facebookFollowers = fields[19];
+                    String facebookLikes = fields[20];
 
                     // get the facebook URL
-                    if (facebookUrl == "")
+                    try
                     {
-                        try
+                        Console.Write(domain + ": ");
+
+                        var domainSource = getWebResponse("https://" + domain);
+
+                        int facebookUrlStart = domainSource.IndexOf("href=\"https://www.facebook.com/");
+                        if (facebookUrlStart > 0)
                         {
-                            HttpWebRequest request = (HttpWebRequest)WebRequest.Create("https://" + domain);
-                            request.Method = "GET";
-
-                            //Fake firefox-like header. Valid HTTP request headers, particularly the user-agent are used to determine if
-                            //web request are valid. We can emulate different browsers using different headersl
-                            request.Headers["User-Agent"] = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36";
-
-                            using (var response = request.GetResponse())
-                            using (var stream = response.GetResponseStream())
-                            using (var reader = new StreamReader(stream))
-                            {
-                                String domainSource = reader.ReadToEnd();
-
-                                int facebookUrlStart = domainSource.IndexOf("href=\"https://www.facebook.com/");
-                                if (facebookUrlStart > 0)
-                                {
-                                    facebookUrlStart += "href=\"".Length;
-                                    int facebookUrlEnd = domainSource.IndexOf("\"", facebookUrlStart);
-                                    facebookUrl = domainSource.Substring(facebookUrlStart, facebookUrlEnd - facebookUrlStart);
-
-                                    Console.WriteLine(domain + ": " + facebookUrl);
-                                    File.AppendAllText("facebookUrls.txt", domain + ": " + facebookUrl + "\r\n");
-                                } 
-                                else
-                                {
-                                    Console.Write(".");
-                                }
-                            }
+                            facebookUrlStart += "href=\"".Length;
+                            int facebookUrlEnd = domainSource.IndexOf("\"", facebookUrlStart);
+                            facebookUrl = domainSource.Substring(facebookUrlStart, facebookUrlEnd - facebookUrlStart);
                         }
-                        catch (Exception ex)
-                        {
+
+                        Console.Write(facebookUrl);
+                        if (facebookUrl != "") { 
+                            var facebookSource = getWebResponse(facebookUrl);
+
+                            if (facebookSource.IndexOf("follower_count") > 0) { 
+                                int facebookFollowersStart = facebookSource.IndexOf("follower_count") + "follower_count".Length + 2;
+                                int facebookFollowersEnd = facebookSource.IndexOf(",", facebookFollowersStart);
+                                facebookFollowers = facebookSource.Substring(facebookFollowersStart, facebookFollowersEnd - facebookFollowersStart);
+                            }
+
+                            if (facebookSource.IndexOf("global_likers_count") > 0)
+                            {
+                                int facebookLikesStart = facebookSource.IndexOf("global_likers_count") + "global_likers_count".Length + 2;
+                                int facebookLikesEnd = facebookSource.IndexOf(",", facebookLikesStart);
+                                facebookLikes = facebookSource.Substring(facebookLikesStart, facebookLikesEnd - facebookLikesStart - 1);
+                            }
+
+                            Console.Write(" - " + facebookFollowers + ", " + facebookLikes);
                         }
                     }
+                    catch (Exception ex)
+                    {
+                        Console.Write(ex.Message);
+                    }
+                    Console.WriteLine("");
 
                     // write a new line for the updated sites.csv
                     String line = awsOrigin + ",";
@@ -103,11 +107,38 @@ namespace FacebookUrlExtractor
                     line += twitterFollowing + ",";
                     line += twitterTweets + ",";
                     line += siteOperator + ",";
-                    line += twitterSuspended;
+                    line += twitterSuspended + ",";
+                    line += facebookFollowers + ",";
+                    line += facebookLikes;
 
                     lines += "\r\n" + line;
                 }
                 File.WriteAllText("../../../../../sites.csv", lines);
+            }
+        }
+
+        static string getWebResponse(string url)
+        {
+            HttpWebRequest request = (HttpWebRequest)WebRequest.Create(url);
+            request.Headers.Add("user-agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36");
+
+            request.Headers.Add("accept", "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9");
+            request.Headers.Add("accept-language", "en-US,en;q=0.9");
+            request.Headers.Add("upgrade-insecure-requests", "1");
+            request.Headers.Add("sec-fetch-user", "?1");
+            request.Headers.Add("sec-fetch-site", "none");
+            request.Headers.Add("sec-fetch-mode", "navigate");
+            request.Headers.Add("sec-fetch-dest", "document");
+            request.Headers.Add("sec-ch-ua-platform", "\"Windows\"");
+            request.Headers.Add("sec-ch-ua-mobile", "?0");
+            request.Headers.Add("sec-ch-ua", "\"Google Chrome\";v=\"105\", \"Not)A; Brand\";v=\"8\", \"Chromium\";v=\"105\"");
+
+            using (HttpWebResponse response = (HttpWebResponse)request.GetResponse())
+            {
+                using (var reader = new StreamReader(response.GetResponseStream()))
+                {
+                    return reader.ReadToEnd();
+                }
             }
         }
     }

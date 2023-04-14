@@ -43,6 +43,9 @@ namespace HttpResponseMonitor
                     String twitterFollowing = "";
                     String twitterTweets = "";
                     String siteOperator = "";
+                    String twitterSuspended = "";
+                    String facebookFollowers =  "";
+                    String facebookLikes = "";
 
                     try
                     {
@@ -51,6 +54,9 @@ namespace HttpResponseMonitor
                         twitterFollowing = fields[15];
                         twitterTweets = fields[16];
                         siteOperator = fields[17];
+                        twitterSuspended = fields[18];
+                        facebookFollowers = fields[19];
+                        facebookLikes = fields[20];
                     }
                     catch (Exception ex)
                     {
@@ -61,6 +67,7 @@ namespace HttpResponseMonitor
                     {
                         try
                         {
+                            Console.Write(domain + ": ");
                             HttpWebRequest request = (HttpWebRequest)WebRequest.Create("https://" + domain);
                             request.Method = "GET";
 
@@ -81,7 +88,7 @@ namespace HttpResponseMonitor
                                     int twitterUsernameEnd = domainSource.IndexOf("\"", twitterUsernameStart);
                                     twitterUsername = domainSource.Substring(twitterUsernameStart, twitterUsernameEnd - twitterUsernameStart).Replace("https://twitter.com/", "");
 
-                                    Console.WriteLine(domain + ": " + twitterUsername);
+                                    Console.Write(twitterUsername);
                                     File.AppendAllText("twitterUsernames.txt", domain + ": " + twitterUsername + "\r\n");
                                 } 
                                 else
@@ -98,6 +105,7 @@ namespace HttpResponseMonitor
                         catch (Exception ex)
                         {
                         }
+                        Console.WriteLine("");
                     }
 
                     // write a new line for the updated sites.csv
@@ -118,7 +126,10 @@ namespace HttpResponseMonitor
                     line += twitterFollowers + ",";
                     line += twitterFollowing + ",";
                     line += twitterTweets + ",";
-                    line += siteOperator;
+                    line += siteOperator + ",";
+                    line += twitterSuspended + ",";
+                    line += facebookFollowers + ",";
+                    line += facebookLikes;
 
                     lines += "\r\n" + line;
                 }
