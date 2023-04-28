@@ -86,6 +86,31 @@ https://www.fec.gov/files/legal/murs/7148/19044475209.pdf
 
 [Legal Findings](https://github.com/MassMove/AttackVectors/blob/master/LocalJournals/LegalFindings.md)
 
+https://www.democracydocket.com/wp-content/uploads/2022/07/D.-N.-M.-22-cv-00222-dckt-000013_000-filed-2022-04-14.pdf
+
+> Voter Reference Foundation, LLC (“VRF”) (https://www.voterreferencefoundation.com/) seeks to upload on its website the name, residential address, party affiliation, voting history, and year of birth of each and every registered New Mexico voter. Doing so would constitute a violation of NMSA 1978, § 1-4-5.6. 
+
+> Specifically, on or about March 29, 2021, Mr. Lippert submitted a signed affidavit requesting the name, address, year of birth, party affiliation, precinct assignment, jurisdiction, registrant ID number, voter history, method of voting (absentee, early, or election day), and all districts associated with each and every registered voter in the State of New Mexico. See Exhibit 1. Mr. Lippert provided a Minnesota street address and telephone number. Id. Under “Organization,” he listed “Local Labs,” and included an email address ending in @locallabs.com. Id. Then, on or about April 14, 2021, Mr. Lippert submitted payment for this request in the amount of $5,378.12, providing the same street address, telephone number, and email address ending in @locallabs.com. See Exhibit 2. 
+
+> VRF already has the data—it obtained it unlawfully from an alternate source, Local Labs. Rather, VRF’s claim falls under Section 1-4-5.6, because that section prohibits the publication of voter data on the VRF (or any) website—a prohibition that does not depend on the data’s intended use separate from or subsequent to publication
+
+### Freedom of Information Act 
+
+The fake local journals are used as a front for FOIA requests:
+
+> I work for LocalLabs Media Services [...] Pursuant to the Freedom of Information Act (FOIA), I am requesting [...] : "
+
+> election data for last held election in your jurisdiction.
+
+> All written and electronic documents, including emails during the period of 11/8/16-5/1/17, referencing
+"election" and/or "Trump" and/or "Republican" and/or "conservative".
+
+> A list of all materials in your district that fall under the 1619 project.
+
+> Candidates who filed to run in the 2019 election including their name, address, party affiliation and date of birt
+
+[FOIA Requests](https://github.com/MassMove/AttackVectors/blob/master/LocalJournals/FOIA)
+
 ## Facebook
 
 Facebook is raking in tens of thousands of dollars from ad campaigns paid for by LGIS (Local Government Information Services) to promote the various local journals:
