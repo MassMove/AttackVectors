@@ -66,17 +66,23 @@ namespace FacebookUrlExtractor
                         if (facebookUrl != "") { 
                             var facebookSource = getWebResponse(facebookUrl);
 
-                            if (facebookSource.IndexOf("follower_count") > 0) { 
-                                int facebookFollowersStart = facebookSource.IndexOf("follower_count") + "follower_count".Length + 2;
-                                int facebookFollowersEnd = facebookSource.IndexOf(",", facebookFollowersStart);
+                            var textTag = "text\":";
+
+                            var followersTag = " followers\"}";
+                            int facebookFollowersStart = facebookSource.IndexOf(followersTag);
+                            facebookFollowersStart = facebookSource.IndexOf(textTag, facebookFollowersStart - followersTag.Length - textTag.Length) + textTag.Length + 1;
+                            if (facebookFollowersStart > 0) { 
+                                int facebookFollowersEnd = facebookSource.IndexOf(" ", facebookFollowersStart - 2);
                                 facebookFollowers = facebookSource.Substring(facebookFollowersStart, facebookFollowersEnd - facebookFollowersStart);
                             }
 
-                            if (facebookSource.IndexOf("global_likers_count") > 0)
+                            var likesTag = " likes\"}";
+                            int facebookLikesStart = facebookSource.IndexOf(likesTag);
+                            facebookLikesStart = facebookSource.IndexOf(textTag, facebookLikesStart - likesTag.Length - textTag.Length) + textTag.Length + 1;
+                            if (facebookLikesStart > 0)
                             {
-                                int facebookLikesStart = facebookSource.IndexOf("global_likers_count") + "global_likers_count".Length + 2;
-                                int facebookLikesEnd = facebookSource.IndexOf(",", facebookLikesStart);
-                                facebookLikes = facebookSource.Substring(facebookLikesStart, facebookLikesEnd - facebookLikesStart - 1);
+                                int facebookLikesEnd = facebookSource.IndexOf(" ", facebookLikesStart - 2);
+                                facebookLikes = facebookSource.Substring(facebookLikesStart, facebookLikesEnd - facebookLikesStart);
                             }
 
                             Console.Write(" - " + facebookFollowers + ", " + facebookLikes);
